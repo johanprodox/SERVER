@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-04-10 18:45:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-04-10 16:30:28 +0000"
@@ -140,6 +146,12 @@
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-04-10 18:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-10 18:32:53 +0000"
     },
     "done": true
   },
@@ -266,6 +278,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-04-10 15:55:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-04-10 18:44:43 +0000"
     },
     "done": true
   },
@@ -570,6 +588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-10 18:32:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-04-10 15:48:39 +0000"
@@ -654,10 +678,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-04-10 18:44:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-04-10 15:40:14 +0000",
       "minecraft:mountains": "2025-04-10 16:02:10 +0000",
+      "minecraft:desert_hills": "2025-04-10 18:43:49 +0000",
+      "minecraft:desert": "2025-04-10 18:43:43 +0000",
       "minecraft:savanna_plateau": "2025-04-10 17:25:56 +0000",
       "minecraft:beach": "2025-04-10 16:03:08 +0000",
       "minecraft:river": "2025-04-10 16:02:41 +0000",
@@ -688,6 +720,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-04-10 17:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-10 18:45:55 +0000"
     },
     "done": true
   },
@@ -1059,6 +1097,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-04-10 17:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-10 18:32:53 +0000"
     },
     "done": true
   },
