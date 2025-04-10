@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-10 19:26:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-04-10 16:30:49 +0000"
@@ -215,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-10 19:23:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-04-10 15:44:06 +0000"
@@ -308,6 +320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-04-10 19:23:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-04-10 16:30:28 +0000"
@@ -365,6 +383,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-10 16:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-10 19:26:46 +0000"
     },
     "done": true
   },
@@ -787,9 +811,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-04-10 19:23:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2025-04-10 19:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-10 19:32:42 +0000"
     },
     "done": true
   },
@@ -844,6 +880,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-10 16:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-10 19:26:46 +0000"
     },
     "done": true
   },

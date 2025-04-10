@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-10 19:32:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-10 14:54:38 +0000"
@@ -561,6 +567,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-04-10 15:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-10 19:32:32 +0000"
     },
     "done": true
   },
@@ -904,6 +916,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-10 17:17:21 +0000",
       "minecraft:skeleton": "2025-04-10 17:19:19 +0000",
+      "minecraft:creeper": "2025-04-10 19:32:31 +0000",
       "minecraft:husk": "2025-04-10 17:19:29 +0000",
       "minecraft:piglin": "2025-04-10 19:14:35 +0000",
       "minecraft:silverfish": "2025-04-10 18:34:01 +0000"

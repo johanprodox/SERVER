@@ -325,6 +325,7 @@
       "sweet_berries": "2025-04-10 19:06:02 +0000",
       "cooked_beef": "2025-04-10 18:03:24 +0000",
       "porkchop": "2025-04-10 14:35:03 +0000",
+      "apple": "2025-04-10 19:30:10 +0000",
       "mutton": "2025-04-10 14:40:28 +0000",
       "rotten_flesh": "2025-04-10 15:12:57 +0000",
       "melon_slice": "2025-04-10 18:52:35 +0000",
@@ -988,6 +989,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-04-10 14:33:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2025-04-10 19:29:38 +0000"
     },
     "done": true
   },
