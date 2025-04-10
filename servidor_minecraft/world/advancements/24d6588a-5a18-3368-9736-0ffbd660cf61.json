@@ -281,6 +281,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-04-10 16:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-10 16:38:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-10 15:43:01 +0000"
@@ -301,10 +313,13 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-04-10 16:45:13 +0000",
       "beef": "2025-04-10 14:41:26 +0000",
       "porkchop": "2025-04-10 14:38:32 +0000",
+      "rabbit": "2025-04-10 16:33:08 +0000",
       "mutton": "2025-04-10 14:56:39 +0000",
-      "bread": "2025-04-10 14:44:51 +0000"
+      "bread": "2025-04-10 14:44:51 +0000",
+      "rotten_flesh": "2025-04-10 16:49:41 +0000"
     },
     "done": false
   },
@@ -323,6 +338,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-04-10 14:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-10 16:34:17 +0000"
     },
     "done": true
   },
@@ -578,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2025-04-10 16:37:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-04-10 14:41:44 +0000"
@@ -641,6 +668,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-04-10 14:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-04-10 16:31:40 +0000"
     },
     "done": true
   },
@@ -770,6 +803,14 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-04-10 17:17:21 +0000",
+      "minecraft:skeleton": "2025-04-10 17:19:19 +0000",
+      "minecraft:husk": "2025-04-10 17:19:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-04-10 14:47:11 +0000"
@@ -839,6 +880,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 14:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-10 16:34:17 +0000"
     },
     "done": true
   },
@@ -950,6 +997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2025-04-10 17:16:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-04-10 14:56:36 +0000"
@@ -977,6 +1030,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-04-10 14:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-10 16:31:40 +0000"
     },
     "done": true
   },
@@ -1067,6 +1126,18 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2025-04-10 15:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-10 17:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-04-10 16:34:17 +0000"
     },
     "done": true
   },
@@ -1280,6 +1351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-04-10 16:31:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-10 14:38:47 +0000"
@@ -1307,6 +1384,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-04-10 14:59:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:pillager": "2025-04-10 17:17:21 +0000"
     },
     "done": true
   },
@@ -1367,6 +1450,8 @@
       "minecraft:beach": "2025-04-10 15:10:09 +0000",
       "minecraft:dark_forest": "2025-04-10 14:57:06 +0000",
       "minecraft:river": "2025-04-10 14:32:34 +0000",
+      "minecraft:birch_forest_hills": "2025-04-10 17:16:50 +0000",
+      "minecraft:wooded_hills": "2025-04-10 17:16:58 +0000",
       "minecraft:savanna": "2025-04-10 14:35:53 +0000",
       "minecraft:plains": "2025-04-10 14:32:16 +0000"
     },
@@ -1405,6 +1490,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 14:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-10 16:34:17 +0000"
     },
     "done": true
   },
@@ -1502,6 +1593,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-04-10 14:41:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-04-10 16:34:17 +0000"
     },
     "done": true
   },

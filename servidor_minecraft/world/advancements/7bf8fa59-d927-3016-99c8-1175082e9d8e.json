@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-10 17:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-04-10 14:33:22 +0000"
@@ -77,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-10 16:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-04-10 14:54:48 +0000"
@@ -116,6 +128,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-04-10 16:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-04-10 17:04:35 +0000"
     },
     "done": true
   },
@@ -191,9 +209,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-10 17:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-10 16:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-10 16:56:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-04-10 14:33:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-10 17:09:55 +0000"
     },
     "done": true
   },
@@ -216,7 +258,8 @@
       "cooked_mutton": "2025-04-10 14:48:14 +0000",
       "porkchop": "2025-04-10 14:35:03 +0000",
       "mutton": "2025-04-10 14:40:28 +0000",
-      "rotten_flesh": "2025-04-10 15:12:57 +0000"
+      "rotten_flesh": "2025-04-10 15:12:57 +0000",
+      "cooked_chicken": "2025-04-10 16:27:29 +0000"
     },
     "done": false
   },
@@ -229,6 +272,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 14:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-10 16:35:53 +0000"
     },
     "done": true
   },
@@ -328,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-10 17:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-10 14:30:40 +0000"
@@ -337,6 +392,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-04-10 14:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-10 17:20:41 +0000"
     },
     "done": true
   },
@@ -532,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 17:09:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-04-10 14:49:16 +0000"
@@ -586,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-10 17:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-10 14:55:30 +0000",
@@ -594,6 +667,12 @@
       "minecraft:zombie": "2025-04-10 14:55:00 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-10 16:53:02 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
@@ -604,6 +683,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-04-10 14:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-10 16:35:53 +0000"
     },
     "done": true
   },
@@ -622,6 +707,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-04-10 14:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-10 17:04:35 +0000"
     },
     "done": true
   },
@@ -727,6 +818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-10 17:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-04-10 14:33:22 +0000"
@@ -742,6 +839,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-04-10 14:33:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-10 16:33:46 +0000"
     },
     "done": true
   },
@@ -859,6 +962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-10 17:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-10 14:30:40 +0000"
@@ -886,6 +995,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-04-10 16:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-10 16:27:21 +0000"
     },
     "done": true
   },
@@ -967,6 +1082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-10 16:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-04-10 14:51:00 +0000"
@@ -1020,10 +1141,15 @@
       "minecraft:forest": "2025-04-10 14:34:03 +0000",
       "minecraft:desert_hills": "2025-04-10 16:16:49 +0000",
       "minecraft:desert": "2025-04-10 14:54:15 +0000",
+      "minecraft:birch_forest": "2025-04-10 17:08:08 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-10 15:05:20 +0000",
+      "minecraft:savanna_plateau": "2025-04-10 16:57:29 +0000",
       "minecraft:beach": "2025-04-10 14:34:57 +0000",
+      "minecraft:dark_forest": "2025-04-10 17:09:40 +0000",
       "minecraft:river": "2025-04-10 14:56:17 +0000",
       "minecraft:lukewarm_ocean": "2025-04-10 15:05:09 +0000",
+      "minecraft:birch_forest_hills": "2025-04-10 17:09:25 +0000",
+      "minecraft:wooded_hills": "2025-04-10 17:07:35 +0000",
       "minecraft:savanna": "2025-04-10 14:39:03 +0000",
       "minecraft:plains": "2025-04-10 14:28:37 +0000"
     },
@@ -1143,6 +1269,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-04-10 16:53:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-04-10 16:17:12 +0000"
@@ -1197,6 +1329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2025-04-10 17:03:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-04-10 14:30:50 +0000"
@@ -1212,6 +1350,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-04-10 14:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-10 17:04:35 +0000"
     },
     "done": true
   },

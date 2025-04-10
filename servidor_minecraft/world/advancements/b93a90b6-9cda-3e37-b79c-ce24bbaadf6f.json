@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-10 16:52:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-10 14:54:49 +0000"
@@ -110,6 +116,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-04-10 14:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-10 17:04:04 +0000"
     },
     "done": true
   },
@@ -149,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-10 16:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-04-10 14:32:41 +0000"
@@ -185,6 +203,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-10 17:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-10 16:41:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-04-10 14:34:46 +0000"
@@ -200,6 +230,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 14:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2025-04-10 16:49:19 +0000"
     },
     "done": true
   },
@@ -222,6 +258,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 14:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-10 16:41:56 +0000"
     },
     "done": true
   },
@@ -288,6 +330,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-04-10 14:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-10 17:04:04 +0000"
     },
     "done": true
   },
@@ -601,6 +649,12 @@
     },
     "done": false
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-10 16:52:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-10 15:13:14 +0000"
@@ -622,6 +676,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-04-10 14:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-10 16:41:56 +0000"
     },
     "done": true
   },
@@ -772,6 +832,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-04-10 14:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-10 16:41:56 +0000"
     },
     "done": true
   },
@@ -1009,6 +1075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-10 16:41:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-04-10 14:47:27 +0000"
@@ -1068,10 +1140,15 @@
       "minecraft:forest": "2025-04-10 14:34:01 +0000",
       "minecraft:desert_hills": "2025-04-10 14:55:59 +0000",
       "minecraft:desert": "2025-04-10 14:50:22 +0000",
+      "minecraft:birch_forest": "2025-04-10 17:07:50 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-10 15:05:20 +0000",
+      "minecraft:savanna_plateau": "2025-04-10 16:57:37 +0000",
       "minecraft:beach": "2025-04-10 14:30:10 +0000",
+      "minecraft:dark_forest": "2025-04-10 17:09:40 +0000",
       "minecraft:river": "2025-04-10 14:24:51 +0000",
       "minecraft:lukewarm_ocean": "2025-04-10 15:05:09 +0000",
+      "minecraft:birch_forest_hills": "2025-04-10 17:09:24 +0000",
+      "minecraft:wooded_hills": "2025-04-10 17:07:22 +0000",
       "minecraft:savanna": "2025-04-10 14:34:45 +0000",
       "minecraft:plains": "2025-04-10 14:23:53 +0000"
     },
@@ -1155,6 +1232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-04-10 16:49:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 14:47:56 +0000"
@@ -1209,6 +1292,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-04-10 16:52:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-04-10 14:33:35 +0000"
@@ -1254,6 +1343,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-04-10 14:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2025-04-10 17:03:55 +0000"
     },
     "done": true
   },
