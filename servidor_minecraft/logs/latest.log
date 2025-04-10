@@ -1,14 +1,137 @@
-[15:38:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:38:13] [main/FATAL]: Failed to start the minecraft server
-net.minecraft.server.v1_16_R3.SessionLock$ExceptionWorldConflict: /workspaces/SERVER/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
-	at net.minecraft.server.v1_16_R3.SessionLock$ExceptionWorldConflict.a(SourceFile:98) ~[patched_1.16.4.jar:git-Paper-416]
-	at net.minecraft.server.v1_16_R3.SessionLock.a(SourceFile:44) ~[patched_1.16.4.jar:git-Paper-416]
-	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.<init>(Convertable.java:218) ~[patched_1.16.4.jar:git-Paper-416]
-	at net.minecraft.server.v1_16_R3.Convertable.c(Convertable.java:200) ~[patched_1.16.4.jar:git-Paper-416]
-	at net.minecraft.server.v1_16_R3.Main.main(Main.java:113) ~[patched_1.16.4.jar:git-Paper-416]
-	at org.bukkit.craftbukkit.Main.main(Main.java:276) ~[patched_1.16.4.jar:git-Paper-416]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
-	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
-	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
-	at io.papermc.paperclip.Paperclip.main(Paperclip.java:58) ~[paper.jar:?]
+[15:53:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:53:20] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[15:53:20] [Worker-Main-2/INFO]: Loaded 7 recipes
+[15:53:21] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[15:53:21] [Server thread/INFO]: Loading properties
+[15:53:21] [Server thread/INFO]: This server is running Paper version git-Paper-416 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[15:53:21] [Server thread/INFO]: Debug logging is disabled
+[15:53:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:53:21] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:53:21] [Server thread/INFO]: Default game type: SURVIVAL
+[15:53:21] [Server thread/INFO]: Generating keypair
+[15:53:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:53:22] [Server thread/INFO]: Using epoll channel type
+[15:53:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:53:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:53:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:53:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:53:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:53:22] [Server thread/INFO]: Preparing level "world"
+[15:53:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:53:23] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[15:53:23] [Server thread/INFO]: Preparing spawn area: 0%
+[15:53:23] [Server thread/INFO]: Preparing spawn area: 0%
+[15:53:23] [Server thread/INFO]: Preparing spawn area: 0%
+[15:53:23] [Server thread/INFO]: Time elapsed: 1224 ms
+[15:53:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:53:23] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[15:53:23] [Server thread/INFO]: Preparing spawn area: 0%
+[15:53:24] [Server thread/INFO]: Time elapsed: 388 ms
+[15:53:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:53:24] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[15:53:24] [Server thread/INFO]: Preparing spawn area: 0%
+[15:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 100%
+[15:53:24] [Server thread/INFO]: Time elapsed: 656 ms
+[15:53:24] [Server thread/INFO]: Running delayed init tasks
+[15:53:24] [Server thread/INFO]: Done (3.157s)! For help, type "help"
+[15:53:24] [Server thread/INFO]: Timings Reset
+[15:53:41] [User Authenticator #1/INFO]: UUID of player LinenFeather949 is 43e0a2df-b9b5-3dcc-bcaf-9e76a1fc8542
+[15:53:41] [Server thread/INFO]: LinenFeather949 joined the game
+[15:53:41] [Server thread/INFO]: LinenFeather949[/127.51.52.34:41511] logged in with entity id 476 at ([world]166.87785246935786, 66.0, -768.8929101543084)
+[15:54:07] [User Authenticator #1/INFO]: UUID of player DieGoo0oo0 is 2aa80728-28a9-3a5c-a541-e4a399bbccce
+[15:54:07] [Server thread/INFO]: DieGoo0oo0 joined the game
+[15:54:07] [Server thread/INFO]: DieGoo0oo0[/127.227.44.37:38205] logged in with entity id 841 at ([world]73.41941011656675, 55.0, -467.69999998807907)
+[15:54:21] [Async Chat Thread - #0/INFO]: <DieGoo0oo0> o linen quien eres?
+[15:54:31] [Async Chat Thread - #0/INFO]: <LinenFeather949> angelo
+[15:54:37] [Async Chat Thread - #0/INFO]: <DieGoo0oo0> asu q negro
+[15:54:41] [Async Chat Thread - #0/INFO]: <LinenFeather949> :vç
+[15:54:47] [User Authenticator #1/INFO]: UUID of player Kiwing is 80e8e31c-31e1-3003-a2ee-ff97818bee8b
+[15:54:47] [Server thread/INFO]: Kiwing joined the game
+[15:54:47] [Server thread/INFO]: Kiwing[/127.210.68.95:41513] logged in with entity id 1253 at ([world]-4702.495285373679, 89.0, -2947.611309581585)
+[15:54:49] [User Authenticator #1/INFO]: UUID of player AngelMatias is 956fbac0-9aab-3a25-b029-d787586e7b02
+[15:54:49] [Server thread/INFO]: AngelMatias joined the game
+[15:54:49] [Server thread/INFO]: AngelMatias[/127.218.61.44:38863] logged in with entity id 1446 at ([world]22.741661221506728, 65.0, -393.07446002952963)
+[15:54:55] [Async Chat Thread - #0/INFO]: <LinenFeather949> osi osi
+[15:54:56] [User Authenticator #1/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
+[15:54:56] [Server thread/INFO]: GaccGamer joined the game
+[15:54:56] [Server thread/INFO]: GaccGamer[/127.145.191.23:43915] logged in with entity id 1730 at ([world]-225.34378992970838, 68.0, -653.1231906499813)
+[15:55:08] [Server thread/INFO]: AngelMatias has made the advancement [Stone Age]
+[15:55:08] [Server thread/INFO]: Banned AngelMatias: nose quien eres p
+[15:55:08] [Server thread/INFO]: AngelMatias lost connection: You are banned from this server
+[15:55:08] [Server thread/INFO]: AngelMatias left the game
+[15:55:12] [Async Chat Thread - #0/INFO]: <LinenFeather949> oe no q hiban a poner tpa
+[15:55:13] [User Authenticator #1/INFO]: UUID of player AngelMatias is 956fbac0-9aab-3a25-b029-d787586e7b02
+[15:55:13] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@394f23bf[id=956fbac0-9aab-3a25-b029-d787586e7b02,name=AngelMatias,properties={},legacy=false] (/127.218.61.44:45439): You are banned from this server.
+Reason: nose quien eres p
+[15:55:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@394f23bf[id=956fbac0-9aab-3a25-b029-d787586e7b02,name=AngelMatias,properties={},legacy=false] (/127.218.61.44:45439) lost connection: You are banned from this server.
+Reason: nose quien eres p
+[15:55:19] [Server thread/INFO]: DieGoo0oo0 has made the advancement [Getting an Upgrade]
+[15:55:26] [Async Chat Thread - #0/INFO]: <DieGoo0oo0> eso es de ratas
+[15:55:32] [Async Chat Thread - #0/INFO]: <LinenFeather949> xd
+[15:55:41] [Server thread/WARN]: GaccGamer was kicked due to keepalive timeout!
+[15:55:41] [Server thread/INFO]: GaccGamer lost connection: Timed out
+[15:55:41] [Server thread/INFO]: GaccGamer left the game
+[15:56:10] [User Authenticator #1/INFO]: UUID of player AngelMatias is 956fbac0-9aab-3a25-b029-d787586e7b02
+[15:56:10] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@394f23bf[id=956fbac0-9aab-3a25-b029-d787586e7b02,name=AngelMatias,properties={},legacy=false] (/127.218.61.44:51693): You are banned from this server.
+Reason: nose quien eres p
+[15:56:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@394f23bf[id=956fbac0-9aab-3a25-b029-d787586e7b02,name=AngelMatias,properties={},legacy=false] (/127.218.61.44:51693) lost connection: You are banned from this server.
+Reason: nose quien eres p
+[15:56:19] [User Authenticator #1/INFO]: UUID of player AngelMatias is 956fbac0-9aab-3a25-b029-d787586e7b02
+[15:56:19] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@394f23bf[id=956fbac0-9aab-3a25-b029-d787586e7b02,name=AngelMatias,properties={},legacy=false] (/127.218.61.44:51089): You are banned from this server.
+Reason: nose quien eres p
+[15:56:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@394f23bf[id=956fbac0-9aab-3a25-b029-d787586e7b02,name=AngelMatias,properties={},legacy=false] (/127.218.61.44:51089) lost connection: You are banned from this server.
+Reason: nose quien eres p
+[15:56:28] [User Authenticator #1/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
+[15:56:28] [Server thread/INFO]: GaccGamer joined the game
+[15:56:28] [Server thread/INFO]: GaccGamer[/127.145.191.23:35265] logged in with entity id 2762 at ([world]-188.3099870172372, 71.0, -608.5411239131695)
+[15:57:02] [Server thread/INFO]: DieGoo0oo0 has made the advancement [Monster Hunter]
+[15:57:18] [User Authenticator #1/INFO]: UUID of player AngelMatias is 956fbac0-9aab-3a25-b029-d787586e7b02
+[15:57:18] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@394f23bf[id=956fbac0-9aab-3a25-b029-d787586e7b02,name=AngelMatias,properties={},legacy=false] (/127.218.61.44:54919): You are banned from this server.
+Reason: nose quien eres p
+[15:57:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@394f23bf[id=956fbac0-9aab-3a25-b029-d787586e7b02,name=AngelMatias,properties={},legacy=false] (/127.218.61.44:54919) lost connection: You are banned from this server.
+Reason: nose quien eres p
+[15:58:04] [Server thread/INFO]: Unbanned AngelMatias
+[15:58:07] [User Authenticator #1/INFO]: UUID of player AngelMatias is 956fbac0-9aab-3a25-b029-d787586e7b02
+[15:58:07] [Server thread/INFO]: AngelMatias joined the game
+[15:58:07] [Server thread/INFO]: AngelMatias[/127.218.61.44:37421] logged in with entity id 3725 at ([world]22.376832736498063, 65.0, -396.80884378572443)
+[15:58:25] [Async Chat Thread - #1/INFO]: <DieGoo0oo0> busco team
+[15:58:32] [Async Chat Thread - #1/INFO]: <AngelMatias> yo te busco a ti...
+[15:58:34] [Async Chat Thread - #1/INFO]: <DieGoo0oo0> quien afroce culo?
+[15:58:38] [Async Chat Thread - #1/INFO]: <AngelMatias> silvestre
+[15:58:43] [Async Chat Thread - #1/INFO]: <GaccGamer> el diegooo raidea
+[15:58:45] [Async Chat Thread - #1/INFO]: <DieGoo0oo0> ese acada rato
+[15:58:46] [User Authenticator #1/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
+[15:58:46] [Server thread/INFO]: johanprodox joined the game
+[15:58:46] [Server thread/INFO]: johanprodox[/127.251.51.31:58989] logged in with entity id 4089 at ([world]630.9525272429618, 56.5625, -229.1194687897926)
+[15:58:49] [Async Chat Thread - #1/INFO]: <GaccGamer> nomas digo :v
+[15:59:02] [Async Chat Thread - #1/INFO]: <DieGoo0oo0> yo raideo
+[15:59:06] [Async Chat Thread - #1/INFO]: <DieGoo0oo0> pero a mi team no p
+[15:59:16] [Async Chat Thread - #1/INFO]: <GaccGamer> si no
+[15:59:33] [Async Chat Thread - #1/INFO]: <DieGoo0oo0> broh te voy a dejar igual q la otra vez
+[15:59:46] [Async Chat Thread - #1/INFO]: <GaccGamer> cual otra vez
+[15:59:55] [Server thread/INFO]: DieGoo0oo0 has made the advancement [Acquire Hardware]
+[15:59:57] [Async Chat Thread - #1/INFO]: <GaccGamer> si la otra vez te deje embarazo de un trillizo
+[16:00:07] [Async Chat Thread - #1/INFO]: <DieGoo0oo0> shhh mentirsillo
+[16:00:13] [Async Chat Thread - #1/INFO]: <DieGoo0oo0> si esa vez te meti el pne
+[16:00:22] [Async Chat Thread - #1/INFO]: <GaccGamer> creo
+[16:00:25] [Server thread/INFO]: DieGoo0oo0 has made the advancement [Suit Up]
+[16:00:42] [Async Chat Thread - #1/INFO]: <AngelMatias> alguien se paso minecraft'
+[16:01:02] [Async Chat Thread - #1/INFO]: <AngelMatias> esta sera mi cincuentaba vez
+[16:01:11] [Async Chat Thread - #1/INFO]: <AngelMatias> en la que no lo hago
+[16:01:18] [Async Chat Thread - #1/INFO]: <DieGoo0oo0> XD
+[16:01:51] [Server thread/INFO]: DieGoo0oo0 has made the advancement [Not Today, Thank You]
+[16:02:09] [Server thread/INFO]: Teleported AngelMatias to Kiwing
+[16:02:11] [Async Chat Thread - #1/INFO]: <LinenFeather949> diego rechazando pinga?
+[16:02:12] [Server thread/INFO]: AngelMatias fell from a high place
+[16:02:27] [Async Chat Thread - #1/INFO]: <DieGoo0oo0> q linen tu si aceptarias?
+[16:02:38] [Async Chat Thread - #1/INFO]: <AngelMatias> QUEEEE
+[16:02:41] [Async Chat Thread - #1/INFO]: <DieGoo0oo0> comooo
+[16:02:46] [Async Chat Thread - #1/INFO]: <LinenFeather949> no mano solo digo
+[16:02:48] [Async Chat Thread - #1/INFO]: <LinenFeather949> me sorprende
+[16:02:57] [Async Chat Thread - #1/INFO]: <AngelMatias> digo
+[16:02:57] [Async Chat Thread - #1/INFO]: <DieGoo0oo0> shhh
+[16:03:00] [Async Chat Thread - #1/INFO]: <AngelMatias> XDDD
+[16:03:03] [Async Chat Thread - #1/INFO]: <LinenFeather949> jajjaj7
+[16:03:03] [Async Chat Thread - #1/INFO]: <DieGoo0oo0> XD
+[16:03:14] [Async Chat Thread - #1/INFO]: <GaccGamer> XD
+[16:03:15] [Server thread/INFO]: AngelMatias issued server command: /w Kiwing agarra mis cosas
