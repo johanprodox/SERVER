@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2025-04-10 17:57:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-04-10 14:33:22 +0000"
@@ -236,6 +242,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-04-10 17:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-10 17:34:15 +0000"
     },
     "done": true
   },
@@ -1150,6 +1162,7 @@
       "minecraft:lukewarm_ocean": "2025-04-10 15:05:09 +0000",
       "minecraft:birch_forest_hills": "2025-04-10 17:09:25 +0000",
       "minecraft:wooded_hills": "2025-04-10 17:07:35 +0000",
+      "minecraft:swamp": "2025-04-10 17:42:32 +0000",
       "minecraft:savanna": "2025-04-10 14:39:03 +0000",
       "minecraft:plains": "2025-04-10 14:28:37 +0000"
     },

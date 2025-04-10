@@ -1138,6 +1138,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-04-10 14:34:01 +0000",
+      "minecraft:mountains": "2025-04-10 17:56:07 +0000",
       "minecraft:desert_hills": "2025-04-10 14:55:59 +0000",
       "minecraft:desert": "2025-04-10 14:50:22 +0000",
       "minecraft:birch_forest": "2025-04-10 17:07:50 +0000",
@@ -1149,6 +1150,7 @@
       "minecraft:lukewarm_ocean": "2025-04-10 15:05:09 +0000",
       "minecraft:birch_forest_hills": "2025-04-10 17:09:24 +0000",
       "minecraft:wooded_hills": "2025-04-10 17:07:22 +0000",
+      "minecraft:swamp": "2025-04-10 17:42:31 +0000",
       "minecraft:savanna": "2025-04-10 14:34:45 +0000",
       "minecraft:plains": "2025-04-10 14:23:53 +0000"
     },
@@ -1247,6 +1249,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-10 14:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-10 17:35:03 +0000"
     },
     "done": true
   },
