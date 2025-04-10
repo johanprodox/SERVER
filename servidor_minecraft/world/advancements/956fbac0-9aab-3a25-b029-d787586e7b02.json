@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-10 16:03:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-04-10 15:55:08 +0000"
@@ -51,7 +57,9 @@
     "criteria": {
       "minecraft:forest": "2025-04-10 15:40:14 +0000",
       "minecraft:mountains": "2025-04-10 16:02:10 +0000",
+      "minecraft:beach": "2025-04-10 16:03:08 +0000",
       "minecraft:river": "2025-04-10 16:02:41 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-10 16:03:15 +0000",
       "minecraft:plains": "2025-04-10 15:39:22 +0000"
     },
     "done": false
@@ -98,6 +106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-10 16:13:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-04-10 15:55:08 +0000"
@@ -131,6 +145,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-04-10 15:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-04-10 16:05:32 +0000"
     },
     "done": true
   },
@@ -212,6 +232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2025-04-10 16:03:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-04-10 15:48:43 +0000"
@@ -239,6 +265,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-04-10 15:55:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-10 16:05:32 +0000"
     },
     "done": true
   },
