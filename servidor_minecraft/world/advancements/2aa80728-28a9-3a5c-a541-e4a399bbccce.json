@@ -267,6 +267,7 @@
     "criteria": {
       "cooked_beef": "2025-04-10 16:20:42 +0000",
       "porkchop": "2025-04-10 16:54:20 +0000",
+      "apple": "2025-04-10 18:59:45 +0000",
       "rotten_flesh": "2025-04-10 16:20:45 +0000",
       "cooked_chicken": "2025-04-10 16:20:33 +0000"
     },
@@ -1176,6 +1177,7 @@
       "minecraft:desert": "2025-04-10 17:02:43 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-10 16:15:52 +0000",
       "minecraft:beach": "2025-04-10 15:42:44 +0000",
+      "minecraft:dark_forest": "2025-04-10 19:00:14 +0000",
       "minecraft:river": "2025-04-10 15:42:26 +0000",
       "minecraft:lukewarm_ocean": "2025-04-10 16:15:40 +0000",
       "minecraft:wooded_hills": "2025-04-10 16:28:30 +0000",

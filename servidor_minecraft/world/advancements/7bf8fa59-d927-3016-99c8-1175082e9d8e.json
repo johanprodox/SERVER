@@ -309,7 +309,8 @@
       "mutton": "2025-04-10 14:40:28 +0000",
       "rotten_flesh": "2025-04-10 15:12:57 +0000",
       "melon_slice": "2025-04-10 18:52:35 +0000",
-      "cooked_chicken": "2025-04-10 16:27:29 +0000"
+      "cooked_chicken": "2025-04-10 16:27:29 +0000",
+      "carrot": "2025-04-10 18:55:50 +0000"
     },
     "done": false
   },
@@ -1341,6 +1342,7 @@
     "criteria": {
       "minecraft:forest": "2025-04-10 14:34:03 +0000",
       "minecraft:mountains": "2025-04-10 18:17:26 +0000",
+      "minecraft:taiga": "2025-04-10 18:59:34 +0000",
       "minecraft:desert_hills": "2025-04-10 16:16:49 +0000",
       "minecraft:desert": "2025-04-10 14:54:15 +0000",
       "minecraft:birch_forest": "2025-04-10 17:08:08 +0000",
@@ -1451,6 +1453,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-10 14:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-10 18:55:42 +0000"
     },
     "done": true
   },
