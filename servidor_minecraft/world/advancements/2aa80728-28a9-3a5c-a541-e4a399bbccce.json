@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-10 19:08:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-10 15:57:03 +0000"
@@ -265,6 +271,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2025-04-10 19:04:06 +0000",
       "cooked_beef": "2025-04-10 16:20:42 +0000",
       "porkchop": "2025-04-10 16:54:20 +0000",
       "apple": "2025-04-10 18:59:45 +0000",
@@ -594,6 +601,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 15:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 19:08:29 +0000"
     },
     "done": true
   },

@@ -739,7 +739,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:hoglin": "2025-04-10 18:14:38 +0000",
-      "minecraft:piglin_brute": "2025-04-10 17:08:00 +0000"
+      "minecraft:piglin_brute": "2025-04-10 17:08:00 +0000",
+      "minecraft:zombie": "2025-04-10 19:06:09 +0000",
+      "minecraft:zombie_villager": "2025-04-10 19:12:01 +0000"
     },
     "done": false
   },
@@ -1037,9 +1039,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-04-10 19:03:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-04-10 16:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-10 19:12:03 +0000"
     },
     "done": true
   },
