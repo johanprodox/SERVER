@@ -732,15 +732,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-04-10 19:09:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-04-10 18:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-10 19:09:45 +0000"
     },
     "done": true
   },

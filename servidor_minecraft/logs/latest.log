@@ -1,765 +1,122 @@
-[17:53:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:53:19] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[17:53:20] [Worker-Main-2/INFO]: Loaded 7 recipes
-[17:53:21] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[17:53:21] [Server thread/INFO]: Loading properties
-[17:53:21] [Server thread/INFO]: This server is running Paper version git-Paper-416 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
-[17:53:21] [Server thread/INFO]: Debug logging is disabled
-[17:53:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:53:21] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:53:21] [Server thread/INFO]: Default game type: SURVIVAL
-[17:53:21] [Server thread/INFO]: Generating keypair
-[17:53:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:53:21] [Server thread/INFO]: Using epoll channel type
-[17:53:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:53:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:53:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:53:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:53:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:53:21] [Server thread/INFO]: Preparing level "world"
-[17:53:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:53:22] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[17:53:22] [Server thread/INFO]: Preparing spawn area: 0%
-[17:53:22] [Server thread/INFO]: Preparing spawn area: 0%
-[17:53:22] [Server thread/INFO]: Time elapsed: 943 ms
-[17:53:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:53:23] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[17:53:23] [Server thread/INFO]: Preparing spawn area: 0%
-[17:53:23] [Server thread/INFO]: Time elapsed: 150 ms
-[17:53:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:53:23] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
-[17:53:23] [Server thread/INFO]: Time elapsed: 79 ms
-[17:53:23] [Server thread/INFO]: Running delayed init tasks
-[17:53:23] [Server thread/INFO]: Done (1.825s)! For help, type "help"
-[17:53:23] [Server thread/INFO]: Timings Reset
-[17:53:44] [User Authenticator #1/INFO]: UUID of player LinenFeather949 is 43e0a2df-b9b5-3dcc-bcaf-9e76a1fc8542
-[17:53:44] [Server thread/INFO]: LinenFeather949 joined the game
-[17:53:44] [Server thread/INFO]: LinenFeather949[/127.51.52.34:35861] logged in with entity id 149 at ([world]-1495.699999988079, 51.0, -851.6817073614161)
-[17:53:48] [User Authenticator #1/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
-[17:53:48] [Server thread/INFO]: GaccGamer joined the game
-[17:53:48] [Server thread/INFO]: GaccGamer[/127.145.191.23:46843] logged in with entity id 401 at ([world_nether]-276.4112111713623, 40.0, 5.704939167377163)
-[17:53:49] [Async Chat Thread - #0/INFO]: <LinenFeather949> oc
-[17:53:54] [User Authenticator #1/INFO]: UUID of player Elpanamiguel_777 is 356f2a13-dbc2-334c-afa3-d724557be09d
-[17:53:54] [Server thread/INFO]: Elpanamiguel_777 joined the game
-[17:53:54] [Server thread/INFO]: Elpanamiguel_777[/127.88.243.213:44579] logged in with entity id 603 at ([world]-511.07644602300957, 23.0, -696.3390667924451)
-[17:54:04] [Server thread/INFO]: Elpanamiguel_777 lost connection: Disconnected
-[17:54:04] [Server thread/INFO]: Elpanamiguel_777 left the game
-[17:54:09] [User Authenticator #1/INFO]: UUID of player Elpanamiguel_777 is 356f2a13-dbc2-334c-afa3-d724557be09d
-[17:54:09] [Server thread/INFO]: Elpanamiguel_777 joined the game
-[17:54:09] [Server thread/INFO]: Elpanamiguel_777[/127.88.243.213:40209] logged in with entity id 1289 at ([world]-511.07644602300957, 23.0, -696.3390667924451)
-[17:54:11] [User Authenticator #1/INFO]: UUID of player Kiwing is 80e8e31c-31e1-3003-a2ee-ff97818bee8b
-[17:54:11] [Server thread/INFO]: Kiwing joined the game
-[17:54:11] [Server thread/INFO]: Kiwing[/127.210.68.95:53055] logged in with entity id 1293 at ([world]-6969.018672663107, 68.55000001192093, -5305.486023195841)
-[17:54:18] [Server thread/INFO]: Elpanamiguel_777 lost connection: Disconnected
-[17:54:18] [Server thread/INFO]: Elpanamiguel_777 left the game
-[17:54:18] [User Authenticator #1/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
-[17:54:18] [Server thread/INFO]: johanprodox joined the game
-[17:54:18] [Server thread/INFO]: johanprodox[/127.251.51.31:53541] logged in with entity id 1566 at ([world]-1696.6905860599657, 60.0, -529.7988351883034)
-[17:54:27] [User Authenticator #1/INFO]: UUID of player AngelMatias is 956fbac0-9aab-3a25-b029-d787586e7b02
-[17:54:27] [Server thread/INFO]: AngelMatias joined the game
-[17:54:27] [Server thread/INFO]: AngelMatias[/127.218.61.44:45361] logged in with entity id 1821 at ([world]-6982.302453636636, 66.9375, -5296.888047698109)
-[17:54:33] [Server thread/WARN]: GaccGamer was kicked due to keepalive timeout!
-[17:54:33] [Server thread/INFO]: GaccGamer lost connection: Timed out
-[17:54:33] [Server thread/INFO]: GaccGamer left the game
-[17:54:33] [User Authenticator #1/INFO]: UUID of player Elpanamiguel_777 is 356f2a13-dbc2-334c-afa3-d724557be09d
-[17:54:33] [Server thread/INFO]: Elpanamiguel_777 joined the game
-[17:54:33] [Server thread/INFO]: Elpanamiguel_777[/127.88.243.213:53357] logged in with entity id 1926 at ([world]-511.07644602300957, 23.0, -696.3390667924451)
-[17:54:44] [Server thread/INFO]: johanprodox issued server command: /plugins
-[17:54:54] [Server thread/INFO]: johanprodox issued server command: /bukkit:plugins
-[17:55:06] [Server thread/INFO]: johanprodox issued server command: /bukkit:version
-[17:55:06] [Thread-11/WARN]: java.io.IOException: Server returned HTTP response code: 403 for URL: https://papermc.io/api/v1/paper/1.16.4/latest
-[17:55:06] [Thread-11/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1961)
-[17:55:06] [Thread-11/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1557)
-[17:55:06] [Thread-11/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250)
-[17:55:06] [Thread-11/WARN]: 	at java.base/java.net.URL.openStream(URL.java:1165)
-[17:55:06] [Thread-11/WARN]: 	at com.google.common.io.Resources$UrlByteSource.openStream(Resources.java:72)
-[17:55:06] [Thread-11/WARN]: 	at com.google.common.io.ByteSource$AsCharSource.openStream(ByteSource.java:456)
-[17:55:06] [Thread-11/WARN]: 	at com.google.common.io.CharSource.openBufferedStream(CharSource.java:107)
-[17:55:06] [Thread-11/WARN]: 	at com.destroystokyo.paper.PaperVersionFetcher.fetchDistanceFromSiteApi(PaperVersionFetcher.java:78)
-[17:55:06] [Thread-11/WARN]: 	at com.destroystokyo.paper.PaperVersionFetcher.getUpdateStatusMessage(PaperVersionFetcher.java:54)
-[17:55:06] [Thread-11/WARN]: 	at com.destroystokyo.paper.PaperVersionFetcher.getVersionMessage(PaperVersionFetcher.java:28)
-[17:55:06] [Thread-11/WARN]: 	at org.bukkit.command.defaults.VersionCommand.obtainVersion(VersionCommand.java:235)
-[17:55:06] [Thread-11/WARN]: 	at org.bukkit.command.defaults.VersionCommand.access$000(VersionCommand.java:29)
-[17:55:06] [Thread-11/WARN]: 	at org.bukkit.command.defaults.VersionCommand$1.run(VersionCommand.java:188)
-[17:55:06] [Thread-11/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:829)
-[17:56:07] [User Authenticator #2/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[17:56:07] [Server thread/INFO]: rexer joined the game
-[17:56:07] [Server thread/INFO]: rexer[/127.109.181.221:41493] logged in with entity id 3370 at ([world]-1866.3623170423432, 69.162141421027, -760.7246285225593)
-[17:57:08] [Server thread/INFO]: johanprodox lost connection: Disconnected
-[17:57:08] [Server thread/INFO]: johanprodox left the game
-[17:57:25] [User Authenticator #3/INFO]: UUID of player kwimiii is 7bf8fa59-d927-3016-99c8-1175082e9d8e
-[17:57:25] [Server thread/INFO]: kwimiii joined the game
-[17:57:25] [Server thread/INFO]: kwimiii[/127.36.46.139:54595] logged in with entity id 4254 at ([world]-1683.3271063996212, 55.41999998688698, -523.6661586831447)
-[17:58:01] [Async Chat Thread - #1/INFO]: <LinenFeather949> q mrd
-[17:58:06] [Async Chat Thread - #1/INFO]: <LinenFeather949> dayron ven rapido
-[17:58:16] [Async Chat Thread - #1/INFO]: <rexer> q paso
-[17:58:23] [Async Chat Thread - #1/INFO]: <LinenFeather949> solo ven
-[17:58:39] [Async Chat Thread - #1/INFO]: <rexer> ok
-[17:59:29] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.6264305376053017
-[17:59:30] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.268535284662903
-[17:59:30] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.9031348598809927
-[17:59:30] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.5323539661621908
-[17:59:30] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 3.1769624830394605
-[17:59:30] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 3.82969577008771
-[17:59:51] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.3230045525942842
-[17:59:51] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.8873171665709378
-[18:00:46] [Async Chat Thread - #2/INFO]: <LinenFeather949> llegaste?
-[18:00:54] [Async Chat Thread - #2/INFO]: <rexer> no se usar coord tmr
-[18:01:01] [Async Chat Thread - #2/INFO]: <rexer> enviame donde dice block mas rapido
-[18:01:12] [Server thread/INFO]: LinenFeather949 lost connection: Disconnected
-[18:01:12] [Server thread/INFO]: LinenFeather949 left the game
-[18:01:20] [User Authenticator #4/INFO]: UUID of player LinenFeather949 is 43e0a2df-b9b5-3dcc-bcaf-9e76a1fc8542
-[18:01:20] [Server thread/INFO]: LinenFeather949 joined the game
-[18:01:20] [Server thread/INFO]: LinenFeather949[/127.51.52.34:42107] logged in with entity id 8093 at ([world]-1481.300000011921, 39.0, -868.7229408681466)
-[18:01:38] [Server thread/INFO]: LinenFeather949 lost connection: Disconnected
-[18:01:38] [Server thread/INFO]: LinenFeather949 left the game
-[18:01:40] [User Authenticator #4/INFO]: UUID of player LinenFeather949 is 43e0a2df-b9b5-3dcc-bcaf-9e76a1fc8542
-[18:01:40] [Server thread/INFO]: LinenFeather949 joined the game
-[18:01:40] [Server thread/INFO]: LinenFeather949[/127.51.52.34:47563] logged in with entity id 8297 at ([world]-1486.699999988079, 30.0, -868.6999999880791)
-[18:01:52] [Server thread/INFO]: LinenFeather949 lost connection: Disconnected
-[18:01:52] [Server thread/INFO]: LinenFeather949 left the game
-[18:02:10] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.27152382746498915
-[18:02:10] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.6996984175830221
-[18:02:10] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.0346018927320983
-[18:02:45] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.29451620552299573
-[18:02:45] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.7521321261683624
-[18:02:45] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.29891857893017
-[18:02:45] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.8963661438165218
-[18:02:45] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.0
-[18:02:45] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.0
-[18:02:45] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.0
-[18:02:46] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.0
-[18:02:46] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.0
-[18:02:46] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.0
-[18:02:50] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.25712854031098686
-[18:02:50] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.897396338247745
-[18:02:50] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.0
-[18:02:50] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.0
-[18:02:50] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.2979977380718992
-[18:02:50] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.7499546347116848
-[18:02:50] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.0
-[18:02:53] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.5976976642596128
-[18:02:53] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.2157840733561898
-[18:02:53] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.8169410621458155
-[18:02:53] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.4090394556651518
-[18:02:53] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.996290775464331
-[18:03:19] [User Authenticator #5/INFO]: UUID of player LinenFeather949 is 43e0a2df-b9b5-3dcc-bcaf-9e76a1fc8542
-[18:03:19] [Server thread/INFO]: LinenFeather949 joined the game
-[18:03:19] [Server thread/INFO]: LinenFeather949[/127.51.52.34:42727] logged in with entity id 10618 at ([world]-1486.699999988079, 29.0, -867.1766073386301)
-[18:03:28] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.2665584609048892
-[18:03:28] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.6642133988116257
-[18:03:40] [Server thread/INFO]: rexer lost connection: Disconnected
-[18:03:40] [Server thread/INFO]: rexer left the game
-[18:04:19] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.26729600815269805
-[18:04:52] [Server thread/INFO]: LinenFeather949 lost connection: Disconnected
-[18:04:52] [Server thread/INFO]: LinenFeather949 left the game
-[18:04:53] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.5444127180635405
-[18:04:53] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.1366084165201755
-[18:04:53] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.7607225663487043
-[18:04:53] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.0946736044279533
-[18:04:53] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.2733641466393237
-[18:04:53] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.3689778930711327
-[18:05:22] [Server thread/INFO]: kwimiii has made the advancement [Not Today, Thank You]
-[18:05:32] [User Authenticator #6/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
-[18:05:32] [Server thread/INFO]: johanprodox joined the game
-[18:05:32] [Server thread/INFO]: johanprodox[/127.251.51.31:51017] logged in with entity id 13309 at ([world]-1802.0229674796801, 104.0, -338.2046567622073)
-[18:05:47] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii donde estas
-[18:05:53] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.5526905215274382
-[18:05:53] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.2066790717408367
-[18:05:53] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.8650173895402986
-[18:05:53] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.5256831812494056
-[18:05:53] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 3.187594357843409
-[18:06:03] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/1302, uuid='ab360b7b-ba2d-4773-9acf-889aec91009e', l='ServerLevel[world]', x=-6991.60, y=64.00, z=-5274.38, cx=-437, cz=-330, tl=58763, v=true, d=false] died, message: 'Leatherworker was slain by Zombie'
-[18:07:19] [User Authenticator #7/INFO]: UUID of player DieGoo0oo0 is 2aa80728-28a9-3a5c-a541-e4a399bbccce
-[18:07:19] [Server thread/INFO]: DieGoo0oo0 joined the game
-[18:07:19] [Server thread/INFO]: DieGoo0oo0[/127.227.44.37:36293] logged in with entity id 15023 at ([world]-870.3000000119209, 33.200000047683716, -348.2131914521366)
-[18:07:24] [Server thread/INFO]: DieGoo0oo0 lost connection: Disconnected
-[18:07:24] [Server thread/INFO]: DieGoo0oo0 left the game
-[18:07:27] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox EN LA CUEVA
-[18:07:33] [Async Chat Thread - #3/INFO]: <johanprodox> ok
-[18:07:59] [User Authenticator #7/INFO]: UUID of player LinenFeather949 is 43e0a2df-b9b5-3dcc-bcaf-9e76a1fc8542
-[18:08:00] [Server thread/INFO]: LinenFeather949 joined the game
-[18:08:00] [Server thread/INFO]: LinenFeather949[/127.51.52.34:40145] logged in with entity id 15884 at ([world]-1482.300000011921, 31.0, -870.9930951099221)
-[18:08:13] [Server thread/INFO]: kwimiii has made the advancement [Take Aim]
-[18:08:44] [Server thread/INFO]: LinenFeather949 lost connection: Disconnected
-[18:08:44] [Server thread/INFO]: LinenFeather949 left the game
-[18:09:00] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox una ayudita
-[18:09:15] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii no se donde era la cueva
-[18:10:19] [User Authenticator #8/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[18:10:19] [Server thread/INFO]: rexer joined the game
-[18:10:19] [Server thread/INFO]: rexer[/127.109.181.221:43143] logged in with entity id 18267 at ([world]-1573.300000011921, 72.0, -832.3673521169882)
-[18:10:21] [Server thread/INFO]: Kiwing has made the advancement [Suit Up]
-[18:10:28] [User Authenticator #8/INFO]: UUID of player DieGoo0oo0 is 2aa80728-28a9-3a5c-a541-e4a399bbccce
-[18:10:28] [Server thread/INFO]: DieGoo0oo0 joined the game
-[18:10:28] [Server thread/INFO]: DieGoo0oo0[/127.227.44.37:48267] logged in with entity id 18544 at ([world]-870.3000000119209, 33.0, -348.2131914521366)
-[18:10:42] [User Authenticator #8/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
-[18:10:42] [Server thread/INFO]: GaccGamer joined the game
-[18:10:42] [Server thread/INFO]: GaccGamer[/127.145.191.23:54261] logged in with entity id 18962 at ([world_nether]-274.99882433125, 52.0, 12.688757206257876)
-[18:10:44] [Async Chat Thread - #4/INFO]: <johanprodox> a la vrgg
-[18:10:45] [Async Chat Thread - #4/INFO]: <DieGoo0oo0> oe johan q fue
-[18:10:49] [Async Chat Thread - #4/INFO]: <rexer> llege angelo
-[18:12:44] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.3830782156373971
-[18:12:44] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.9633265919947007
-[18:12:45] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.5368092213184354
-[18:12:45] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.1048462450162333
-[18:12:45] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.6690364659616534
-[18:12:46] [Server thread/INFO]: kwimiii was blown up by Creeper
-[18:13:02] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.2876379583040034
-[18:13:02] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.9309640241144734
-[18:13:02] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.5642103702557506
-[18:13:02] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.2110674345576626
-[18:13:02] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.8652073227785877
-[18:13:02] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 3.2460264940154957
-[18:13:08] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.3845282055617645
-[18:13:08] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.0276009218141553
-[18:13:08] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.6731336815491886
-[18:13:08] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.3199827615035247
-[18:13:09] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.696405642892387
-[18:13:09] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 3.0613292557372915
-[18:13:09] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 3.414745776937707
-[18:13:15] [Async Chat Thread - #5/INFO]: <johanprodox> se la detonaron D:
-[18:13:20] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.27535076731510344
-[18:13:20] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.7057446572298431
-[18:13:20] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.5141837077680975
-[18:13:20] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.2825707906649768
-[18:13:20] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.9735953456029165
-[18:13:20] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.0
-[18:13:20] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.0
-[18:13:20] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.0
-[18:13:24] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.3072043242664222
-[18:13:24] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.7787076970171256
-[18:13:24] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.29752354960783123
-[18:13:24] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.8411885540544972
-[18:13:24] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.3981498442199154
-[18:13:24] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.9622257117744084
-[18:13:24] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.2930822631924457
-[18:13:24] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.9262103088931326
-[18:13:24] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.5258154918101354
-[18:13:40] [Server thread/INFO]: AngelMatias issued server command: /w AngelMatias provecho johan
-[18:13:42] [User Authenticator #9/INFO]: UUID of player LinenFeather949 is 43e0a2df-b9b5-3dcc-bcaf-9e76a1fc8542
-[18:13:42] [Server thread/INFO]: LinenFeather949 joined the game
-[18:13:42] [Server thread/INFO]: LinenFeather949[/127.51.52.34:49451] logged in with entity id 21707 at ([world]-1481.1413466291872, 27.0, -842.8909436534489)
-[18:13:48] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.4294634955230051
-[18:14:49] [Async Chat Thread - #6/INFO]: <johanprodox> perdon
-[18:15:25] [Server thread/INFO]: rexer lost connection: Disconnected
-[18:15:25] [Server thread/INFO]: rexer left the game
-[18:15:41] [Server thread/INFO]: Elpanamiguel_777 has made the advancement [Diamonds!]
-[18:15:51] [Async Chat Thread - #7/INFO]: <LinenFeather949> ese we
-[18:15:55] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.2595480836043862
-[18:15:55] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.9224638065970794
-[18:15:55] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.5853814964275443
-[18:15:55] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.248300238673437
-[18:15:55] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.911219544045707
-[18:16:14] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.4556056937890389
-[18:16:14] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.0572019564624497
-[18:16:14] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.6630959798521872
-[18:16:36] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox ese copia y pega
-[18:16:43] [Async Chat Thread - #7/INFO]: <LinenFeather949> mano q MRD
-[18:16:47] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii shh
-[18:17:03] [Async Chat Thread - #7/INFO]: <LinenFeather949> Y ESTO XDD
-[18:17:30] [Server thread/INFO]: LinenFeather949 has made the advancement [Eye Spy]
-[18:17:39] [Async Chat Thread - #7/INFO]: <johanprodox> EY
-[18:18:02] [Server thread/INFO]: GaccGamer lost connection: Disconnected
-[18:18:02] [Server thread/INFO]: GaccGamer left the game
-[18:18:20] [Server thread/INFO]: LinenFeather949 was slain by Zombie
-[18:18:27] [Async Chat Thread - #7/INFO]: <LinenFeather949> cojan
-[18:18:29] [Async Chat Thread - #7/INFO]: <johanprodox> Q
-[18:18:31] [Async Chat Thread - #7/INFO]: <LinenFeather949> pls tp
-[18:18:38] [Async Chat Thread - #7/INFO]: <johanprodox> a donde
-[18:18:42] [Async Chat Thread - #7/INFO]: <LinenFeather949> ami mi muerte
-[18:18:47] [Async Chat Thread - #7/INFO]: <johanprodox> no puedo
-[18:18:52] [Async Chat Thread - #7/INFO]: <AngelMatias> pls paz mundial
-[18:18:54] [Async Chat Thread - #7/INFO]: <johanprodox> o pera
-[18:18:58] [Async Chat Thread - #7/INFO]: <johanprodox> k pera
-[18:19:23] [Async Chat Thread - #7/INFO]: <johanprodox> no puedo
-[18:19:35] [Async Chat Thread - #7/INFO]: <johanprodox> ya me voy
-[18:19:36] [Server thread/INFO]: johanprodox lost connection: Disconnected
-[18:19:36] [Server thread/INFO]: johanprodox left the game
-[18:20:25] [Server thread/INFO]: kwimiii lost connection: Disconnected
-[18:20:25] [Server thread/INFO]: kwimiii left the game
-[18:20:58] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.25333450748621544
-[18:20:58] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.6932760416229939
-[18:20:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.3051915580890636
-[18:20:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.7676130168010786
-[18:20:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.2991195408421845
-[18:20:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.7643640014357516
-[18:21:28] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.32990068504386727
-[18:21:55] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.38038959374353
-[18:21:55] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.9992063722747844
-[18:21:55] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.6171214502692237
-[18:21:55] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.2345540462847566
-[18:21:56] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.8514113142182396
-[18:21:56] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.4679607355656117
-[18:21:56] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.2873027701743922
-[18:21:56] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.7283355244690028
-[18:21:56] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.2516261282216874
-[18:21:56] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.4097877063586566
-[18:21:57] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.3952255686690478
-[18:21:57] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.8189312671747757
-[18:21:57] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.26748435988338315
-[18:26:28] [Server thread/INFO]: Kiwing has made the advancement [The Parrots and the Bats]
-[18:26:38] [Async Chat Thread - #8/INFO]: <LinenFeather949> platanazo
-[18:26:41] [Server thread/INFO]: Elpanamiguel_777 has made the advancement [We Need to Go Deeper]
-[18:26:49] [Async Chat Thread - #8/INFO]: <LinenFeather949> oe pana
-[18:26:52] [Async Chat Thread - #8/INFO]: <LinenFeather949> alianza?
-[18:26:52] [User Authenticator #10/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
-[18:26:52] [Server thread/INFO]: GaccGamer joined the game
-[18:26:52] [Server thread/INFO]: GaccGamer[/127.145.191.23:38725] logged in with entity id 33194 at ([world_nether]-261.1901979511938, 42.0, 9.179843002263064)
-[18:26:56] [Async Chat Thread - #8/INFO]: <Elpanamiguel_777> mmmm
-[18:26:57] [Async Chat Thread - #8/INFO]: <Elpanamiguel_777> ok
-[18:27:01] [Async Chat Thread - #8/INFO]: <LinenFeather949> dale
-[18:27:11] [Async Chat Thread - #8/INFO]: <GaccGamer> oe y mis cosas
-[18:27:15] [Server thread/INFO]: GaccGamer lost connection: Disconnected
-[18:27:15] [Server thread/INFO]: GaccGamer left the game
-[18:27:18] [User Authenticator #10/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
-[18:27:18] [Server thread/INFO]: GaccGamer joined the game
-[18:27:18] [Server thread/INFO]: GaccGamer[/127.145.191.23:47781] logged in with entity id 33387 at ([world_nether]-258.19601980394054, 44.0, 5.032763892235005)
-[18:27:39] [Server thread/INFO]: GaccGamer lost connection: Disconnected
-[18:27:39] [Server thread/INFO]: GaccGamer left the game
-[18:27:41] [User Authenticator #10/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
-[18:27:41] [Server thread/INFO]: GaccGamer joined the game
-[18:27:41] [Server thread/INFO]: GaccGamer[/127.145.191.23:59353] logged in with entity id 33594 at ([world_nether]-258.19601980394054, 44.0, 5.032763892235005)
-[18:27:49] [User Authenticator #10/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[18:27:49] [Server thread/INFO]: rexer joined the game
-[18:27:49] [Server thread/INFO]: rexer[/127.109.181.221:49913] logged in with entity id 33690 at ([world]-1495.3584193922252, 51.0, -844.0930445005274)
-[18:28:30] [Server thread/INFO]: GaccGamer lost connection: Disconnected
-[18:28:30] [Server thread/INFO]: GaccGamer left the game
-[18:28:31] [Server thread/INFO]: LinenFeather949 has made the advancement [Diamonds!]
-[18:29:25] [User Authenticator #11/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
-[18:29:25] [Server thread/INFO]: GaccGamer joined the game
-[18:29:25] [Server thread/INFO]: GaccGamer[/127.145.191.23:33151] logged in with entity id 34666 at ([world_nether]-211.83774826510114, 55.0, 41.76914932395742)
-[18:30:10] [Server thread/WARN]: GaccGamer was kicked due to keepalive timeout!
-[18:30:10] [Server thread/INFO]: GaccGamer lost connection: Timed out
-[18:30:10] [Server thread/INFO]: GaccGamer left the game
-[18:30:23] [User Authenticator #11/INFO]: UUID of player kwimiii is 7bf8fa59-d927-3016-99c8-1175082e9d8e
-[18:30:23] [Server thread/INFO]: kwimiii joined the game
-[18:30:23] [Server thread/INFO]: kwimiii[/127.36.46.139:39739] logged in with entity id 35231 at ([world]-1870.9941649742493, 64.0, -117.94240067277121)
-[18:31:08] [Server thread/WARN]: kwimiii was kicked due to keepalive timeout!
-[18:31:08] [Server thread/INFO]: kwimiii lost connection: Timed out
-[18:31:08] [Server thread/INFO]: kwimiii left the game
-[18:31:11] [Async Chat Thread - #9/INFO]: <rexer> q mamada
-[18:31:15] [User Authenticator #11/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
-[18:31:15] [Server thread/INFO]: GaccGamer joined the game
-[18:31:15] [Server thread/INFO]: GaccGamer[/127.145.191.23:59655] logged in with entity id 35925 at ([world_nether]-211.43401655997548, 55.0, 42.67759400723271)
-[18:31:18] [Async Chat Thread - #9/INFO]: <rexer> XDDDDDDDDDD
-[18:31:20] [Async Chat Thread - #9/INFO]: <LinenFeather949> lo viste?
-[18:31:24] [Async Chat Thread - #9/INFO]: <rexer> si w
-[18:31:41] [Async Chat Thread - #9/INFO]: <rexer> lo hacemos?
-[18:31:43] [User Authenticator #11/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
-[18:31:43] [Server thread/INFO]: johanprodox joined the game
-[18:31:43] [Server thread/INFO]: johanprodox[/127.251.51.31:47061] logged in with entity id 36189 at ([world]-1861.5755968852209, 66.0, -121.3765430271097)
-[18:31:47] [Async Chat Thread - #9/INFO]: <rexer> speedrun
-[18:32:00] [Server thread/WARN]: GaccGamer was kicked due to keepalive timeout!
-[18:32:00] [Server thread/INFO]: GaccGamer lost connection: Timed out
-[18:32:00] [Server thread/INFO]: GaccGamer left the game
-[18:32:09] [Server thread/INFO]: rexer has made the advancement [Eye Spy]
-[18:32:09] [User Authenticator #11/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
-[18:32:09] [Server thread/INFO]: GaccGamer joined the game
-[18:32:09] [Server thread/INFO]: GaccGamer[/127.145.191.23:41891] logged in with entity id 36694 at ([world_nether]-209.24276261760292, 52.0, 32.23670751727967)
-[18:32:11] [Async Chat Thread - #9/INFO]: <rexer> XD
-[18:32:24] [Async Chat Thread - #9/INFO]: <rexer> oe lutea todo
-[18:33:20] [Server thread/INFO]: LinenFeather949 lost connection: Disconnected
-[18:33:20] [Server thread/INFO]: LinenFeather949 left the game
-[18:33:25] [Async Chat Thread - #10/INFO]: <GaccGamer> gg
-[18:33:34] [User Authenticator #12/INFO]: UUID of player LinenFeather949 is 43e0a2df-b9b5-3dcc-bcaf-9e76a1fc8542
-[18:33:34] [Server thread/INFO]: LinenFeather949 joined the game
-[18:33:34] [Server thread/INFO]: LinenFeather949[/127.51.52.34:40277] logged in with entity id 37703 at ([world]-1529.300000011921, 6.837742235187442, -857.5722946684003)
-[18:33:38] [Server thread/INFO]: LinenFeather949 tried to swim in lava
-[18:33:44] [Async Chat Thread - #10/INFO]: <rexer> XD we
-[18:33:48] [Async Chat Thread - #10/INFO]: <LinenFeather949> lo perdi todo
-[18:33:56] [Async Chat Thread - #10/INFO]: <LinenFeather949> tenia diamantes
-[18:33:56] [Async Chat Thread - #10/INFO]: <rexer> ya ganamos tenemos
-[18:34:03] [User Authenticator #12/INFO]: UUID of player kwimiii is 7bf8fa59-d927-3016-99c8-1175082e9d8e
-[18:34:03] [Async Chat Thread - #10/INFO]: <LinenFeather949> lo perdi todo mn
-[18:34:03] [Server thread/INFO]: kwimiii joined the game
-[18:34:03] [Server thread/INFO]: kwimiii[/127.36.46.139:48329] logged in with entity id 38466 at ([world]-1823.0500517958596, 70.0, -128.20795692508375)
-[18:34:06] [Async Chat Thread - #10/INFO]: <rexer> no importa
-[18:34:10] [Async Chat Thread - #10/INFO]: <rexer> tenmos el end
-[18:34:13] [Async Chat Thread - #10/INFO]: <rexer> a nuestras manos
-[18:34:18] [Async Chat Thread - #10/INFO]: <johanprodox> casi golpeo a donde apareciste
-[18:34:25] [Async Chat Thread - #10/INFO]: <johanprodox> asu mare
-[18:34:25] [Async Chat Thread - #10/INFO]: <LinenFeather949> ok
-[18:34:30] [Async Chat Thread - #10/INFO]: <LinenFeather949> afk
-[18:34:32] [Server thread/INFO]: LinenFeather949 lost connection: Disconnected
-[18:34:32] [Server thread/INFO]: LinenFeather949 left the game
-[18:34:43] [Async Chat Thread - #10/INFO]: <rexer> matamos a la dragon y listo causa
-[18:35:25] [Async Chat Thread - #10/INFO]: <johanprodox> pera
-[18:35:40] [Async Chat Thread - #10/INFO]: <rexer> vamos XD
-[18:35:44] [Async Chat Thread - #10/INFO]: <rexer> angelo lo encontre
-[18:36:06] [Async Chat Thread - #10/INFO]: <rexer> ya solo falta los ojos bro
-[18:37:41] [Async Chat Thread - #11/INFO]: <GaccGamer> omg chaskis volvi al overworld
-[18:38:28] [Server thread/INFO]: rexer issued server command: /tell AngelMatias oigan les parece una alianza?
-[18:39:07] [Server thread/INFO]: rexer issued server command: /tell Elpanamiguel_777 oe te parece una alianza?
-[18:39:15] [Async Chat Thread - #12/INFO]: <rexer> tenemos el end
-[18:39:15] [Server thread/WARN]: johanprodox moved wrongly!
-[18:39:22] [Server thread/INFO]: rexer issued server command: /tell Elpanamiguel_777 tenemos el end
-[18:39:29] [Server thread/INFO]: rexer issued server command: /tell Elpanamiguel_777 te conviene
-[18:39:34] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii vamos a la base de dairon
-[18:39:45] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox sabes donde era
-[18:39:48] [Async Chat Thread - #12/INFO]: <johanprodox> yes
-[18:39:57] [Async Chat Thread - #12/INFO]: <GaccGamer> cucan
-[18:39:59] [Async Chat Thread - #12/INFO]: <GaccGamer> team?
-[18:40:06] [Server thread/INFO]: Kiwing lost connection: Disconnected
-[18:40:06] [Server thread/INFO]: Kiwing left the game
-[18:40:18] [User Authenticator #13/INFO]: UUID of player Kiwing is 80e8e31c-31e1-3003-a2ee-ff97818bee8b
-[18:40:18] [Server thread/INFO]: Kiwing joined the game
-[18:40:18] [Server thread/INFO]: Kiwing[/127.210.68.95:50433] logged in with entity id 45265 at ([world]-6946.677975859137, 66.9375, -5293.161339423475)
-[18:40:35] [Server thread/INFO]: AngelMatias tried to swim in lava
-[18:41:11] [Async Chat Thread - #13/INFO]: <GaccGamer> cucannn
-[18:41:11] [Async Chat Thread - #13/INFO]: <kwimiii> mi perro
-[18:41:21] [Async Chat Thread - #13/INFO]: <johanprodox> donde esta
-[18:41:55] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox COMO QUE KAHOT
-[18:42:18] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii son las rpta del workshop
-[18:42:21] [Server thread/WARN]: Horse (vehicle of Elpanamiguel_777) moved wrongly! 0.33443835256707644
-[18:42:21] [Server thread/WARN]: Horse (vehicle of Elpanamiguel_777) moved wrongly! 0.8022137509723279
-[18:42:21] [Server thread/WARN]: Horse (vehicle of Elpanamiguel_777) moved wrongly! 1.270960582664884
-[18:42:22] [Server thread/WARN]: Horse (vehicle of Elpanamiguel_777) moved wrongly! 1.740227208941178
-[18:42:37] [Server thread/WARN]: Horse (vehicle of Elpanamiguel_777) moved wrongly! 0.2971864140104117
-[18:42:37] [Server thread/WARN]: Horse (vehicle of Elpanamiguel_777) moved wrongly! 0.5375425484643301
-[18:42:37] [Server thread/WARN]: Horse (vehicle of Elpanamiguel_777) moved wrongly! 0.6661523238262816
-[18:42:37] [Server thread/WARN]: Horse (vehicle of Elpanamiguel_777) moved wrongly! 0.7349688504201595
-[18:42:37] [Server thread/WARN]: Horse (vehicle of Elpanamiguel_777) moved wrongly! 0.771791201747078
-[18:42:38] [Server thread/WARN]: Horse (vehicle of Elpanamiguel_777) moved wrongly! 0.791494107783592
-[18:42:38] [Server thread/WARN]: Horse (vehicle of Elpanamiguel_777) moved wrongly! 0.8020367399701627
-[18:42:38] [Server thread/WARN]: Horse (vehicle of Elpanamiguel_777) moved wrongly! 0.8076778922558105
-[18:43:17] [Server thread/INFO]: rexer issued server command: /tell johanprodox mano tu eres el owner nos dejas hacernos en end?
-[18:43:53] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii kiara dairon y angelo tiene para ir al end, aique matarlos o robarles las perlas
-[18:44:23] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox TAS SEGURO Q PODEMOS
-[18:44:36] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii 70%
-[18:44:52] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox deben estar con diamantes
-[18:45:10] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii na no creo
-[18:45:38] [Server thread/INFO]: rexer has made the advancement [Ice Bucket Challenge]
-[18:45:44] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox esa?
-[18:45:51] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii que no te vean
-[18:45:55] [Server thread/INFO]: AngelMatias has made the advancement [Sweet Dreams]
-[18:46:03] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox estan ahi?
-[18:46:48] [Server thread/INFO]: AngelMatias was slain by Iron Golem
-[18:47:22] [Server thread/INFO]: Villager EntityVillager['Villager'/52528, uuid='61c4ac31-5860-4c97-a815-72d25ee1b397', l='ServerLevel[world]', x=-9.33, y=68.42, z=-963.70, cx=-1, cz=-61, tl=52224, v=true, d=false] died, message: 'Villager was slain by AngelMatias'
-[18:47:35] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.4402561054130274
-[18:47:35] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.989402740904552
-[18:47:35] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.5531115750400204
-[18:47:35] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.123762480354344
-[18:47:35] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.698127949546688
-[18:47:51] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.3747521608056559
-[18:47:52] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.9462713463026375
-[18:47:52] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.5213183050418593
-[18:47:52] [Server thread/INFO]: rexer lost connection: Disconnected
-[18:47:52] [Server thread/INFO]: rexer left the game
-[18:47:52] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.44198155032972863
-[18:48:04] [Server thread/INFO]: Kiwing lost connection: Disconnected
-[18:48:04] [Server thread/INFO]: Kiwing left the game
-[18:48:12] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox no me n i al kahoot
-[18:48:19] [Async Chat Thread - #14/INFO]: <johanprodox> no p
-[18:48:22] [User Authenticator #14/INFO]: UUID of player Kiwing is 80e8e31c-31e1-3003-a2ee-ff97818bee8b
-[18:48:22] [Server thread/INFO]: Kiwing joined the game
-[18:48:22] [Server thread/INFO]: Kiwing[/127.210.68.95:35155] logged in with entity id 57915 at ([world]-6962.774189293809, 99.8500000178814, -5372.137173826834)
-[18:48:31] [Server thread/INFO]: Villager EntityVillager['Farmer'/52167, uuid='5bccb666-00f8-494a-91cc-ea9c7d73d010', l='ServerLevel[world]', x=24.70, y=72.00, z=-926.74, cx=1, cz=-58, tl=57590, v=true, d=false] died, message: 'Farmer was slain by Husk'
-[18:48:37] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.3485528765986601
-[18:48:37] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.7119998202688294
-[18:48:37] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.0346934626345041
-[18:48:37] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.4927455456371481
-[18:48:37] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.9944813849967955
-[18:48:40] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox cual es el pin
-[18:48:43] [Server thread/INFO]: AngelMatias was slain by Iron Golem
-[18:48:58] [Async Chat Thread - #14/INFO]: <johanprodox> abajo
-[18:49:22] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox te uniste?
-[18:49:23] [Server thread/INFO]: AngelMatias was slain by Iron Golem
-[18:49:48] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox oe
-[18:49:56] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox se tenia q unir al kahoot?
-[18:50:00] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii nonono
-[18:50:05] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox aya
-[18:50:08] [Server thread/INFO]: AngelMatias was slain by Iron Golem
-[18:50:25] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox ue hacemos
-[18:50:30] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii subamos
-[18:51:28] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> XDD
-[18:51:35] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> PAZ
-[18:51:39] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> ando en lase
-[18:51:43] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> clase*
-[18:51:52] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> oe johannn
-[18:51:55] [Server thread/INFO]: kwimiii has made the advancement [Diamonds!]
-[18:51:58] [Async Chat Thread - #15/INFO]: <GaccGamer> por q todos estan alado de todos man
-[18:52:04] [Async Chat Thread - #15/INFO]: <johanprodox> XD
-[18:52:11] [Async Chat Thread - #15/INFO]: <GaccGamer> yo ando chill en mi isla Bv
-[18:52:14] [Async Chat Thread - #15/INFO]: <johanprodox> VEN
-[18:52:16] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> oe johan eres medio medio
-[18:52:33] [Async Chat Thread - #15/INFO]: <johanprodox> man
-[18:52:45] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> q
-[18:52:50] [Async Chat Thread - #15/INFO]: <johanprodox> es tu aldea?
-[18:52:53] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> si
-[18:52:57] [Async Chat Thread - #15/INFO]: <johanprodox> q webon
-[18:53:01] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> ya la destruiste
-[18:53:03] [Async Chat Thread - #15/INFO]: <johanprodox> no era de dairon
-[18:53:08] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> no
-[18:53:09] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> pq
-[18:53:12] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> no habia nadie
-[18:53:14] [Async Chat Thread - #15/INFO]: <johanprodox> pq estaba aqui
-[18:53:16] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> la tengo ahce 2 horas
-[18:53:23] [Async Chat Thread - #15/INFO]: <johanprodox> a
-[18:53:25] [Async Chat Thread - #15/INFO]: <johanprodox> vale
-[18:53:26] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> quien es?
-[18:53:31] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.5760898657373075
-[18:53:34] [Async Chat Thread - #15/INFO]: <GaccGamer> su flaca
-[18:53:37] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.7630372358943226
-[18:53:38] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> huyyyy
-[18:53:39] [Async Chat Thread - #15/INFO]: <GaccGamer> digo digo
-[18:53:40] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.47854433555586184
-[18:53:42] [Async Chat Thread - #15/INFO]: <johanprodox> na p
-[18:53:44] [Async Chat Thread - #15/INFO]: <johanprodox> kiara
-[18:53:44] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.4325876509568869
-[18:53:44] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> ya quisiera q sea real
-[18:53:45] [Async Chat Thread - #15/INFO]: <kwimiii> no p
-[18:54:07] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox sus 4 diamantes xd
-[18:54:12] [Async Chat Thread - #15/INFO]: <GaccGamer> invente johan invente
-[18:54:13] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.3302213591587133
-[18:54:13] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.8516066387146566
-[18:54:13] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.875
-[18:54:13] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.875
-[18:54:13] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.875
-[18:54:13] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.875
-[18:54:21] [Server thread/INFO]: johanprodox issued server command: /msg Kiwing SI P SUS 4 DIAMANTE, VETE A OTRO LADO
-[18:54:26] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> bueno te doy permiso para usar la aldea
-[18:54:28] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> ando afk
-[18:54:41] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.2794426397949792
-[18:55:14] [Async Chat Thread - #15/INFO]: <johanprodox> vamonos
-[18:55:20] [Server thread/INFO]: Villager EntityVillager['Villager'/4459, uuid='79ba72f4-0243-4767-95ab-b20ec4a8bce4', l='ServerLevel[world]', x=-1487.64, y=71.00, z=-389.53, cx=-93, cz=-25, tl=65237, v=true, d=false] died, message: 'Villager was slain by johanprodox'
-[18:55:32] [Server thread/INFO]: Villager EntityVillager['Farmer'/4460, uuid='44dd4648-74ca-4cc1-b499-fa4b5bfcc768', l='ServerLevel[world]', x=-1471.51, y=70.00, z=-366.55, cx=-92, cz=-23, tl=62663, v=true, d=false] died, message: 'Farmer was slain by johanprodox'
-[18:55:32] [Async Chat Thread - #15/INFO]: <kwimiii> oe
-[18:55:40] [Async Chat Thread - #15/INFO]: <kwimiii> mi perro
-[18:55:40] [Async Chat Thread - #15/INFO]: <johanprodox> q
-[18:55:44] [Async Chat Thread - #15/INFO]: <johanprodox> ve p
-[18:55:52] [User Authenticator #15/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[18:55:52] [Server thread/INFO]: rexer joined the game
-[18:55:52] [Server thread/INFO]: rexer[/127.109.181.221:43429] logged in with entity id 62807 at ([world]-1538.0267303145692, 11.0, -856.8548516641683)
-[18:55:52] [Async Chat Thread - #15/INFO]: <Kiwing> cojan
-[18:56:03] [Async Chat Thread - #15/INFO]: <Kiwing> responde p
-[18:56:04] [Server thread/INFO]: Villager EntityVillager['Villager'/4482, uuid='c8737f88-4996-45c1-977c-73357cc04ace', l='ServerLevel[world]', x=-1482.71, y=63.00, z=-389.42, cx=-93, cz=-25, tl=65255, v=true, d=false] died, message: 'Villager was slain by johanprodox'
-[18:56:06] [Async Chat Thread - #15/INFO]: <johanprodox> q
-[18:56:14] [Async Chat Thread - #15/INFO]: <johanprodox> aya
-[18:56:29] [Async Chat Thread - #15/INFO]: <Kiwing> se murio p
-[18:56:35] [Server thread/INFO]: Villager EntityVillager['Farmer'/4456, uuid='1edeb820-2681-47bd-b1c7-3f5d1a60476b', l='ServerLevel[world]', x=-1483.30, y=70.42, z=-404.45, cx=-93, cz=-26, tl=72423, v=true, d=false] died, message: 'Farmer was slain by johanprodox'
-[18:56:49] [Server thread/INFO]: Villager EntityVillager['Librarian'/4449, uuid='c47a9cb5-c3a3-4332-8ed5-f013387a7949', l='ServerLevel[world]', x=-1496.62, y=70.00, z=-384.35, cx=-94, cz=-25, tl=75212, v=true, d=false] died, message: 'Librarian was slain by johanprodox'
-[18:57:16] [Async Chat Thread - #15/INFO]: <johanprodox> vamonos
-[18:57:19] [Server thread/INFO]: rexer lost connection: Disconnected
-[18:57:19] [Server thread/INFO]: rexer left the game
-[18:57:20] [Server thread/INFO]: AngelMatias was slain by Iron Golem
-[18:57:40] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> oe no te robes ms cosas
-[18:57:41] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> wbn
-[18:58:24] [Server thread/INFO]: johanprodox has made the advancement [Diamonds!]
-[18:58:24] [Async Chat Thread - #15/INFO]: <DieGoo0oo0> johan eres un hijo de puta
-[18:58:26] [Async Chat Thread - #15/INFO]: <johanprodox> XDD
-[18:58:28] [Async Chat Thread - #15/INFO]: <johanprodox> VAMONOS
-[18:58:32] [User Authenticator #16/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[18:58:33] [Server thread/INFO]: rexer joined the game
-[18:58:33] [Server thread/INFO]: rexer[/127.109.181.221:33871] logged in with entity id 66035 at ([world]-1538.5085507679296, 11.0, -855.7629103944961)
-[18:58:52] [Async Chat Thread - #15/INFO]: <Kiwing> ya p johan
-[18:59:36] [Server thread/INFO]: rexer lost connection: Disconnected
-[18:59:36] [Server thread/INFO]: rexer left the game
-[18:59:59] [Async Chat Thread - #16/INFO]: <johanprodox> ven
-[19:01:02] [Async Chat Thread - #17/INFO]: <johanprodox> o voy a dormir a tu perro
-[19:01:12] [Async Chat Thread - #17/INFO]: <kwimiii> no p
-[19:01:38] [Async Chat Thread - #17/INFO]: <kwimiii> mi perro
-[19:02:14] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.3668473220704982
-[19:02:14] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.0236968040017018
-[19:02:14] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.683554989888762
-[19:02:14] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.333619635519426
-[19:02:14] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.6814562665058475
-[19:02:14] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.867576712632399
-[19:02:24] [Server thread/WARN]: Boat (vehicle of kwimiii) moved wrongly! 3.6735484872449367
-[19:02:25] [Server thread/WARN]: Boat (vehicle of kwimiii) moved wrongly! 0.48164629206007703
-[19:02:25] [Server thread/WARN]: Boat (vehicle of kwimiii) moved wrongly! 0.7586413598194213
-[19:02:26] [Server thread/WARN]: Boat (vehicle of kwimiii) moved wrongly! 1.0079369141986945
-[19:02:26] [Server thread/WARN]: Boat (vehicle of kwimiii) moved wrongly! 1.2323029071964129
-[19:02:26] [Server thread/WARN]: Boat (vehicle of kwimiii) moved wrongly! 1.43423229554503
-[19:02:26] [Server thread/WARN]: Boat (vehicle of kwimiii) moved wrongly! 1.6159687402443978
-[19:02:26] [Server thread/WARN]: Boat (vehicle of kwimiii) moved wrongly! 1.6385041642186025
-[19:03:08] [User Authenticator #17/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[19:03:08] [Server thread/INFO]: rexer joined the game
-[19:03:08] [Server thread/INFO]: rexer[/127.109.181.221:51657] logged in with entity id 72016 at ([world]-1532.561969710986, 10.0, -857.3000000119209)
-[19:03:13] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.2630950555085292
-[19:03:13] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.9196004686946253
-[19:03:13] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.5761395270474168
-[19:03:13] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.232696588257568
-[19:03:13] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.891936703866122
-[19:03:43] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.31205011713882413
-[19:03:43] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.8327596780454769
-[19:03:59] [Async Chat Thread - #18/INFO]: <johanprodox> que
-[19:04:26] [Server thread/INFO]: rexer lost connection: Disconnected
-[19:04:26] [Server thread/INFO]: rexer left the game
-[19:04:38] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox COMO SE APAREABAN
-[19:04:40] [Async Chat Thread - #18/INFO]: <johanprodox> YA P KIARA TENGO 2 CORAS
-[19:04:44] [Async Chat Thread - #18/INFO]: <johanprodox> JSJAJSJAJS
-[19:05:06] [Server thread/INFO]: kwimiii has made the advancement [The Parrots and the Bats]
-[19:05:19] [User Authenticator #18/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[19:05:19] [Server thread/INFO]: rexer joined the game
-[19:05:19] [Server thread/INFO]: rexer[/127.109.181.221:59193] logged in with entity id 74982 at ([world]-1563.230756298712, 37.0, -843.6999999880791)
-[19:05:44] [Async Chat Thread - #18/INFO]: <johanprodox> on tas
-[19:06:19] [Async Chat Thread - #18/INFO]: <kwimiii> aca
-[19:06:56] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii los diamantes de diego....
-[19:07:06] [Server thread/INFO]: Elpanamiguel_777 has made the advancement [Ice Bucket Challenge]
-[19:07:30] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox mira
-[19:07:31] [Server thread/INFO]: rexer lost connection: Disconnected
-[19:07:31] [Server thread/INFO]: rexer left the game
-[19:07:36] [Async Chat Thread - #19/INFO]: <johanprodox> miro
-[19:07:52] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii ASU MARE
-[19:08:00] [User Authenticator #19/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[19:08:00] [Server thread/INFO]: rexer joined the game
-[19:08:00] [Server thread/INFO]: rexer[/127.109.181.221:46397] logged in with entity id 77425 at ([world]-1495.5, 51.0, -847.5)
-[19:08:04] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii todo eso lo sacaste de diego?
-[19:08:05] [Async Chat Thread - #19/INFO]: <kwimiii> pobrecito
-[19:08:10] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox si
-[19:08:13] [Async Chat Thread - #19/INFO]: <johanprodox> SJASAJSJAJSJAJ
-[19:08:47] [Server thread/INFO]: rexer lost connection: Disconnected
-[19:08:47] [Server thread/INFO]: rexer left the game
-[19:09:01] [Server thread/INFO]: DieGoo0oo0 lost connection: Disconnected
-[19:09:01] [Server thread/INFO]: DieGoo0oo0 left the game
-[19:09:01] [Server thread/INFO]: johanprodox issued server command: /msg DieGoo0oo0 siento que esta viniendo
-[19:09:11] [Async Chat Thread - #19/INFO]: <GaccGamer> un mini zombie montando un pollo xd
-[19:09:12] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii siento que esta viniendo
-[19:09:20] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox tambien
-[19:09:25] [Async Chat Thread - #19/INFO]: <johanprodox> chikem jhockey
-[19:09:25] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox vamonos
-[19:09:30] [User Authenticator #20/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[19:09:30] [Server thread/INFO]: rexer joined the game
-[19:09:30] [Server thread/INFO]: rexer[/127.109.181.221:57537] logged in with entity id 78773 at ([world]-1493.486408115877, 63.0, -906.3567577422472)
-[19:09:42] [Server thread/INFO]: rexer lost connection: Disconnected
-[19:09:42] [Server thread/INFO]: rexer left the game
-[19:09:53] [User Authenticator #20/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[19:09:53] [Server thread/INFO]: rexer joined the game
-[19:09:53] [Server thread/INFO]: rexer[/127.109.181.221:42215] logged in with entity id 79109 at ([world]-1481.3122131125124, 62.0, -939.6779127346491)
-[19:10:03] [Server thread/INFO]: rexer lost connection: Disconnected
-[19:10:03] [Server thread/INFO]: rexer left the game
-[19:10:14] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox vamonospe
-[19:10:17] [Async Chat Thread - #19/INFO]: <johanprodox> ok
-[19:10:28] [User Authenticator #20/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[19:10:28] [Server thread/INFO]: rexer joined the game
-[19:10:28] [Server thread/INFO]: rexer[/127.109.181.221:47579] logged in with entity id 79536 at ([world]-1481.3122131125124, 62.0, -939.6779127346491)
-[19:10:45] [Server thread/INFO]: johanprodox issued server command: /msg tu manejas p defrente
-[19:10:51] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii tu manejas p defrente
-[19:10:57] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox ontas
-[19:11:10] [Async Chat Thread - #19/INFO]: <johanprodox> atras
-[19:11:49] [Server thread/INFO]: Villager EntityVillager['Nitwit'/54913, uuid='b6024200-a03a-4778-9517-80b24327a4cf', l='ServerLevel[world]', x=-188.30, y=72.00, z=4898.51, cx=-12, cz=306, tl=30157, v=true, d=false] died, message: 'Nitwit was slain by Zombie'
-[19:12:03] [Server thread/INFO]: GaccGamer has made the advancement [Not Today, Thank You]
-[19:12:05] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii estoy donde pusiste vallas
-[19:12:57] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox ME PERDI
-[19:13:06] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii NOOOO
-[19:13:23] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii regresa por donde viniste
-[19:13:30] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox avanza hasta q llegues al bioma amarillento
-[19:13:44] [Async Chat Thread - #20/INFO]: <johanprodox> ok
-[19:13:49] [Server thread/INFO]: Teleported Kiwing to AngelMatias
-[19:14:13] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox crecieron en cantidad
-[19:14:50] [Server thread/INFO]: rexer issued server command: /tell Elpanamiguel_777 oe pasa cords para traerte a mi base
-[19:14:57] [Server thread/INFO]: johanprodox issued server command: /msg Kiwing pasa cords
-[19:14:59] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox -645 68 -482
-[19:15:05] [Server thread/INFO]: rexer lost connection: Disconnected
-[19:15:05] [Server thread/INFO]: rexer left the game
-[19:15:34] [Async Chat Thread - #21/INFO]: <johanprodox> ok
-[19:16:26] [Async Chat Thread - #21/INFO]: <johanprodox> NOOOO
-[19:16:50] [User Authenticator #21/INFO]: UUID of player DieGoo0oo0 is 2aa80728-28a9-3a5c-a541-e4a399bbccce
-[19:16:51] [Server thread/INFO]: DieGoo0oo0 joined the game
-[19:16:51] [Server thread/INFO]: DieGoo0oo0[/127.227.44.37:50823] logged in with entity id 84528 at ([world]-1488.0494058575628, 74.0, -157.19320269368637)
-[19:16:52] [User Authenticator #21/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[19:16:52] [Server thread/INFO]: rexer joined the game
-[19:16:52] [Server thread/INFO]: rexer[/127.109.181.221:48129] logged in with entity id 84771 at ([world]-1440.5024646547909, 64.0, -993.5821220805765)
-[19:17:39] [Server thread/INFO]: GaccGamer has made the advancement [What a Deal!]
-[19:18:02] [Server thread/INFO]: rexer lost connection: Disconnected
-[19:18:02] [Server thread/INFO]: rexer left the game
-[19:18:11] [Async Chat Thread - #22/INFO]: <Elpanamiguel_777> ayuda
-[19:20:03] [Async Chat Thread - #23/INFO]: <johanprodox> o
-[19:20:09] [Async Chat Thread - #23/INFO]: <Elpanamiguel_777> ayuda
-[19:20:17] [Async Chat Thread - #23/INFO]: <kwimiii> q
-[19:20:18] [Async Chat Thread - #23/INFO]: <johanprodox> a q buscar una aldea
-[19:20:23] [Async Chat Thread - #23/INFO]: <kwimiii> ya
-[19:21:04] [Async Chat Thread - #23/INFO]: <johanprodox> on tas
-[19:21:31] [User Authenticator #22/INFO]: UUID of player LinenFeather949 is 43e0a2df-b9b5-3dcc-bcaf-9e76a1fc8542
-[19:21:31] [Server thread/INFO]: LinenFeather949 joined the game
-[19:21:31] [Server thread/INFO]: LinenFeather949[/127.51.52.34:40645] logged in with entity id 88840 at ([world]-1495.699999988079, 51.0, -844.477784362241)
-[19:21:41] [Async Chat Thread - #23/INFO]: <kwimiii> cofre
-[19:21:56] [User Authenticator #22/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[19:21:56] [Server thread/INFO]: rexer joined the game
-[19:21:56] [Server thread/INFO]: rexer[/127.109.181.221:41613] logged in with entity id 89568 at ([world]-1442.6479729159623, 63.0, -985.5192778671071)
-[19:22:21] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii me voy a comer más tarde vuelvo, busca un aldea p si puedes
-[19:22:28] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox ayaya
-[19:22:31] [Server thread/INFO]: LinenFeather949 lost connection: Disconnected
-[19:22:31] [Server thread/INFO]: LinenFeather949 left the game
-[19:22:55] [Async Chat Thread - #24/INFO]: <johanprodox> bye
-[19:22:56] [Server thread/INFO]: johanprodox lost connection: Disconnected
-[19:22:56] [Server thread/INFO]: johanprodox left the game
-[19:22:57] [Server thread/INFO]: Kiwing lost connection: Disconnected
-[19:22:57] [Server thread/INFO]: Kiwing left the game
-[19:24:24] [Server thread/INFO]: Banned johanprodox: Banned by an operator.
-[19:25:54] [Server thread/INFO]: rexer lost connection: Disconnected
-[19:25:54] [Server thread/INFO]: rexer left the game
-[19:26:13] [Server thread/INFO]: DieGoo0oo0 lost connection: Disconnected
-[19:26:13] [Server thread/INFO]: DieGoo0oo0 left the game
-[19:28:24] [User Authenticator #23/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[19:28:24] [Server thread/INFO]: rexer joined the game
-[19:28:24] [Server thread/INFO]: rexer[/127.109.181.221:34977] logged in with entity id 93862 at ([world_nether]-170.42605667713283, 76.0, -120.59274625936118)
-[19:28:51] [Server thread/INFO]: Villager EntityVillager['Farmer'/70185, uuid='8a3409d6-a894-4bc4-9e94-3b1119e281c9', l='ServerLevel[world]', x=1.47, y=70.00, z=-1169.93, cx=0, cz=-74, tl=38005, v=true, d=false] died, message: 'Farmer was slain by Zombie'
-[19:29:15] [Server thread/INFO]: Villager EntityVillager['Librarian'/81488, uuid='9a1b77a2-f3d2-49da-9636-4f2d8a281863', l='ServerLevel[world]', x=30.02, y=63.00, z=-1221.50, cx=1, cz=-77, tl=20058, v=true, d=false] died, message: 'Librarian was slain by AngelMatias'
-[19:29:52] [Server thread/INFO]: Villager EntityVillager['Shepherd'/81435, uuid='754f1e28-6c35-44b4-b8cb-c29060775c4e', l='ServerLevel[world]', x=44.63, y=63.00, z=-1214.50, cx=2, cz=-76, tl=22353, v=true, d=false] died, message: 'Shepherd was slain by AngelMatias'
-[19:29:58] [Async Chat Thread - #25/INFO]: <rexer> aca arriba
-[19:30:02] [Server thread/INFO]: AngelMatias was shot by Skeleton
-[19:30:04] [Async Chat Thread - #25/INFO]: <rexer> te vi
-[19:30:07] [Async Chat Thread - #25/INFO]: <rexer> pana
-[19:30:20] [Async Chat Thread - #25/INFO]: <rexer> bajo por ti
-[19:30:36] [User Authenticator #24/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
-[19:30:36] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@62d01df3[id=b93a90b6-9cda-3e37-b79c-ce24bbaadf6f,name=johanprodox,properties={},legacy=false] (/127.227.44.37:56795): You are banned from this server.
+[20:25:29] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:25:29] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[20:25:30] [Worker-Main-2/INFO]: Loaded 7 recipes
+[20:25:31] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[20:25:31] [Server thread/INFO]: Loading properties
+[20:25:31] [Server thread/INFO]: This server is running Paper version git-Paper-416 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[20:25:31] [Server thread/INFO]: Debug logging is disabled
+[20:25:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:25:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:25:31] [Server thread/INFO]: Default game type: SURVIVAL
+[20:25:31] [Server thread/INFO]: Generating keypair
+[20:25:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:25:31] [Server thread/INFO]: Using epoll channel type
+[20:25:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:25:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:25:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:25:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:25:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:25:31] [Server thread/INFO]: Preparing level "world"
+[20:25:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:25:32] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[20:25:32] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:32] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:32] [Server thread/INFO]: Time elapsed: 913 ms
+[20:25:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:25:32] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[20:25:32] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:32] [Server thread/INFO]: Time elapsed: 266 ms
+[20:25:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:25:32] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[20:25:32] [Server thread/INFO]: Time elapsed: 114 ms
+[20:25:33] [Server thread/INFO]: Running delayed init tasks
+[20:25:33] [Server thread/INFO]: Done (1.934s)! For help, type "help"
+[20:25:33] [Server thread/INFO]: Timings Reset
+[20:25:44] [User Authenticator #1/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
+[20:25:44] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@148cf116[id=b93a90b6-9cda-3e37-b79c-ce24bbaadf6f,name=johanprodox,properties={},legacy=false] (/127.251.51.31:44253): You are banned from this server.
 Reason: Banned by an operator.
-[19:30:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@62d01df3[id=b93a90b6-9cda-3e37-b79c-ce24bbaadf6f,name=johanprodox,properties={},legacy=false] (/127.227.44.37:56795) lost connection: You are banned from this server.
+[20:25:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@148cf116[id=b93a90b6-9cda-3e37-b79c-ce24bbaadf6f,name=johanprodox,properties={},legacy=false] (/127.251.51.31:44253) lost connection: You are banned from this server.
 Reason: Banned by an operator.
-[19:30:42] [User Authenticator #24/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
-[19:30:42] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@62d01df3[id=b93a90b6-9cda-3e37-b79c-ce24bbaadf6f,name=johanprodox,properties={},legacy=false] (/127.227.44.37:55083): You are banned from this server.
-Reason: Banned by an operator.
-[19:30:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@62d01df3[id=b93a90b6-9cda-3e37-b79c-ce24bbaadf6f,name=johanprodox,properties={},legacy=false] (/127.227.44.37:55083) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[19:31:01] [Async Chat Thread - #25/INFO]: <rexer> ven causa
-[19:31:06] [Server thread/INFO]: kwimiii lost connection: Disconnected
-[19:31:06] [Server thread/INFO]: kwimiii left the game
-[19:31:20] [Async Chat Thread - #25/INFO]: <rexer> come here
-[19:32:05] [Server thread/INFO]: Villager EntityVillager['Villager'/81433, uuid='7a134913-89a7-415d-95e4-3e6bb79cb5da', l='ServerLevel[world]', x=-8.29, y=71.00, z=-1132.30, cx=-1, cz=-71, tl=24879, v=true, d=false] died, message: 'Villager was slain by Husk'
-[19:32:42] [Server thread/INFO]: AngelMatias has made the advancement [Not Today, Thank You]
-[19:32:49] [Async Chat Thread - #26/INFO]: <rexer> ven causa
-[19:33:20] [Async Chat Thread - #26/INFO]: <rexer> dale clik a la cama
-[19:33:43] [Async Chat Thread - #26/INFO]: <rexer> q lag sorry
-[19:33:46] [Server thread/INFO]: Elpanamiguel_777 tried to swim in lava
-[19:33:50] [Async Chat Thread - #26/INFO]: <rexer> no seas
-[19:34:04] [Async Chat Thread - #26/INFO]: <rexer> ven
-[19:34:21] [Server thread/INFO]: Elpanamiguel_777 tried to swim in lava
-[19:34:48] [Server thread/INFO]: Villager EntityVillager['Villager'/97773, uuid='b94cfb02-94b3-4304-80df-b01f1ec7cdd8', l='ServerLevel[world]', x=109.28, y=68.00, z=-1772.63, cx=6, cz=-111, tl=191, v=true, d=false] died, message: 'Villager suffocated in a wall'
-[19:36:25] [Async Chat Thread - #27/INFO]: <Elpanamiguel_777> donde quieres que mine
-[19:36:25] [Server thread/INFO]: GaccGamer lost connection: Disconnected
-[19:36:25] [Server thread/INFO]: GaccGamer left the game
-[19:36:36] [Server thread/INFO]: rexer issued server command: /tell Elpanamiguel_777 si dices algo de la base o pasas cords
-[19:36:44] [Server thread/INFO]: rexer issued server command: /tell Elpanamiguel_777 te kacho
-[19:36:53] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tell rexer okok
-[19:36:55] [Server thread/INFO]: AngelMatias lost connection: Disconnected
-[19:36:55] [Server thread/INFO]: AngelMatias left the game
-[19:37:04] [Async Chat Thread - #27/INFO]: <rexer> aplana eso
-[19:37:09] [Async Chat Thread - #27/INFO]: <rexer> voy a traerte diamntes
-[19:38:35] [Async Chat Thread - #28/INFO]: <Elpanamiguel_777> ok
-[19:38:56] [User Authenticator #25/INFO]: UUID of player Zackmo64 is 60d33d32-1f30-345b-bc3b-02ffb5a079b3
-[19:38:56] [Server thread/INFO]: Zackmo64 joined the game
-[19:38:56] [Server thread/INFO]: Zackmo64[/127.227.44.37:50683] logged in with entity id 99753 at ([world]112.5, 63.0, -220.5)
-[19:39:06] [Async Chat Thread - #28/INFO]: <rexer> y ese
-[19:39:11] [Async Chat Thread - #28/INFO]: <Zackmo64> soy dios p
-[19:39:19] [Async Chat Thread - #28/INFO]: <Zackmo64> e padre de gabriel a la vez
-[19:39:28] [Server thread/INFO]: Zackmo64 lost connection: Disconnected
-[19:39:28] [Server thread/INFO]: Zackmo64 left the game
-[19:39:30] [Async Chat Thread - #28/INFO]: <rexer> quien chcha seras
-[19:42:54] [User Authenticator #26/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
-[19:42:54] [Server thread/INFO]: GaccGamer joined the game
-[19:42:54] [Server thread/INFO]: GaccGamer[/127.145.191.23:56165] logged in with entity id 100731 at ([world]-221.85912653469367, 64.5625, 4901.993594927591)
-[19:44:44] [Async Chat Thread - #29/INFO]: <rexer> me traicionastes pana
-[19:45:03] [Async Chat Thread - #29/INFO]: <GaccGamer> c pana xd
-[19:45:14] [Async Chat Thread - #29/INFO]: <rexer> te voy a kachar por la traicion
-[19:45:29] [Async Chat Thread - #29/INFO]: <GaccGamer> q hizo
-[19:45:34] [Async Chat Thread - #29/INFO]: <Elpanamiguel_777> gacc?
-[19:45:35] [Async Chat Thread - #29/INFO]: <rexer> no aplano
-[19:45:39] [Async Chat Thread - #29/INFO]: <rexer> se queda sin diamantes p
-[19:45:46] [Async Chat Thread - #29/INFO]: <Elpanamiguel_777> :(
-[19:45:48] [Async Chat Thread - #29/INFO]: <GaccGamer> pana ven a mi
-[19:45:53] [Async Chat Thread - #29/INFO]: <GaccGamer> aca seras libre p
-[19:45:54] [Async Chat Thread - #29/INFO]: <rexer> na tranqui
-[19:45:56] [Async Chat Thread - #29/INFO]: <Elpanamiguel_777> no
-[19:46:03] [Async Chat Thread - #29/INFO]: <rexer> hay voy tengo diamantes pa ti
-[19:46:12] [Async Chat Thread - #29/INFO]: <rexer> es de nuestro cofre
+[20:25:53] [Server thread/INFO]: Unbanned johanprodox
+[20:25:58] [User Authenticator #1/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
+[20:25:58] [Server thread/INFO]: johanprodox joined the game
+[20:25:58] [Server thread/INFO]: johanprodox[/127.251.51.31:60341] logged in with entity id 187 at ([world]-644.3000000119209, 68.0, -487.8249271555674)
+[20:26:09] [Server thread/INFO]: johanprodox issued server command: /bukkit:plugins
+[20:27:15] [Server thread/INFO]: johanprodox lost connection: Disconnected
+[20:27:15] [Server thread/INFO]: johanprodox left the game
+[20:27:37] [User Authenticator #2/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
+[20:27:37] [Server thread/INFO]: johanprodox joined the game
+[20:27:37] [Server thread/INFO]: johanprodox[/127.251.51.31:37555] logged in with entity id 563 at ([world]-644.3000000119209, 68.0, -487.8249271555674)
+[20:27:39] [Server thread/INFO]: johanprodox lost connection: Disconnected
+[20:27:39] [Server thread/INFO]: johanprodox left the game
+[20:27:43] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[20:27:48] [Server thread/INFO]: Plugins (0): 
+[20:27:52] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[20:28:00] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[20:28:00] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[20:28:00] [Server thread/INFO]: Debug logging is disabled
+[20:28:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:28:00] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:28:00] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:28:01] [Server thread/INFO]: Loaded 7 recipes
+[20:28:01] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:28:01] [Server thread/INFO]: Loaded 7 recipes
+[20:28:02] [Server thread/INFO]: [voicechat] Loading voicechat v2.5.29
+[20:28:02] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
+[20:28:02] [Server thread/INFO]: [TPA] Loading TPA v3.2.3
+[20:28:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:28:02] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[20:28:02] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[20:28:03] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.4[32;1m.[0;39m
+[20:28:03] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[20:28:03] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[20:28:03] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[20:28:03] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[20:28:03] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.29
+[20:28:03] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.16.4-R0.1
+[20:28:03] [Server thread/INFO]: [voicechat] Compatibility version 18
+[20:28:03] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[20:28:03] [Server thread/INFO]: [TPA] Enabling TPA v3.2.3
+[20:28:03] [Server thread/INFO]: CONSOLE: Reload complete.
+[20:28:03] [Server thread/INFO]: Timings Reset
+[20:28:03] [Server thread/INFO]: [voicechat] Loading plugins
+[20:28:03] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[20:28:03] [Server thread/INFO]: [voicechat] Initializing plugins
+[20:28:03] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[20:28:03] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[20:28:03] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[20:28:03] [Craft Scheduler Thread - 4/INFO]: [TPA] 插件已成功加载！当前版本为：3.2.3
+[20:28:03] [Craft Scheduler Thread - 4/INFO]: [TPA] 正在检查更新...
+[20:28:03] [Craft Scheduler Thread - 4/INFO]: [TPA] 当前已是最新版本
+[20:28:04] [Craft Scheduler Thread - 6/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[20:28:04] [Craft Scheduler Thread - 6/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[20:28:04] [Craft Scheduler Thread - 6/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[20:28:04] [Craft Scheduler Thread - 6/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[20:28:04] [Craft Scheduler Thread - 6/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[20:28:04] [Craft Scheduler Thread - 6/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[20:28:04] [Craft Scheduler Thread - 6/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[20:28:04] [Craft Scheduler Thread - 6/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
+[20:28:04] [Craft Scheduler Thread - 6/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
+[20:28:04] [Craft Scheduler Thread - 6/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[20:28:04] [Craft Scheduler Thread - 6/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[20:28:04] [Craft Scheduler Thread - 6/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[20:28:04] [Craft Scheduler Thread - 6/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[20:28:10] [User Authenticator #2/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
+[20:28:10] [Server thread/INFO]: johanprodox joined the game
+[20:28:10] [Server thread/INFO]: johanprodox[/127.251.51.31:53237] logged in with entity id 746 at ([world]-644.3000000119209, 68.0, -487.8249271555674)
+[20:28:55] [Server thread/INFO]: johanprodox issued server command: /plugins
+[20:28:59] [Server thread/INFO]: johanprodox issued server command: /voicechat
+[20:29:03] [Server thread/INFO]: johanprodox issued server command: /voicechat:voicechat
+[20:29:09] [Server thread/INFO]: johanprodox issued server command: /voicechat:voicechat join
+[20:29:20] [Server thread/INFO]: johanprodox issued server command: /voicechat:voicechat invite
+[20:29:24] [Server thread/INFO]: johanprodox issued server command: /voicechat:voicechat invite johanprodox
+[20:32:54] [User Authenticator #3/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
+[20:32:54] [Server thread/INFO]: GaccGamer joined the game
+[20:32:54] [Server thread/INFO]: GaccGamer[/127.145.191.23:57343] logged in with entity id 1425 at ([world]-224.2433928409147, 64.0, 4894.300000011921)
+[20:33:03] [User Authenticator #3/INFO]: UUID of player Elpanamiguel_777 is 356f2a13-dbc2-334c-afa3-d724557be09d
+[20:33:03] [Server thread/INFO]: Elpanamiguel_777 joined the game
+[20:33:03] [Server thread/INFO]: Elpanamiguel_777[/127.88.243.213:33209] logged in with entity id 1790 at ([world]-1489.725585185243, 51.0, -833.6999999880791)
+[20:34:03] [User Authenticator #3/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
+[20:34:03] [Server thread/INFO]: rexer joined the game
+[20:34:03] [Server thread/INFO]: rexer[/127.109.181.221:34793] logged in with entity id 2520 at ([world]-1494.0005932572703, 51.0, -851.6100709769726)
+[20:34:21] [Async Chat Thread - #0/INFO]: <rexer> pana
