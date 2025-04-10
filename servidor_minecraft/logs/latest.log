@@ -1,198 +1,187 @@
-[20:40:18] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:40:19] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[20:40:19] [Worker-Main-2/INFO]: Loaded 7 recipes
-[20:40:20] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[20:40:20] [Server thread/INFO]: Loading properties
-[20:40:20] [Server thread/INFO]: This server is running Paper version git-Paper-416 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
-[20:40:20] [Server thread/INFO]: Debug logging is disabled
-[20:40:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:40:20] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:40:20] [Server thread/INFO]: Default game type: SURVIVAL
-[20:40:20] [Server thread/INFO]: Generating keypair
-[20:40:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:40:20] [Server thread/INFO]: Using epoll channel type
-[20:40:21] [Server thread/INFO]: [voicechat] Loading voicechat v2.5.29
-[20:40:21] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
-[20:40:21] [Server thread/INFO]: [TPA] Loading TPA v3.2.3
-[20:40:21] [Server thread/INFO]: [PreLoginWhitelist] Loading PreLoginWhitelist v1.3
-[20:40:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:40:21] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
-[20:40:21] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[20:40:21] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.4[32;1m.[0;39m
-[20:40:22] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
-[20:40:22] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
-[20:40:22] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
-[20:40:22] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
-[20:40:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:40:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:40:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:40:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:40:22] [Server thread/INFO]: Preparing level "world"
-[20:40:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:40:22] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[20:40:22] [Server thread/INFO]: Preparing spawn area: 0%
-[20:40:22] [Server thread/INFO]: Preparing spawn area: 0%
-[20:40:23] [Server thread/INFO]: Time elapsed: 854 ms
-[20:40:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:40:23] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[20:40:23] [Server thread/INFO]: Preparing spawn area: 0%
-[20:40:23] [Server thread/INFO]: Preparing spawn area: 72%
-[20:40:23] [Server thread/INFO]: Time elapsed: 588 ms
-[20:40:23] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.29
-[20:40:23] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.16.4-R0.1
-[20:40:23] [Server thread/INFO]: [voicechat] Compatibility version 18
-[20:40:23] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[20:40:23] [Server thread/INFO]: [TPA] Enabling TPA v3.2.3
-[20:40:23] [Server thread/INFO]: [PreLoginWhitelist] Enabling PreLoginWhitelist v1.3
-[20:40:23] [Server thread/INFO]: Running delayed init tasks
-[20:40:24] [Server thread/INFO]: [voicechat] Loading plugins
-[20:40:24] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[20:40:24] [Server thread/INFO]: [voicechat] Initializing plugins
-[20:40:24] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[20:40:24] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[20:40:24] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[20:40:24] [Server thread/INFO]: Done (3.424s)! For help, type "help"
-[20:40:24] [Server thread/INFO]: Timings Reset
-[20:40:24] [Craft Scheduler Thread - 0/INFO]: [TPA] 插件已成功加载！当前版本为：3.2.3
-[20:40:24] [Craft Scheduler Thread - 0/INFO]: [TPA] 正在检查更新...
-[20:40:24] [Craft Scheduler Thread - 0/INFO]: [TPA] 当前已是最新版本
-[20:40:24] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[20:40:24] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[20:40:24] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[20:40:24] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[20:40:24] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[20:40:24] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[20:40:24] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[20:40:24] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
-[20:40:24] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
-[20:40:24] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[20:40:24] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[20:40:24] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[20:40:24] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[20:40:31] [User Authenticator #1/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
-[20:40:31] [Server thread/INFO]: johanprodox joined the game
-[20:40:31] [Server thread/INFO]: johanprodox[/127.251.51.31:60723] logged in with entity id 175 at ([world]-646.339959002093, 73.0, -499.64812772128244)
-[20:40:33] [User Authenticator #1/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[20:40:33] [Server thread/INFO]: rexer joined the game
-[20:40:33] [Server thread/INFO]: rexer[/127.109.181.221:47253] logged in with entity id 600 at ([world]-1485.1832512687392, 51.0, -865.2743504118177)
-[20:40:42] [Server thread/INFO]: rexer issued server command: /home
-[20:40:43] [Server thread/INFO]: johanprodox issued server command: /bukkit:plugins
-[20:40:55] [Server thread/INFO]: rexer issued server command: /sethome
-[20:40:59] [Server thread/INFO]: rexer issued server command: /sethome base end
-[20:41:35] [Server thread/INFO]: rexer issued server command: /home
-[20:41:37] [User Authenticator #2/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
-[20:41:37] [Server thread/INFO]: GaccGamer joined the game
-[20:41:37] [Server thread/INFO]: GaccGamer[/127.145.191.23:60675] logged in with entity id 1026 at ([world]-230.2022413322921, 66.0, 4934.134006792772)
-[20:41:40] [Craft Scheduler Thread - 12/INFO]: default
-[20:41:40] [Craft Scheduler Thread - 10/INFO]: default
-[20:42:03] [User Authenticator #2/INFO]: UUID of player Elpanamiguel_777 is 356f2a13-dbc2-334c-afa3-d724557be09d
-[20:42:03] [Server thread/INFO]: Elpanamiguel_777 joined the game
-[20:42:03] [Server thread/INFO]: Elpanamiguel_777[/127.88.243.213:52923] logged in with entity id 1556 at ([world]-1492.5868443451545, 51.0, -847.0246873818513)
-[20:43:42] [Async Chat Thread - #0/INFO]: <rexer> oigan el netherite ya esta en la version?
-[20:43:42] [User Authenticator #3/INFO]: UUID of player kwimiii is 7bf8fa59-d927-3016-99c8-1175082e9d8e
-[20:43:42] [Server thread/INFO]: kwimiii joined the game
-[20:43:42] [Server thread/INFO]: kwimiii[/127.36.46.139:60589] logged in with entity id 2230 at ([world]-881.4126656662348, 72.0, -891.9501084517887)
-[20:44:00] [Async Chat Thread - #0/INFO]: <Elpanamiguel_777> si pe
-[20:44:05] [Async Chat Thread - #0/INFO]: <rexer> ok
-[20:44:09] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[20:44:09] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[20:44:09] [Server thread/INFO]: Debug logging is disabled
-[20:44:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:44:09] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:44:09] [Server thread/INFO]: [PreLoginWhitelist] Disabling PreLoginWhitelist v1.3
-[20:44:09] [Server thread/INFO]: [TPA] Disabling TPA v3.2.3
-[20:44:09] [Server thread/INFO]: [TPA] 插件已成功卸载！
-[20:44:09] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
-[20:44:09] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.29
-[20:44:09] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[20:44:09] [Server thread/INFO]: Loaded 7 recipes
-[20:44:10] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[20:44:10] [Server thread/INFO]: Loaded 7 recipes
-[20:44:10] [Server thread/INFO]: [voicechat] Loading voicechat v2.5.29
-[20:44:10] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
-[20:44:10] [Server thread/INFO]: [TPA] Loading TPA v3.2.3
-[20:44:10] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
-[20:44:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:44:10] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
-[20:44:10] [Server thread/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
-[20:44:10] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[20:44:10] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.4[32;1m.[0;39m
-[20:44:11] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
-[20:44:11] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
-[20:44:11] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
-[20:44:11] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
-[20:44:11] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.29
-[20:44:11] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.16.4-R0.1
-[20:44:11] [Server thread/INFO]: [voicechat] Compatibility version 18
-[20:44:11] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[20:44:11] [Server thread/ERROR]: [voicechat] Simple Voice Chat does not support reloads! Expect that things will break!
-[20:44:11] [Server thread/INFO]: [TPA] Enabling TPA v3.2.3
-[20:44:11] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[20:44:11] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[20:44:11] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[20:44:11] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 1: Initial
-[20:44:11] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 2: Add uuid mode
-[20:44:11] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 3: Fix inventories
-[20:44:11] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 4: Add name index
-[20:44:11] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[20:44:11] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[20:44:11] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[20:44:11] [Server thread/INFO]: CONSOLE: Reload complete.
-[20:44:11] [Server thread/INFO]: Timings Reset
-[20:44:11] [Server thread/INFO]: [voicechat] Loading plugins
-[20:44:11] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[20:44:11] [Server thread/INFO]: [voicechat] Initializing plugins
-[20:44:11] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[20:44:11] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[20:44:11] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[20:44:11] [Craft Scheduler Thread - 16/INFO]: [TPA] 插件已成功加载！当前版本为：3.2.3
-[20:44:11] [Craft Scheduler Thread - 16/INFO]: [TPA] 正在检查更新...
-[20:44:11] [Craft Scheduler Thread - 16/INFO]: [TPA] 当前已是最新版本
-[20:44:11] [Craft Scheduler Thread - 18/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[20:44:11] [Craft Scheduler Thread - 18/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[20:44:11] [Craft Scheduler Thread - 18/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[20:44:11] [Craft Scheduler Thread - 18/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[20:44:11] [Craft Scheduler Thread - 18/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[20:44:11] [Craft Scheduler Thread - 18/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[20:44:11] [Craft Scheduler Thread - 18/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[20:44:11] [Craft Scheduler Thread - 18/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
-[20:44:11] [Craft Scheduler Thread - 18/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
-[20:44:11] [Craft Scheduler Thread - 18/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[20:44:11] [Craft Scheduler Thread - 18/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[20:44:11] [Craft Scheduler Thread - 18/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[20:44:11] [Craft Scheduler Thread - 18/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[20:44:15] [Server thread/INFO]: Startup script './start.sh' does not exist! Stopping server.
-[20:44:15] [Server thread/INFO]: johanprodox lost connection: Server is restarting
-[20:44:15] [Server thread/INFO]: [voicechat] Disconnecting client johanprodox
-[20:44:15] [Server thread/INFO]: johanprodox left the game
-[20:44:15] [Server thread/INFO]: rexer lost connection: Server is restarting
-[20:44:15] [Server thread/INFO]: [voicechat] Disconnecting client rexer
-[20:44:15] [Server thread/INFO]: rexer left the game
-[20:44:15] [Server thread/INFO]: GaccGamer lost connection: Server is restarting
-[20:44:15] [Server thread/INFO]: [voicechat] Disconnecting client GaccGamer
-[20:44:15] [Server thread/INFO]: GaccGamer left the game
-[20:44:15] [Server thread/INFO]: Elpanamiguel_777 lost connection: Server is restarting
-[20:44:15] [Server thread/INFO]: [voicechat] Disconnecting client Elpanamiguel_777
-[20:44:15] [Server thread/INFO]: Elpanamiguel_777 left the game
-[20:44:15] [Server thread/INFO]: kwimiii lost connection: Server is restarting
-[20:44:15] [Server thread/INFO]: [voicechat] Disconnecting client kwimiii
-[20:44:15] [Server thread/INFO]: kwimiii left the game
-[20:44:16] [Server thread/INFO]: Stopping server
-[20:44:16] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
-[20:44:16] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[20:44:16] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[20:44:16] [Server thread/INFO]: [TPA] Disabling TPA v3.2.3
-[20:44:16] [Server thread/INFO]: [TPA] 插件已成功卸载！
-[20:44:16] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
-[20:44:16] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.29
-[20:44:16] [Server thread/INFO]: Saving players
-[20:44:16] [Server thread/INFO]: Saving worlds
-[20:44:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:44:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:44:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[20:44:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:44:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:44:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:44:20] [Server thread/INFO]: Flushing Chunk IO
-[20:44:20] [Server thread/INFO]: Closing Thread Pool
-[20:44:20] [Server thread/INFO]: Closing Server
+[22:40:38] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:40:38] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[22:40:39] [Worker-Main-2/INFO]: Loaded 7 recipes
+[22:40:40] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[22:40:40] [Server thread/INFO]: Loading properties
+[22:40:40] [Server thread/INFO]: This server is running Paper version git-Paper-416 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[22:40:40] [Server thread/INFO]: Debug logging is disabled
+[22:40:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:40:40] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:40:40] [Server thread/INFO]: Default game type: SURVIVAL
+[22:40:40] [Server thread/INFO]: Generating keypair
+[22:40:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:40:40] [Server thread/INFO]: Using epoll channel type
+[22:40:41] [Server thread/INFO]: [voicechat] Loading voicechat v2.5.29
+[22:40:41] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
+[22:40:41] [Server thread/INFO]: [TPA] Loading TPA v3.2.3
+[22:40:41] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
+[22:40:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:40:41] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[22:40:41] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[22:40:41] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.4[32;1m.[0;39m
+[22:40:42] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[22:40:42] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[22:40:42] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[22:40:42] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[22:40:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:40:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:40:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:40:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:40:42] [Server thread/INFO]: Preparing level "world"
+[22:40:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:40:42] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[22:40:42] [Server thread/INFO]: Preparing spawn area: 0%
+[22:40:42] [Server thread/INFO]: Preparing spawn area: 2%
+[22:40:42] [Server thread/INFO]: Time elapsed: 621 ms
+[22:40:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:40:42] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[22:40:42] [Server thread/INFO]: Preparing spawn area: 0%
+[22:40:43] [Server thread/INFO]: Time elapsed: 340 ms
+[22:40:43] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.29
+[22:40:43] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.16.4-R0.1
+[22:40:43] [Server thread/INFO]: [voicechat] Compatibility version 18
+[22:40:43] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[22:40:43] [Server thread/INFO]: [TPA] Enabling TPA v3.2.3
+[22:40:43] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[22:40:43] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[22:40:43] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[22:40:43] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[22:40:43] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[22:40:43] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[22:40:43] [Server thread/INFO]: Running delayed init tasks
+[22:40:43] [Server thread/INFO]: [voicechat] Loading plugins
+[22:40:43] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[22:40:43] [Server thread/INFO]: [voicechat] Initializing plugins
+[22:40:43] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[22:40:43] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[22:40:43] [Server thread/INFO]: Done (3.240s)! For help, type "help"
+[22:40:43] [Server thread/INFO]: Timings Reset
+[22:40:43] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[22:40:43] [Craft Scheduler Thread - 0/INFO]: [TPA] 插件已成功加载！当前版本为：3.2.3
+[22:40:43] [Craft Scheduler Thread - 0/INFO]: [TPA] 正在检查更新...
+[22:40:44] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[22:40:44] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[22:40:44] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[22:40:44] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[22:40:44] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[22:40:44] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[22:40:44] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[22:40:44] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
+[22:40:44] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
+[22:40:44] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[22:40:44] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[22:40:44] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[22:40:44] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[22:40:44] [Craft Scheduler Thread - 0/INFO]: [TPA] 当前已是最新版本
+[22:41:03] [User Authenticator #1/INFO]: UUID of player LinenFeather949 is 43e0a2df-b9b5-3dcc-bcaf-9e76a1fc8542
+[22:41:03] [Server thread/INFO]: LinenFeather949 joined the game
+[22:41:03] [Server thread/INFO]: LinenFeather949[/127.27.217.228:46427] logged in with entity id 201 at ([world_nether]-109.9282704592629, 57.024424088213685, -131.3853784770318)
+[22:41:32] [User Authenticator #1/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
+[22:41:32] [Server thread/INFO]: johanprodox joined the game
+[22:41:32] [Server thread/INFO]: johanprodox[/127.251.51.31:52223] logged in with entity id 286 at ([world]-1289.9940100558301, 71.0, -1930.8405340233928)
+[22:41:41] [User Authenticator #1/INFO]: UUID of player Zackmo64 is 60d33d32-1f30-345b-bc3b-02ffb5a079b3
+[22:41:41] [Server thread/INFO]: Zackmo64 joined the game
+[22:41:41] [Server thread/INFO]: Zackmo64[/127.227.44.37:55157] logged in with entity id 742 at ([world]-1313.300000011921, 63.0, -926.3375130560116)
+[22:41:55] [User Authenticator #1/INFO]: UUID of player Elpanamiguel_777 is 356f2a13-dbc2-334c-afa3-d724557be09d
+[22:41:55] [Server thread/INFO]: Elpanamiguel_777 joined the game
+[22:41:55] [Server thread/INFO]: Elpanamiguel_777[/127.88.243.213:56233] logged in with entity id 1342 at ([world]-602.5988435200873, 18.753199980521202, -657.711719397478)
+[22:42:32] [Async Chat Thread - #0/INFO]: <LinenFeather949> tepeate
+[22:42:34] [Async Chat Thread - #0/INFO]: <LinenFeather949> adiel
+[22:42:56] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpa
+[22:43:13] [Async Chat Thread - #0/INFO]: <Zackmo64> t
+[22:43:18] [Async Chat Thread - #0/INFO]: <LinenFeather949> p
+[22:43:21] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpa LinenFeather949
+[22:43:24] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
+[22:43:29] [User Authenticator #2/INFO]: UUID of player kwimiii is 7bf8fa59-d927-3016-99c8-1175082e9d8e
+[22:43:29] [Server thread/INFO]: kwimiii joined the game
+[22:43:29] [Server thread/INFO]: kwimiii[/127.36.46.139:48241] logged in with entity id 2375 at ([world]-1275.3542567968536, 71.02442408821369, -1971.83421470854)
+[22:43:29] [Craft Scheduler Thread - 20/INFO]: LinenFeather949
+[22:43:29] [Craft Scheduler Thread - 19/INFO]: LinenFeather949
+[22:45:19] [Async Chat Thread - #1/INFO]: <LinenFeather949> afk
+[22:45:20] [Server thread/INFO]: LinenFeather949 lost connection: Disconnected
+[22:45:20] [Server thread/INFO]: [voicechat] Disconnecting client LinenFeather949
+[22:45:20] [Server thread/INFO]: LinenFeather949 left the game
+[22:45:30] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox perdi mi escudo
+[22:45:59] [Async Chat Thread - #1/INFO]: <johanprodox> kiara
+[22:46:04] [Async Chat Thread - #1/INFO]: <johanprodox> pera
+[22:46:16] [Async Chat Thread - #1/INFO]: <johanprodox> no tengo madera
+[22:49:53] [Server thread/INFO]: Zackmo64 has made the advancement [Eye Spy]
+[22:49:57] [Async Chat Thread - #2/INFO]: <Zackmo64> huyy
+[22:50:14] [User Authenticator #3/INFO]: UUID of player LinenFeather949 is 43e0a2df-b9b5-3dcc-bcaf-9e76a1fc8542
+[22:50:14] [Server thread/INFO]: LinenFeather949 joined the game
+[22:50:14] [Server thread/INFO]: LinenFeather949[/127.27.217.228:59349] logged in with entity id 5128 at ([world]-945.772505153566, 74.0, -1020.3905950032344)
+[22:50:27] [Server thread/INFO]: LinenFeather949 issued server command: /tpa Elpanamiguel_777
+[22:50:28] [Server thread/INFO]: Zackmo64 tried to swim in lava
+[22:50:33] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpaccept
+[22:50:38] [Craft Scheduler Thread - 27/INFO]: Elpanamiguel_777
+[22:50:38] [Craft Scheduler Thread - 27/INFO]: Elpanamiguel_777
+[22:51:22] [Server thread/INFO]: johanprodox was blown up by Creeper
+[22:51:30] [Async Chat Thread - #3/INFO]: <LinenFeather949> XD
+[22:51:46] [Server thread/INFO]: kwimiii was blown up by Creeper
+[22:52:05] [Server thread/INFO]: kwimiii issued server command: /tpa johanprodox
+[22:52:08] [Async Chat Thread - #3/INFO]: <Elpanamiguel_777> xddddddddddddd
+[22:52:14] [Server thread/INFO]: johanprodox issued server command: /tpaccept
+[22:52:19] [Craft Scheduler Thread - 32/INFO]: johanprodox
+[22:52:19] [Craft Scheduler Thread - 33/INFO]: johanprodox
+[22:53:02] [User Authenticator #4/INFO]: UUID of player Kiwing is 80e8e31c-31e1-3003-a2ee-ff97818bee8b
+[22:53:02] [Server thread/INFO]: Kiwing joined the game
+[22:53:02] [Server thread/INFO]: Kiwing[/127.210.68.95:37739] logged in with entity id 6968 at ([world]-552.5204528103012, 62.07326374583841, -3002.011755566589)
+[22:54:21] [User Authenticator #5/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
+[22:54:22] [Server thread/INFO]: rexer joined the game
+[22:54:22] [Server thread/INFO]: rexer[/127.109.181.221:39917] logged in with entity id 7970 at ([world]-649.4840261283127, 88.0, -1349.4204104579933)
+[22:54:41] [Async Chat Thread - #4/INFO]: <rexer> causa donde se sube el computo
+[22:54:49] [Async Chat Thread - #4/INFO]: <kwimiii> pasen link
+[22:54:54] [Async Chat Thread - #4/INFO]: <LinenFeather949> no pes
+[22:54:57] [Async Chat Thread - #4/INFO]: <LinenFeather949> por bot
+[22:55:26] [Async Chat Thread - #4/INFO]: <rexer> oe angelo ya pase el excel
+[22:55:29] [Async Chat Thread - #4/INFO]: <rexer> pero donde se sube el este
+[22:55:34] [Async Chat Thread - #4/INFO]: <LinenFeather949> nose
+[22:55:39] [Async Chat Thread - #4/INFO]: <rexer> tmr
+[22:55:40] [Async Chat Thread - #4/INFO]: <LinenFeather949> dice donde el link q se mando antes
+[22:55:47] [Async Chat Thread - #4/INFO]: <rexer> cual p
+[22:55:50] [Async Chat Thread - #4/INFO]: <LinenFeather949> nose
+[22:56:05] [Server thread/INFO]: rexer issued server command: /home
+[22:56:08] [Server thread/INFO]: rexer issued server command: /home default
+[22:56:12] [Async Chat Thread - #4/INFO]: <rexer> ire a base tonces
+[22:56:13] [Craft Scheduler Thread - 46/INFO]: default
+[22:56:13] [Craft Scheduler Thread - 47/INFO]: default
+[22:56:19] [Server thread/WARN]: Boat (vehicle of Kiwing) moved wrongly! 1.22021484375
+[22:56:19] [Server thread/WARN]: Boat (vehicle of Kiwing) moved wrongly! 1.2502158377319574
+[22:56:19] [Server thread/WARN]: Boat (vehicle of Kiwing) moved wrongly! 1.307275989122445
+[22:56:19] [Server thread/WARN]: Boat (vehicle of Kiwing) moved wrongly! 1.3887399300001562
+[22:56:19] [Server thread/WARN]: Boat (vehicle of Kiwing) moved wrongly! 1.4677583730340302
+[22:56:19] [Server thread/WARN]: Boat (vehicle of Kiwing) moved wrongly! 1.545327158561122
+[22:56:19] [Server thread/WARN]: Boat (vehicle of Kiwing) moved wrongly! 1.6220362246835975
+[22:56:39] [Server thread/INFO]: Kiwing issued server command: /tpa
+[22:56:53] [Server thread/INFO]: Kiwing issued server command: /tpa
+[22:57:11] [Server thread/INFO]: Kiwing issued server command: /tpa LinenFeather949
+[22:57:13] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
+[22:57:17] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
+[22:57:35] [Server thread/INFO]: Kiwing issued server command: /tpa LinenFeather949
+[22:57:40] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
+[22:57:45] [Craft Scheduler Thread - 55/INFO]: LinenFeather949
+[22:57:45] [Craft Scheduler Thread - 54/INFO]: LinenFeather949
+[22:58:37] [Async Chat Thread - #5/INFO]: <LinenFeather949> oe dayron
+[22:58:40] [Async Chat Thread - #5/INFO]: <rexer> q
+[22:58:42] [Async Chat Thread - #5/INFO]: <LinenFeather949> ahora keivn es uno de los nuestros
+[22:58:47] [Async Chat Thread - #5/INFO]: <rexer> grrrrr
+[22:58:52] [Async Chat Thread - #5/INFO]: <rexer> estoy ardido con kevin
+[22:58:52] [Async Chat Thread - #5/INFO]: <rexer> oe
+[22:58:57] [Async Chat Thread - #5/INFO]: <LinenFeather949> te conformas o seva seva
+[22:58:59] [Async Chat Thread - #5/INFO]: <Kiwing> disculpa pe dayron
+[22:59:02] [Async Chat Thread - #5/INFO]: <Kiwing> tenia hambre
+[22:59:09] [Async Chat Thread - #5/INFO]: <rexer> pero busca aliarte con los que saben jugar
+[22:59:18] [Async Chat Thread - #5/INFO]: <Kiwing> no p
+[22:59:18] [Async Chat Thread - #5/INFO]: <LinenFeather949> epa
+[22:59:29] [Async Chat Thread - #5/INFO]: <rexer> igual kevin sirve
+[22:59:33] [Server thread/INFO]: rexer issued server command: /home
+[22:59:35] [Server thread/INFO]: rexer issued server command: /home default
+[22:59:40] [Craft Scheduler Thread - 60/INFO]: default
+[22:59:40] [Craft Scheduler Thread - 61/INFO]: default
+[22:59:51] [Async Chat Thread - #5/INFO]: <rexer> mas piezas para el monopolio
+[23:00:09] [Server thread/INFO]: rexer issued server command: /home
+[23:00:13] [Server thread/INFO]: rexer issued server command: /home default
+[23:00:17] [Craft Scheduler Thread - 64/INFO]: default
+[23:00:18] [Craft Scheduler Thread - 63/INFO]: default
+[23:00:23] [Async Chat Thread - #5/INFO]: <rexer> igual necesitamos gente para ya matar a la dragona
+[23:00:35] [Async Chat Thread - #5/INFO]: <johanprodox> cuando vayan pasen cords

@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-10 21:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-04-10 16:10:14 +0000"
@@ -200,6 +206,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting": {
     "criteria": {
       "has_gold_ore": "2025-04-10 17:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-10 21:34:27 +0000"
     },
     "done": true
   },
@@ -263,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-10 21:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-04-10 14:28:27 +0000"
@@ -314,6 +332,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-10 16:52:08 +0000",
+      "chicken": "2025-04-10 21:50:52 +0000",
+      "cooked_mutton": "2025-04-10 21:59:55 +0000",
       "sweet_berries": "2025-04-10 19:01:10 +0000",
       "cooked_beef": "2025-04-10 14:38:56 +0000",
       "beef": "2025-04-10 14:31:56 +0000",
@@ -321,7 +341,8 @@
       "mutton": "2025-04-10 14:28:31 +0000",
       "bread": "2025-04-10 15:10:09 +0000",
       "golden_apple": "2025-04-10 18:28:02 +0000",
-      "rotten_flesh": "2025-04-10 17:04:56 +0000"
+      "rotten_flesh": "2025-04-10 17:04:56 +0000",
+      "cooked_chicken": "2025-04-10 22:02:34 +0000"
     },
     "done": false
   },
@@ -352,6 +373,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 15:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-04-10 22:25:11 +0000"
     },
     "done": true
   },
@@ -454,6 +481,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-10 14:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-10 21:50:49 +0000"
     },
     "done": true
   },
@@ -786,6 +819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-10 21:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-04-10 20:35:54 +0000"
@@ -813,6 +852,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-10 16:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-10 21:50:49 +0000"
     },
     "done": true
   },
@@ -909,6 +954,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-10 18:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-04-10 20:50:36 +0000"
     },
     "done": true
   },
@@ -1098,6 +1149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-04-10 22:25:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2025-04-10 17:42:11 +0000"
@@ -1143,6 +1200,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-10 18:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-04-10 22:25:11 +0000"
     },
     "done": true
   },
@@ -1215,6 +1278,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-10 19:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-04-10 22:25:11 +0000"
     },
     "done": true
   },
@@ -1444,6 +1513,7 @@
       "minecraft:snowy_tundra": "2025-04-10 14:54:38 +0000",
       "minecraft:desert": "2025-04-10 14:41:19 +0000",
       "minecraft:frozen_river": "2025-04-10 15:06:19 +0000",
+      "minecraft:birch_forest": "2025-04-10 22:52:41 +0000",
       "minecraft:snowy_beach": "2025-04-10 14:50:07 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-10 14:48:15 +0000",
       "minecraft:savanna_plateau": "2025-04-10 14:43:33 +0000",
@@ -1452,6 +1522,7 @@
       "minecraft:river": "2025-04-10 14:25:06 +0000",
       "minecraft:lukewarm_ocean": "2025-04-10 14:42:26 +0000",
       "minecraft:snowy_taiga": "2025-04-10 14:54:20 +0000",
+      "minecraft:birch_forest_hills": "2025-04-10 22:51:24 +0000",
       "minecraft:wooded_mountains": "2025-04-10 18:42:14 +0000",
       "minecraft:wooded_hills": "2025-04-10 17:17:36 +0000",
       "minecraft:snowy_taiga_hills": "2025-04-10 16:09:08 +0000",
@@ -1674,6 +1745,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-04-10 19:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-10 21:50:49 +0000"
     },
     "done": true
   },

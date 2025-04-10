@@ -1,0 +1,17 @@
+player_name: alejandro123532
+language: es_ES
+setlang: false
+last_location:
+  world: world
+  x: -226.69270149974218
+  y: 64.0
+  z: 4893.4664981994865
+  pitch: 25.689749
+  yaw: 268.80835
+logout_location:
+  world: world
+  x: -310.94191169008707
+  y: 67.0
+  z: 4821.514260323541
+  pitch: 20.855825
+  yaw: 304.94092

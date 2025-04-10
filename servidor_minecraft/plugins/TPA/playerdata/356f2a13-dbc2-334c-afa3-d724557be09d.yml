@@ -3,8 +3,15 @@ language: es_ES
 setlang: false
 logout_location:
   world: world
-  x: -1493.4700793296631
+  x: -1489.847012210052
   y: 51.0
-  z: -841.688289681138
-  pitch: 36.74994
-  yaw: 62.397156
+  z: -861.6471074337836
+  pitch: 12.899995
+  yaw: -21.599993
+last_location:
+  world: world
+  x: -589.4734243972745
+  y: 73.92159999847412
+  z: -1006.7149818169833
+  pitch: 22.903076
+  yaw: 95.150635

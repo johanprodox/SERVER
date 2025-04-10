@@ -1,0 +1,17 @@
+player_name: Kiwing
+language: es_ES
+setlang: false
+last_location:
+  world: world
+  x: -1438.4794644113601
+  y: 62.04080920709105
+  z: -931.664342631017
+  pitch: 39.511
+  yaw: 69.81494
+logout_location:
+  world: world
+  x: -552.5204528103012
+  y: 62.07326374583841
+  z: -3002.011755566589
+  pitch: 20.376635
+  yaw: 228.65067
