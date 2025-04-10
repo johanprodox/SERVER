@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-10 18:14:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-04-10 16:11:47 +0000"
@@ -289,6 +295,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-10 18:12:37 +0000",
       "cooked_mutton": "2025-04-10 16:09:07 +0000",
       "beef": "2025-04-10 15:58:10 +0000",
       "bread": "2025-04-10 16:44:57 +0000",
@@ -694,6 +701,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:hoglin": "2025-04-10 18:14:38 +0000",
       "minecraft:piglin_brute": "2025-04-10 17:08:00 +0000"
     },
     "done": false

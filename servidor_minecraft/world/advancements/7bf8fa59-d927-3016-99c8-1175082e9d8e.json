@@ -268,6 +268,7 @@
       "cooked_porkchop": "2025-04-10 15:08:14 +0000",
       "chicken": "2025-04-10 14:36:54 +0000",
       "cooked_mutton": "2025-04-10 14:48:14 +0000",
+      "cooked_beef": "2025-04-10 18:03:24 +0000",
       "porkchop": "2025-04-10 14:35:03 +0000",
       "mutton": "2025-04-10 14:40:28 +0000",
       "rotten_flesh": "2025-04-10 15:12:57 +0000",
@@ -676,7 +677,8 @@
       "minecraft:skeleton": "2025-04-10 14:55:30 +0000",
       "minecraft:spider": "2025-04-10 15:19:06 +0000",
       "minecraft:husk": "2025-04-10 14:55:19 +0000",
-      "minecraft:zombie": "2025-04-10 14:55:00 +0000"
+      "minecraft:zombie": "2025-04-10 14:55:00 +0000",
+      "minecraft:zombie_villager": "2025-04-10 18:09:42 +0000"
     },
     "done": false
   },
@@ -911,6 +913,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2025-04-10 14:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-10 18:05:22 +0000"
     },
     "done": true
   },
@@ -1151,6 +1159,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-04-10 14:34:03 +0000",
+      "minecraft:mountains": "2025-04-10 18:17:26 +0000",
       "minecraft:desert_hills": "2025-04-10 16:16:49 +0000",
       "minecraft:desert": "2025-04-10 14:54:15 +0000",
       "minecraft:birch_forest": "2025-04-10 17:08:08 +0000",
@@ -1237,6 +1246,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-10 14:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-10 18:08:13 +0000"
     },
     "done": true
   },

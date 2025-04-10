@@ -244,8 +244,11 @@
       "cooked_porkchop": "2025-04-10 14:43:03 +0000",
       "cooked_mutton": "2025-04-10 14:47:06 +0000",
       "cooked_beef": "2025-04-10 14:55:09 +0000",
+      "beef": "2025-04-10 18:06:13 +0000",
       "porkchop": "2025-04-10 14:37:33 +0000",
-      "mutton": "2025-04-10 14:57:47 +0000"
+      "mutton": "2025-04-10 14:57:47 +0000",
+      "rotten_flesh": "2025-04-10 18:11:28 +0000",
+      "carrot": "2025-04-10 18:12:47 +0000"
     },
     "done": false
   },
@@ -643,6 +646,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-10 14:55:27 +0000",
       "minecraft:spider": "2025-04-10 14:46:06 +0000",
+      "minecraft:slime": "2025-04-10 18:13:46 +0000",
       "minecraft:witch": "2025-04-10 14:45:52 +0000",
       "minecraft:husk": "2025-04-10 14:55:48 +0000",
       "minecraft:zombie": "2025-04-10 14:46:33 +0000"
@@ -712,6 +716,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-04-10 14:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-10 18:13:41 +0000"
     },
     "done": true
   },
@@ -961,6 +971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-10 18:13:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-04-10 14:49:11 +0000"
@@ -1114,6 +1130,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_the_recipe": "2025-04-10 14:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-10 18:13:41 +0000"
     },
     "done": true
   },
