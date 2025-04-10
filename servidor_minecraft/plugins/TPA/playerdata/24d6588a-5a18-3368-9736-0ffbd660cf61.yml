@@ -2,9 +2,24 @@ player_name: rexer
 language: es_ES
 setlang: false
 last_location:
-  world: world
-  x: -1479.2007802696003
-  y: 51.05489334703208
-  z: -848.7182091547917
-  pitch: 45.36988
-  yaw: -201.40773
+  world: world_nether
+  x: -156.42193171453786
+  y: 70.0
+  z: -112.02392757001944
+  pitch: 15.998852
+  yaw: 2.750183
+homes:
+  default:
+    world: world
+    x: -1493.934920086457
+    y: 51.0
+    z: -843.9145761329544
+    pitch: 15.2296715
+    yaw: 2.9295723
+logout_location:
+  world: world_nether
+  x: -156.69999998807907
+  y: 70.0
+  z: -112.57168600029637
+  pitch: 54.150005
+  yaw: -4.4800634

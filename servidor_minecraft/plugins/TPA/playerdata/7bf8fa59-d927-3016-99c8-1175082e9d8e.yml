@@ -1,0 +1,17 @@
+player_name: kwimiii
+language: es_ES
+setlang: false
+logout_location:
+  world: world
+  x: -879.1257748060858
+  y: 74.53584062504456
+  z: -887.9118971200204
+  pitch: 40.650173
+  yaw: 73.05972
+last_location:
+  world: world
+  x: -879.1070253337841
+  y: 74.53584062504456
+  z: -887.9176082746675
+  pitch: 40.650173
+  yaw: 73.80973

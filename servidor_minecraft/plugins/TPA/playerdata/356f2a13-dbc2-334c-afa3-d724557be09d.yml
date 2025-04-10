@@ -1,3 +1,10 @@
 player_name: Elpanamiguel_777
 language: es_ES
 setlang: false
+logout_location:
+  world: world
+  x: -1493.4700793296631
+  y: 51.0
+  z: -841.688289681138
+  pitch: 36.74994
+  yaw: 62.397156

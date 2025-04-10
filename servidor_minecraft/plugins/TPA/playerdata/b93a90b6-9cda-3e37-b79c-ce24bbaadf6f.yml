@@ -1,3 +1,10 @@
 player_name: johanprodox
 language: es_MX
 setlang: false
+logout_location:
+  world: world
+  x: -646.6999999880791
+  y: 72.0
+  z: -499.62043596827704
+  pitch: 10.64972
+  yaw: -53.16863

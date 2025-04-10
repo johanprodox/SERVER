@@ -1,3 +1,25 @@
 player_name: GaccGamer
 language: es_ES
 setlang: false
+homes:
+  default:
+    world: world
+    x: -226.7053473423471
+    y: 65.0
+    z: 4898.384681693436
+    pitch: 33.363655
+    yaw: 250.18823
+last_location:
+  world: world
+  x: -231.69999998807907
+  y: 64.0
+  z: 4903.699999988079
+  pitch: 31.494268
+  yaw: 217.95381
+logout_location:
+  world: world
+  x: -228.8777912585458
+  y: 64.0
+  z: 4896.244452065151
+  pitch: 27.70401
+  yaw: -166.98611
