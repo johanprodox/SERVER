@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-04-11 03:08:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 16:19:30 +0000"
@@ -353,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2025-04-11 03:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-10 16:30:13 +0000"
@@ -404,6 +416,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-04-10 16:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-04-11 03:08:03 +0000"
     },
     "done": true
   },
@@ -894,6 +912,7 @@
       "minecraft:piglin_brute": "2025-04-10 17:08:00 +0000",
       "minecraft:spider": "2025-04-10 19:12:24 +0000",
       "minecraft:creeper": "2025-04-10 19:27:48 +0000",
+      "minecraft:piglin": "2025-04-11 03:05:07 +0000",
       "minecraft:zombie": "2025-04-10 19:06:09 +0000",
       "minecraft:zombie_villager": "2025-04-10 19:12:01 +0000"
     },
