@@ -2,12 +2,12 @@ player_name: alejandro123532
 language: es_ES
 setlang: false
 last_location:
-  world: world
-  x: -226.69270149974218
-  y: 64.0
-  z: 4893.4664981994865
-  pitch: 25.689749
-  yaw: 268.80835
+  world: world_nether
+  x: -32.30000001192093
+  y: 72.79673560066871
+  z: 581.6999999880791
+  pitch: 89.59917
+  yaw: -39.459564
 logout_location:
   world: world
   x: -310.94191169008707

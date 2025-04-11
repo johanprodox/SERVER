@@ -1,316 +1,101 @@
-[23:18:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23:18:37] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[23:18:38] [Worker-Main-2/INFO]: Loaded 7 recipes
-[23:18:39] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[23:18:39] [Server thread/INFO]: Loading properties
-[23:18:39] [Server thread/INFO]: This server is running Paper version git-Paper-416 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
-[23:18:39] [Server thread/INFO]: Debug logging is disabled
-[23:18:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[23:18:39] [Server thread/INFO]: Using 4 threads for Netty based IO
-[23:18:40] [Server thread/INFO]: Default game type: SURVIVAL
-[23:18:40] [Server thread/INFO]: Generating keypair
-[23:18:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:18:40] [Server thread/INFO]: Using epoll channel type
-[23:18:40] [Server thread/INFO]: [voicechat] Loading voicechat v2.5.29
-[23:18:40] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
-[23:18:40] [Server thread/INFO]: [TPA] Loading TPA v3.2.3
-[23:18:40] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
-[23:18:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[23:18:40] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
-[23:18:41] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[23:18:41] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.4[32;1m.[0;39m
-[23:18:42] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
-[23:18:42] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
-[23:18:42] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
-[23:18:42] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
-[23:18:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:18:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:18:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:18:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:18:42] [Server thread/INFO]: Preparing level "world"
-[23:18:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:18:42] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[23:18:42] [Server thread/INFO]: Preparing spawn area: 0%
-[23:18:42] [Server thread/INFO]: Preparing spawn area: 0%
-[23:18:43] [Server thread/INFO]: Time elapsed: 855 ms
-[23:18:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[23:18:43] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[23:18:43] [Server thread/INFO]: Preparing spawn area: 0%
-[23:18:43] [Server thread/INFO]: Preparing spawn area: 0%
-[23:18:43] [Server thread/INFO]: Time elapsed: 746 ms
-[23:18:43] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.29
-[23:18:43] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.16.4-R0.1
-[23:18:43] [Server thread/INFO]: [voicechat] Compatibility version 18
-[23:18:44] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[23:18:44] [Server thread/INFO]: [TPA] Enabling TPA v3.2.3
-[23:18:44] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[23:18:44] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[23:18:44] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[23:18:44] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[23:18:44] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[23:18:44] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[23:18:44] [Server thread/INFO]: Running delayed init tasks
-[23:18:44] [Server thread/INFO]: [voicechat] Loading plugins
-[23:18:44] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[23:18:44] [Server thread/INFO]: [voicechat] Initializing plugins
-[23:18:44] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[23:18:44] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[23:18:44] [Server thread/INFO]: Done (4.460s)! For help, type "help"
-[23:18:44] [Server thread/INFO]: Timings Reset
-[23:18:44] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[23:18:44] [Craft Scheduler Thread - 0/INFO]: [TPA] 插件已成功加载！当前版本为：3.2.3
-[23:18:44] [Craft Scheduler Thread - 0/INFO]: [TPA] 正在检查更新...
-[23:18:45] [Craft Scheduler Thread - 0/INFO]: [TPA] 当前已是最新版本
-[23:18:45] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[23:18:45] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[23:18:45] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[23:18:45] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[23:18:45] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[23:18:45] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[23:18:45] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[23:18:45] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
-[23:18:45] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
-[23:18:45] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[23:18:45] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[23:18:45] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[23:18:45] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[23:18:47] [User Authenticator #1/INFO]: UUID of player Kiwing is 80e8e31c-31e1-3003-a2ee-ff97818bee8b
-[23:18:47] [User Authenticator #2/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
-[23:18:48] [Server thread/INFO]: Kiwing joined the game
-[23:18:48] [Server thread/INFO]: Kiwing[/127.210.68.95:51527] logged in with entity id 181 at ([world]-1420.3556105155924, 62.76636799395752, -942.6276391236354)
-[23:18:48] [Server thread/INFO]: GaccGamer joined the game
-[23:18:48] [Server thread/INFO]: GaccGamer[/127.145.191.23:36411] logged in with entity id 182 at ([world]-230.82242293803816, 64.0, 4898.544639926817)
-[23:19:05] [User Authenticator #2/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
-[23:19:05] [Server thread/INFO]: johanprodox joined the game
-[23:19:05] [Server thread/INFO]: johanprodox[/127.251.51.31:51851] logged in with entity id 953 at ([world]-1276.300000011921, 70.0, -1951.699999988079)
-[23:19:07] [User Authenticator #2/INFO]: UUID of player Zackmo64 is 60d33d32-1f30-345b-bc3b-02ffb5a079b3
-[23:19:07] [Server thread/INFO]: Zackmo64 joined the game
-[23:19:07] [Server thread/INFO]: Zackmo64[/127.227.44.37:54745] logged in with entity id 1328 at ([world]-1424.4531030052801, 63.12160004615784, -960.0530999822173)
-[23:19:16] [Server thread/INFO]: GaccGamer lost connection: Disconnected
-[23:19:16] [Server thread/INFO]: [voicechat] Disconnecting client GaccGamer
-[23:19:16] [Server thread/INFO]: GaccGamer left the game
-[23:19:19] [User Authenticator #2/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
-[23:19:19] [Server thread/INFO]: GaccGamer joined the game
-[23:19:19] [Server thread/INFO]: GaccGamer[/127.145.191.23:35925] logged in with entity id 1733 at ([world]-230.69999998807907, 64.0, 4899.162659774257)
-[23:19:22] [Async Chat Thread - #0/INFO]: <Zackmo64> wtf
-[23:19:31] [Async Chat Thread - #0/INFO]: <Zackmo64> se bugeo
-[23:19:36] [User Authenticator #2/INFO]: UUID of player kwimiii is 7bf8fa59-d927-3016-99c8-1175082e9d8e
-[23:19:36] [Server thread/INFO]: kwimiii joined the game
-[23:19:36] [Server thread/INFO]: kwimiii[/127.36.46.139:42479] logged in with entity id 1825 at ([world]-1294.4838744404055, 71.0, -1800.5242846404622)
-[23:19:45] [User Authenticator #2/INFO]: UUID of player Elpanamiguel_777 is 356f2a13-dbc2-334c-afa3-d724557be09d
-[23:19:46] [Server thread/INFO]: Elpanamiguel_777 joined the game
-[23:19:46] [Server thread/INFO]: Elpanamiguel_777[/127.88.243.213:38205] logged in with entity id 2065 at ([world]-1649.699999988079, 52.0, -724.5017856815783)
-[23:19:48] [Server thread/INFO]: Zackmo64 has made the advancement [We Need to Go Deeper]
-[23:19:50] [User Authenticator #2/INFO]: UUID of player LinenFeather949 is 43e0a2df-b9b5-3dcc-bcaf-9e76a1fc8542
-[23:19:50] [Server thread/INFO]: LinenFeather949 joined the game
-[23:19:50] [Server thread/INFO]: LinenFeather949[/127.27.217.228:48057] logged in with entity id 2341 at ([world]-1490.8864470765957, 51.0, -848.4304280271903)
-[23:20:11] [Async Chat Thread - #0/INFO]: <LinenFeather949> DONDE ESTA
-[23:20:13] [Async Chat Thread - #0/INFO]: <LinenFeather949> kevin
-[23:20:21] [Server thread/WARN]: kwimiii was kicked due to keepalive timeout!
-[23:20:21] [Server thread/INFO]: kwimiii lost connection: Timed out
-[23:20:21] [Server thread/INFO]: [voicechat] Disconnecting client kwimiii
-[23:20:21] [Server thread/INFO]: kwimiii left the game
-[23:20:25] [Async Chat Thread - #0/INFO]: <LinenFeather949> q riko
-[23:20:43] [Async Chat Thread - #0/INFO]: <LinenFeather949> dayron
-[23:20:47] [Async Chat Thread - #0/INFO]: <LinenFeather949> fuiste a minar?
-[23:21:46] [Server thread/INFO]: Elpanamiguel_777 lost connection: Login timed out!
-[23:21:46] [Server thread/INFO]: [voicechat] Disconnecting client Elpanamiguel_777
-[23:21:46] [Server thread/INFO]: Elpanamiguel_777 left the game
-[23:22:00] [Server thread/INFO]: Kiwing lost connection: Disconnected
-[23:22:00] [Server thread/INFO]: [voicechat] Disconnecting client Kiwing
-[23:22:00] [Server thread/INFO]: Kiwing left the game
-[23:22:02] [Server thread/INFO]: LinenFeather949 was slain by Zackmo64
-[23:22:02] [Server thread/INFO]: Zackmo64 has made the advancement [Isn't It Iron Pick]
-[23:22:02] [Server thread/INFO]: Zackmo64 has made the advancement [Cover Me With Diamonds]
-[23:22:02] [Server thread/INFO]: Zackmo64 has made the advancement [Suit Up]
-[23:22:08] [Async Chat Thread - #1/INFO]: <GaccGamer> XD
-[23:22:12] [Async Chat Thread - #1/INFO]: <Zackmo64> broh
-[23:22:15] [Async Chat Thread - #1/INFO]: <johanprodox> esos hacks negrito
-[23:22:15] [Async Chat Thread - #1/INFO]: <Zackmo64> consigue todo
-[23:22:19] [Async Chat Thread - #1/INFO]: <johanprodox> WTF
-[23:22:21] [Async Chat Thread - #1/INFO]: <johanprodox> COMO
-[23:22:32] [Async Chat Thread - #1/INFO]: <GaccGamer> buena hijo como te enseñe
-[23:22:33] [Async Chat Thread - #1/INFO]: <Zackmo64> ful diamante XDD
-[23:22:38] [Async Chat Thread - #1/INFO]: <Zackmo64> kevin se salio XD
-[23:22:40] [Async Chat Thread - #1/INFO]: <LinenFeather949> OE
-[23:22:44] [Async Chat Thread - #1/INFO]: <LinenFeather949> Q PASO
-[23:22:47] [Async Chat Thread - #1/INFO]: <GaccGamer> XD
-[23:22:54] [Async Chat Thread - #1/INFO]: <LinenFeather949> DECADENCIA
-[23:22:59] [Async Chat Thread - #1/INFO]: <LinenFeather949> MALDITO DAYRON
-[23:23:05] [Async Chat Thread - #1/INFO]: <LinenFeather949> ME KGO EN TU DESENDENCIA
-[23:23:05] [Async Chat Thread - #1/INFO]: <Zackmo64> ese dayron
-[23:23:10] [Async Chat Thread - #1/INFO]: <LinenFeather949> OJALA Y OS FOLLE
-[23:23:28] [Server thread/INFO]: LinenFeather949 lost connection: Disconnected
-[23:23:28] [Server thread/INFO]: [voicechat] Disconnecting client LinenFeather949
-[23:23:28] [Server thread/INFO]: LinenFeather949 left the game
-[23:24:00] [Async Chat Thread - #1/INFO]: <Zackmo64> pobre kevin
-[23:24:07] [Async Chat Thread - #1/INFO]: <Zackmo64> recien habia llegado a la base
-[23:26:37] [User Authenticator #3/INFO]: UUID of player Kiwing is 80e8e31c-31e1-3003-a2ee-ff97818bee8b
-[23:26:37] [Server thread/INFO]: Kiwing joined the game
-[23:26:37] [Server thread/INFO]: Kiwing[/127.210.68.95:38089] logged in with entity id 6310 at ([world]-1492.0208705450962, 51.0, -843.9213009566871)
-[23:26:41] [Async Chat Thread - #2/INFO]: <Zackmo64> ese kevin
-[23:26:49] [Server thread/INFO]: Kiwing lost connection: Disconnected
-[23:26:49] [Server thread/INFO]: [voicechat] Disconnecting client Kiwing
-[23:26:49] [Server thread/INFO]: Kiwing left the game
-[23:28:02] [Server thread/WARN]: Zackmo64 moved wrongly!
-[23:28:08] [User Authenticator #4/INFO]: UUID of player Elpanamiguel_777 is 356f2a13-dbc2-334c-afa3-d724557be09d
-[23:28:08] [Server thread/INFO]: Elpanamiguel_777 joined the game
-[23:28:08] [Server thread/INFO]: Elpanamiguel_777[/127.88.243.213:57175] logged in with entity id 6822 at ([world]-1649.699999988079, 52.0, -724.5017856815783)
-[23:28:44] [Server thread/INFO]: Elpanamiguel_777 suffocated in a wall
-[23:28:46] [User Authenticator #4/INFO]: UUID of player kwimiii is 7bf8fa59-d927-3016-99c8-1175082e9d8e
-[23:28:46] [Server thread/INFO]: kwimiii joined the game
-[23:28:46] [Server thread/INFO]: kwimiii[/127.36.46.139:50081] logged in with entity id 7235 at ([world]-1294.4838744404055, 71.0, -1800.5242846404622)
-[23:28:52] [Async Chat Thread - #3/INFO]: <johanprodox> kiara
-[23:28:55] [Async Chat Thread - #3/INFO]: <johanprodox> ven
-[23:29:02] [Async Chat Thread - #3/INFO]: <GaccGamer> SIMPatico
-[23:29:13] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[23:29:26] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpa setlang
-[23:29:28] [Server thread/INFO]: GaccGamer lost connection: Disconnected
-[23:29:28] [Server thread/INFO]: [voicechat] Disconnecting client GaccGamer
-[23:29:28] [Server thread/INFO]: GaccGamer left the game
-[23:29:31] [User Authenticator #4/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
-[23:29:32] [Server thread/INFO]: GaccGamer joined the game
-[23:29:32] [Server thread/INFO]: GaccGamer[/127.145.191.23:34011] logged in with entity id 7712 at ([world]-231.54682321916036, 65.0, 4898.773591757083)
-[23:29:49] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpa GaccGamer
-[23:29:52] [Server thread/INFO]: Elpanamiguel_777 tried to swim in lava to escape Zombie
-[23:30:37] [Server thread/INFO]: Zackmo64 has made the advancement [Monster Hunter]
-[23:30:43] [Async Chat Thread - #4/INFO]: <GaccGamer> recien
-[23:30:46] [Async Chat Thread - #4/INFO]: <Zackmo64> si
-[23:30:52] [Async Chat Thread - #4/INFO]: <Zackmo64> es nueva la cuenta p
-[23:30:56] [Async Chat Thread - #4/INFO]: <johanprodox> intercambia palitos
-[23:31:01] [Async Chat Thread - #4/INFO]: <johanprodox> por esmerldas
-[23:31:02] [Server thread/INFO]: Zackmo64 has made the advancement [Acquire Hardware]
-[23:31:15] [Async Chat Thread - #4/INFO]: <GaccGamer> no esp or presumir pero mi monmster hnter fue contra un piglin bruto Bv
-[23:31:22] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox cual es
-[23:31:22] [Async Chat Thread - #4/INFO]: <Zackmo64> no es por presumir
-[23:31:26] [Async Chat Thread - #4/INFO]: <Zackmo64> peor mi mo
-[23:31:31] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpa johanprodox
-[23:31:36] [Async Chat Thread - #4/INFO]: <Zackmo64> monster hunter fue un full diamond
-[23:31:40] [Async Chat Thread - #4/INFO]: <johanprodox> el que tiene una pluma
-[23:31:50] [Async Chat Thread - #4/INFO]: <GaccGamer> ya pero mi segundo monster hunter fue tu mamita :vvvvvvvvv
-[23:31:55] [Async Chat Thread - #4/INFO]: <Zackmo64> chistoso
-[23:32:09] [Async Chat Thread - #4/INFO]: <Zackmo64> la mia toda tu familia (mujeres)
-[23:32:15] [Async Chat Thread - #4/INFO]: <GaccGamer> creo
-[23:32:26] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpa GaccGamer
-[23:32:28] [Async Chat Thread - #4/INFO]: <GaccGamer> si en la tuya hay una trans
-[23:32:36] [Async Chat Thread - #4/INFO]: <GaccGamer> digo nada nada
-[23:33:09] [Async Chat Thread - #4/INFO]: <johanprodox> voy a talar
-[23:33:13] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpa setlang
-[23:34:01] [User Authenticator #5/INFO]: UUID of player Kiwing is 80e8e31c-31e1-3003-a2ee-ff97818bee8b
-[23:34:01] [Server thread/INFO]: Kiwing joined the game
-[23:34:01] [Server thread/INFO]: Kiwing[/127.210.68.95:38875] logged in with entity id 11365 at ([world]-1492.0208705450962, 48.0, -843.9213009566871)
-[23:34:10] [Async Chat Thread - #5/INFO]: <Zackmo64> keivn
-[23:34:25] [Server thread/INFO]: kwimiii has made the advancement [What a Deal!]
-[23:35:19] [Server thread/INFO]: Zackmo64 issued server command: /sethome a
-[23:35:23] [Server thread/INFO]: Zackmo64 issued server command: /home a
-[23:35:23] [Server thread/INFO]: Kiwing lost connection: Disconnected
-[23:35:23] [Server thread/INFO]: [voicechat] Disconnecting client Kiwing
-[23:35:23] [Server thread/INFO]: Kiwing left the game
-[23:35:37] [Server thread/INFO]: kwimiii has made the advancement [Cover Me With Diamonds]
-[23:35:56] [Server thread/INFO]: johanprodox has made the advancement [Cover Me With Diamonds]
-[23:36:15] [Async Chat Thread - #6/INFO]: <johanprodox> vamos
-[23:37:13] [User Authenticator #6/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[23:37:13] [Server thread/INFO]: rexer joined the game
-[23:37:13] [Server thread/INFO]: rexer[/127.109.181.221:43087] logged in with entity id 13886 at ([world]-1501.699999988079, 57.0, -843.6999999880791)
-[23:37:26] [Server thread/INFO]: johanprodox lost connection: Disconnected
-[23:37:26] [Server thread/INFO]: [voicechat] Disconnecting client johanprodox
-[23:37:26] [Server thread/INFO]: johanprodox left the game
-[23:37:41] [Async Chat Thread - #7/INFO]: <rexer> donde estan kevin
-[23:37:52] [Async Chat Thread - #7/INFO]: <rexer> aidle
-[23:38:06] [Async Chat Thread - #7/INFO]: <Elpanamiguel_777> no se
-[23:38:15] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpa rexer
-[23:38:17] [Server thread/INFO]: rexer issued server command: /tpaccept
-[23:38:22] [Craft Scheduler Thread - 42/INFO]: rexer
-[23:38:22] [Craft Scheduler Thread - 43/INFO]: rexer
-[23:38:25] [User Authenticator #7/INFO]: UUID of player Kiwing is 80e8e31c-31e1-3003-a2ee-ff97818bee8b
-[23:38:25] [Server thread/INFO]: Kiwing joined the game
-[23:38:25] [Server thread/INFO]: Kiwing[/127.210.68.95:44557] logged in with entity id 14698 at ([world]-1492.1084580371175, 48.0, -843.0102721979738)
-[23:38:37] [Async Chat Thread - #7/INFO]: <rexer> donde estan
-[23:38:42] [Async Chat Thread - #7/INFO]: <Zackmo64> q fue
-[23:38:42] [Async Chat Thread - #7/INFO]: <Elpanamiguel_777> no se
-[23:38:53] [Async Chat Thread - #7/INFO]: <Elpanamiguel_777> yo deje la base con angelo y kevin
-[23:39:19] [Server thread/INFO]: rexer issued server command: /tpa Zackmo64
-[23:39:40] [Server thread/INFO]: Zackmo64 issued server command: /tpaccept
-[23:39:43] [Server thread/INFO]: rexer issued server command: /tpa Zackmo64
-[23:39:46] [Server thread/INFO]: Kiwing issued server command: /tpa ELpanamiguel_777
-[23:40:03] [Server thread/INFO]: Zackmo64 issued server command: /tpaccept
-[23:40:07] [Craft Scheduler Thread - 47/INFO]: Zackmo64
-[23:40:08] [Craft Scheduler Thread - 48/INFO]: Zackmo64
-[23:40:09] [Server thread/INFO]: rexer lost connection: Disconnected
-[23:40:09] [Server thread/INFO]: [voicechat] Disconnecting client rexer
-[23:40:09] [Server thread/INFO]: rexer left the game
-[23:40:12] [Async Chat Thread - #8/INFO]: <Zackmo64> XDDD
-[23:40:15] [Server thread/INFO]: Elpanamiguel_777 was slain by Zombie
-[23:40:26] [Server thread/INFO]: Kiwing lost connection: Login timed out!
-[23:40:26] [Server thread/INFO]: [voicechat] Disconnecting client Kiwing
-[23:40:26] [Server thread/INFO]: Kiwing left the game
-[23:40:32] [User Authenticator #8/INFO]: UUID of player Kiwing is 80e8e31c-31e1-3003-a2ee-ff97818bee8b
-[23:40:32] [Server thread/INFO]: Kiwing joined the game
-[23:40:32] [Server thread/INFO]: Kiwing[/127.210.68.95:42711] logged in with entity id 15649 at ([world]-1492.016739125417, 48.0, -843.0789918300023)
-[23:40:39] [Async Chat Thread - #8/INFO]: <Zackmo64> kevinn
-[23:40:46] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpa rexer
-[23:41:22] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpa setlang
-[23:42:07] [Async Chat Thread - #9/INFO]: <Zackmo64> kevinn
-[23:42:09] [Server thread/INFO]: Kiwing issued server command: /tpa Elpanamiguel_777
-[23:42:13] [Server thread/INFO]: Zackmo64 issued server command: /home a
-[23:42:23] [Server thread/INFO]: Zackmo64 issued server command: /home
-[23:42:30] [Server thread/INFO]: Zackmo64 has made the advancement [Not Today, Thank You]
-[23:42:33] [Server thread/INFO]: Kiwing lost connection: Login timed out!
-[23:42:33] [Server thread/INFO]: [voicechat] Disconnecting client Kiwing
-[23:42:33] [Server thread/INFO]: Kiwing left the game
-[23:43:10] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpa setlang
-[23:43:49] [Server thread/INFO]: kwimiii has made the advancement [Ice Bucket Challenge]
-[23:43:54] [Async Chat Thread - #10/INFO]: <Zackmo64> oe johan vene
-[23:43:57] [User Authenticator #9/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[23:43:57] [Server thread/INFO]: rexer joined the game
-[23:43:57] [Server thread/INFO]: rexer[/127.109.181.221:57405] logged in with entity id 18510 at ([world]-1490.0903971412013, 39.05401502455789, -810.3125179909495)
-[23:43:57] [Async Chat Thread - #10/INFO]: <Zackmo64> vente
-[23:44:02] [Server thread/INFO]: rexer lost connection: Disconnected
-[23:44:02] [Server thread/INFO]: [voicechat] Disconnecting client rexer
-[23:44:02] [Server thread/INFO]: rexer left the game
-[23:44:25] [Server thread/INFO]: kwimiii has made the advancement [Hot Stuff]
-[23:44:35] [User Authenticator #9/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[23:44:35] [Server thread/INFO]: rexer joined the game
-[23:44:35] [Server thread/INFO]: rexer[/127.109.181.221:58247] logged in with entity id 18891 at ([world]-1490.0903971412013, 39.0, -810.3125179909495)
-[23:44:58] [Server thread/INFO]: rexer issued server command: /tpa Elpanamiguel_777
-[23:45:06] [Async Chat Thread - #11/INFO]: <Zackmo64> ya ya
-[23:46:26] [Server thread/INFO]: rexer lost connection: Disconnected
-[23:46:26] [Server thread/INFO]: [voicechat] Disconnecting client rexer
-[23:46:26] [Server thread/INFO]: rexer left the game
-[23:46:38] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpa rexer
-[23:46:39] [Async Chat Thread - #12/INFO]: <Zackmo64> gacc
-[23:46:44] [Async Chat Thread - #12/INFO]: <GaccGamer> q
-[23:46:45] [User Authenticator #10/INFO]: UUID of player Kiwing is 80e8e31c-31e1-3003-a2ee-ff97818bee8b
-[23:46:45] [Server thread/INFO]: Kiwing joined the game
-[23:46:45] [Server thread/INFO]: Kiwing[/127.210.68.95:51807] logged in with entity id 19887 at ([world]-1492.5736895739144, 48.0, -843.6999999880791)
-[23:46:51] [Async Chat Thread - #12/INFO]: <Zackmo64> quieres matar a rexer?
-[23:46:54] [User Authenticator #10/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[23:46:54] [Server thread/INFO]: rexer joined the game
-[23:46:54] [Server thread/INFO]: rexer[/127.109.181.221:36483] logged in with entity id 19961 at ([world]-1490.0695864232912, 38.0, -810.6999999880791)
-[23:46:58] [Async Chat Thread - #12/INFO]: <GaccGamer> porq
-[23:47:23] [Server thread/INFO]: rexer issued server command: /home
-[23:47:27] [Server thread/INFO]: rexer lost connection: Disconnected
-[23:47:27] [Server thread/INFO]: [voicechat] Disconnecting client rexer
-[23:47:27] [Server thread/INFO]: rexer left the game
-[23:47:34] [Async Chat Thread - #12/INFO]: <Zackmo64> a un golpe
-[23:47:36] [Async Chat Thread - #12/INFO]: <Zackmo64> de morir
-[23:47:39] [Async Chat Thread - #12/INFO]: <Zackmo64> q penita
-[23:47:52] [Async Chat Thread - #12/INFO]: <Zackmo64> kevin ven
-[23:47:55] [Async Chat Thread - #12/INFO]: <Zackmo64> y mueres
-[23:48:25] [User Authenticator #11/INFO]: UUID of player alejandro123532 is c0bc5b95-f1af-33b5-961b-448e32da83a3
-[23:48:25] [Server thread/INFO]: alejandro123532 joined the game
-[23:48:25] [Server thread/INFO]: alejandro123532[/127.184.55.218:35585] logged in with entity id 20543 at ([world]-310.94191169008707, 67.0, 4821.514260323541)
-[23:48:26] [User Authenticator #11/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[23:48:26] [Server thread/INFO]: rexer joined the game
-[23:48:26] [Server thread/INFO]: rexer[/127.109.181.221:44551] logged in with entity id 20615 at ([world]-1490.4046727351515, 38.0, -810.4720440803484)
-[23:48:27] [Server thread/INFO]: Elpanamiguel_777 was pricked to death
-[23:48:32] [Server thread/INFO]: rexer lost connection: Disconnected
-[23:48:32] [Server thread/INFO]: [voicechat] Disconnecting client rexer
-[23:48:32] [Server thread/INFO]: rexer left the game
-[23:48:46] [Server thread/INFO]: Kiwing lost connection: Login timed out!
-[23:48:46] [Server thread/INFO]: [voicechat] Disconnecting client Kiwing
-[23:48:46] [Server thread/INFO]: Kiwing left the game
-[23:48:49] [User Authenticator #11/INFO]: UUID of player Kiwing is 80e8e31c-31e1-3003-a2ee-ff97818bee8b
-[23:48:49] [Server thread/INFO]: Kiwing joined the game
-[23:48:49] [Server thread/INFO]: Kiwing[/127.210.68.95:53619] logged in with entity id 20846 at ([world]-1492.699999988079, 48.0, -843.367224314108)
-[23:48:55] [Async Chat Thread - #13/INFO]: <Zackmo64> kevinn
+[02:06:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:06:05] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[02:06:06] [Worker-Main-2/INFO]: Loaded 7 recipes
+[02:06:07] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[02:06:07] [Server thread/INFO]: Loading properties
+[02:06:07] [Server thread/INFO]: This server is running Paper version git-Paper-416 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[02:06:07] [Server thread/INFO]: Debug logging is disabled
+[02:06:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:06:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:06:07] [Server thread/INFO]: Default game type: SURVIVAL
+[02:06:07] [Server thread/INFO]: Generating keypair
+[02:06:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:06:07] [Server thread/INFO]: Using epoll channel type
+[02:06:07] [Server thread/ERROR]: Could not load 'plugins/orebfuscator-plugin-5.1.2.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown dependency ProtocolLib. Please download and install ProtocolLib to run this plugin.
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:272) ~[patched_1.16.4.jar:git-Paper-416]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:389) ~[patched_1.16.4.jar:git-Paper-416]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:206) ~[patched_1.16.4.jar:git-Paper-416]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:935) ~[patched_1.16.4.jar:git-Paper-416]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:173) ~[patched_1.16.4.jar:git-Paper-416]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[02:06:08] [Server thread/INFO]: [voicechat] Loading voicechat v2.5.29
+[02:06:08] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
+[02:06:08] [Server thread/INFO]: [TPA] Loading TPA v3.2.3
+[02:06:08] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
+[02:06:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:06:08] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[02:06:08] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[02:06:08] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.4[32;1m.[0;39m
+[02:06:09] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[02:06:09] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[02:06:09] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[02:06:09] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[02:06:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:06:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:06:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:06:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:06:09] [Server thread/INFO]: Preparing level "world"
+[02:06:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:06:09] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[02:06:09] [Server thread/INFO]: Preparing spawn area: 0%
+[02:06:09] [Server thread/INFO]: Time elapsed: 300 ms
+[02:06:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:06:09] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[02:06:10] [Server thread/INFO]: Time elapsed: 354 ms
+[02:06:10] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.29
+[02:06:10] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.16.4-R0.1
+[02:06:10] [Server thread/INFO]: [voicechat] Compatibility version 18
+[02:06:10] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[02:06:10] [Server thread/INFO]: [TPA] Enabling TPA v3.2.3
+[02:06:10] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[02:06:10] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[02:06:10] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[02:06:10] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[02:06:10] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[02:06:10] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[02:06:10] [Server thread/INFO]: Running delayed init tasks
+[02:06:10] [Server thread/INFO]: [voicechat] Loading plugins
+[02:06:10] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[02:06:10] [Server thread/INFO]: [voicechat] Initializing plugins
+[02:06:10] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[02:06:10] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[02:06:10] [Server thread/INFO]: Done (3.317s)! For help, type "help"
+[02:06:10] [Server thread/INFO]: Timings Reset
+[02:06:10] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[02:06:11] [Craft Scheduler Thread - 0/INFO]: [TPA] 插件已成功加载！当前版本为：3.2.3
+[02:06:11] [Craft Scheduler Thread - 0/INFO]: [TPA] 正在检查更新...
+[02:06:11] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:06:11] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[02:06:11] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[02:06:11] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[02:06:11] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[02:06:11] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[02:06:12] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:06:12] [Craft Scheduler Thread - 0/INFO]: [TPA] 当前已是最新版本
+[02:06:12] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
+[02:06:12] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
+[02:06:12] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[02:06:12] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:06:12] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[02:06:12] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[02:06:37] [Server thread/INFO]: Startup script './start.sh' does not exist! Stopping server.
+[02:06:37] [Server thread/INFO]: Stopping server
+[02:06:37] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[02:06:37] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[02:06:37] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[02:06:37] [Server thread/INFO]: [TPA] Disabling TPA v3.2.3
+[02:06:37] [Server thread/INFO]: [TPA] 插件已成功卸载！
+[02:06:37] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
+[02:06:37] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.29
+[02:06:37] [Server thread/INFO]: Saving players
+[02:06:37] [Server thread/INFO]: Saving worlds
+[02:06:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:06:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:06:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:06:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:06:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:06:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:06:38] [Server thread/INFO]: Flushing Chunk IO
+[02:06:38] [Server thread/INFO]: Closing Thread Pool
+[02:06:38] [Server thread/INFO]: Closing Server
