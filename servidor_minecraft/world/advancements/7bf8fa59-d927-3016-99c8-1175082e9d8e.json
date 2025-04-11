@@ -422,6 +422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-11 02:52:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 14:49:20 +0000"
@@ -1101,6 +1107,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 14:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-11 02:52:19 +0000"
     },
     "done": true
   },
@@ -1974,6 +1986,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-04-11 02:51:56 +0000",
       "minecraft:soul_sand_valley": "2025-04-10 16:53:03 +0000"
     },
     "done": false

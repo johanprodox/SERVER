@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-11 02:34:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-10 14:50:38 +0000"
@@ -164,6 +170,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-04-10 14:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-04-11 02:28:26 +0000"
     },
     "done": true
   },
@@ -316,6 +328,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-04-10 14:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-11 02:49:38 +0000"
     },
     "done": true
   },
@@ -766,6 +784,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-10 16:16:38 +0000",
+      "minecraft:hoglin": "2025-04-11 02:53:05 +0000",
       "minecraft:spider": "2025-04-10 16:17:08 +0000",
       "minecraft:creeper": "2025-04-10 16:33:03 +0000",
       "minecraft:phantom": "2025-04-10 17:44:31 +0000",
@@ -777,6 +796,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-04-10 16:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-11 02:34:33 +0000"
     },
     "done": true
   },
@@ -831,6 +856,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 14:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-11 02:49:38 +0000"
     },
     "done": true
   },
@@ -1017,6 +1048,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-04-10 14:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-11 02:39:03 +0000"
     },
     "done": true
   },
@@ -1481,6 +1518,13 @@
       "has_planks": "2025-04-10 16:46:01 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-04-11 02:42:04 +0000",
+      "minecraft:nether_wastes": "2025-04-11 02:34:33 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
