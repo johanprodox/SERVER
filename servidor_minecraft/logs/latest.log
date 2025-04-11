@@ -301,3 +301,49 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency ProtocolLib. Pl
 [04:14:45] [Server thread/INFO]: [voicechat] Disconnecting client kwimiii
 [04:14:45] [Server thread/INFO]: kwimiii left the game
 [04:15:07] [Server thread/INFO]: rexer issued server command: /sethome
+[04:15:13] [Server thread/INFO]: rexer issued server command: /homes
+[04:15:21] [Server thread/INFO]: rexer issued server command: /homes base
+[04:15:26] [Server thread/INFO]: rexer issued server command: /home base
+[04:15:35] [Server thread/INFO]: rexer issued server command: /sethome base
+[04:15:40] [User Authenticator #3/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
+[04:15:40] [Server thread/INFO]: johanprodox joined the game
+[04:15:40] [Server thread/INFO]: johanprodox[/127.251.51.31:52383] logged in with entity id 23585 at ([world]-1283.164513017919, 69.875, -1956.2056624358056)
+[04:15:50] [Server thread/INFO]: rexer issued server command: /homes base1
+[04:16:14] [Server thread/INFO]: johanprodox lost connection: Disconnected
+[04:16:14] [Server thread/INFO]: [voicechat] Disconnecting client johanprodox
+[04:16:14] [Server thread/INFO]: johanprodox left the game
+[04:16:18] [Server thread/INFO]: rexer issued server command: /sethome No hay hogares disponibles
+[04:16:26] [Server thread/INFO]: rexer issued server command: /sethome base
+[04:16:35] [Server thread/INFO]: rexer issued server command: /sethome base
+[04:16:35] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[04:16:43] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[04:16:47] [Server thread/INFO]: [TPA] 此命令只能由玩家执行！
+[04:17:12] [Server thread/INFO]: [TPA] 此命令只能由玩家执行！
+[04:17:23] [Server thread/INFO]: rexer issued server command: /sethome hogar
+[04:17:26] [Server thread/INFO]: rexer issued server command: /sethome hogar
+[04:17:28] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[04:17:31] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[04:17:35] [Server thread/INFO]: rexer issued server command: /sethome hogar
+[04:17:39] [Server thread/INFO]: rexer issued server command: /sethome hogar base
+[04:17:56] [Server thread/INFO]: rexer issued server command: /sethome <hogar>
+[04:17:58] [Server thread/INFO]: rexer issued server command: /sethome <hogar>
+[04:18:08] [Server thread/INFO]: rexer issued server command: /sethome [<hogar>]
+[04:18:11] [Server thread/INFO]: rexer issued server command: /home
+[04:18:28] [Server thread/INFO]: rexer issued server command: /homes hogar
+[04:18:54] [Server thread/INFO]: rexer issued server command: /sethome
+[04:18:56] [Server thread/INFO]: rexer issued server command: /sethome casa
+[04:19:17] [Server thread/INFO]: rexer issued server command: /sethome casa
+[04:19:22] [Server thread/INFO]: rexer issued server command: /home casa
+[04:19:36] [Server thread/INFO]: rexer lost connection: Disconnected
+[04:19:36] [Server thread/INFO]: [voicechat] Disconnecting client rexer
+[04:19:36] [Server thread/INFO]: rexer left the game
+[04:19:41] [User Authenticator #4/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
+[04:19:41] [Server thread/INFO]: rexer joined the game
+[04:19:41] [Server thread/INFO]: rexer[/127.109.181.221:59833] logged in with entity id 24262 at ([world]-2997.956059616664, 72.0, 2013.5956706016868)
+[04:20:06] [Server thread/INFO]: rexer issued server command: /setdefaulthome
+[04:20:12] [Server thread/INFO]: rexer issued server command: /setdefaulthome hogar
+[04:20:18] [Server thread/INFO]: rexer issued server command: /setdefaulthome base
+[04:20:22] [Server thread/INFO]: rexer issued server command: /setdefaulthome
+[04:20:32] [Server thread/INFO]: rexer issued server command: /setdefaulthome
+[04:20:34] [Server thread/INFO]: rexer issued server command: /setdefaulthome hogar
+[04:20:41] [Server thread/INFO]: rexer issued server command: /sethome hogar
