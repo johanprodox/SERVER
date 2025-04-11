@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-11 21:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-04-11 21:00:44 +0000"
@@ -357,6 +363,8 @@
     "criteria": {
       "cooked_porkchop": "2025-04-11 21:04:22 +0000",
       "cooked_mutton": "2025-04-11 21:00:58 +0000",
+      "mutton": "2025-04-11 21:32:32 +0000",
+      "bread": "2025-04-11 21:36:34 +0000",
       "cooked_chicken": "2025-04-11 21:14:30 +0000"
     },
     "done": false
@@ -490,6 +498,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2025-04-11 21:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-11 21:29:41 +0000"
     },
     "done": true
   },
@@ -663,6 +677,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2025-04-11 21:28:56 +0000",
+      "minecraft:mountains": "2025-04-11 21:33:53 +0000",
       "minecraft:taiga": "2025-04-11 21:11:25 +0000",
       "minecraft:desert_hills": "2025-04-11 21:21:30 +0000",
       "minecraft:desert": "2025-04-11 20:59:26 +0000",
@@ -1032,6 +1048,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-11 21:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-11 21:29:41 +0000"
     },
     "done": true
   },
