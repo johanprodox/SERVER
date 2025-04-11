@@ -281,3 +281,123 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency ProtocolLib. Pl
 [21:08:36] [Server thread/INFO]: Luca_537XD joined the game
 [21:08:36] [Server thread/INFO]: Luca_537XD[/127.14.158.73:45389] logged in with entity id 8001 at ([world]-2728.9036961304764, 71.00133597911214, 2155.7195445158927)
 [21:08:37] [Async Chat Thread - #1/INFO]: <rexer> XD se fue
+[21:08:50] [Server thread/INFO]: Luca_537XD lost connection: Disconnected
+[21:08:50] [Server thread/INFO]: [voicechat] Disconnecting client Luca_537XD
+[21:08:50] [Server thread/INFO]: Luca_537XD left the game
+[21:08:54] [User Authenticator #7/INFO]: UUID of player Luca_537XD is 9f52a659-9fe0-3cd4-a415-41b0e379092d
+[21:08:54] [Server thread/INFO]: Luca_537XD joined the game
+[21:08:54] [Server thread/INFO]: Luca_537XD[/127.14.158.73:48771] logged in with entity id 8143 at ([world]-2728.9036961304764, 70.6970191516546, 2155.7195445158927)
+[21:08:57] [Server thread/INFO]: rexer issued server command: /home hogar
+[21:09:02] [Craft Scheduler Thread - 75/INFO]: hogar
+[21:09:14] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox O
+[21:09:19] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii euq
+[21:09:21] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox SI TENIA HIERRO
+[21:09:29] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii SJAJSAJSJAJ y manzanas?
+[21:09:32] [Async Chat Thread - #1/INFO]: <Luca_537XD> el xray es malo muchachos
+[21:09:40] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox eso si ne
+[21:09:40] [Server thread/INFO]: Luca_537XD issued server command: /tpa rexer
+[21:09:42] [Async Chat Thread - #1/INFO]: <LinenFeather949> xd
+[21:09:50] [Async Chat Thread - #1/INFO]: <rexer> no luca estoy en mi base
+[21:10:00] [Server thread/INFO]: Luca_537XD issued server command: /tpa kwimiii
+[21:10:15] [Server thread/INFO]: Luca_537XD issued server command: /tpa johanprodox
+[21:10:20] [Server thread/INFO]: Luca_537XD issued server command: /tpa LinenFeather949
+[21:11:18] [Server thread/INFO]: gotacrack777 has made the advancement [Acquire Hardware]
+[21:11:30] [User Authenticator #8/INFO]: UUID of player Stincvx is 533df107-108c-3415-9ea5-9a60749bba95
+[21:11:30] [Server thread/INFO]: Stincvx joined the game
+[21:11:30] [Server thread/INFO]: Stincvx[/127.108.28.65:55929] logged in with entity id 9811 at ([world]102.5, 63.0, -211.5)
+[21:11:34] [Async Chat Thread - #2/INFO]: <johanprodox> WTF
+[21:11:39] [Async Chat Thread - #2/INFO]: <Luca_537XD> cual es kevin
+[21:11:40] [Async Chat Thread - #2/INFO]: <rexer> quienes son?
+[21:11:41] [Async Chat Thread - #2/INFO]: <johanprodox> y este
+[21:11:42] [Server thread/INFO]: Luca_537XD has made the advancement [Acquire Hardware]
+[21:11:51] [Async Chat Thread - #2/INFO]: <rexer> banealos p
+[21:11:54] [Async Chat Thread - #2/INFO]: <gotacrack777> vamos
+[21:11:54] [Async Chat Thread - #2/INFO]: <Luca_537XD> ban
+[21:11:56] [Async Chat Thread - #2/INFO]: <johanprodox> ok
+[21:12:00] [Async Chat Thread - #2/INFO]: <gotacrack777> ban
+[21:12:13] [Async Chat Thread - #2/INFO]: <gotacrack777> a donde van?
+[21:12:17] [Server thread/INFO]: Banned Stincvx: Banned by an operator.
+[21:12:17] [Server thread/INFO]: Stincvx lost connection: You are banned from this server
+[21:12:17] [Server thread/INFO]: [voicechat] Disconnecting client Stincvx
+[21:12:17] [Server thread/INFO]: Stincvx left the game
+[21:12:43] [Server thread/INFO]: Luca_537XD has made the advancement [Isn't It Iron Pick]
+[21:12:52] [Server thread/INFO]: rexer issued server command: /tpa Luca_537XD
+[21:12:58] [Server thread/INFO]: Luca_537XD issued server command: /tpaccept
+[21:13:02] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii o te voy a dar esmeraldas para tu armor de diamante
+[21:13:22] [Server thread/INFO]: rexer issued server command: /tell johanprodox oe mano deciero hacer team no con adiel? esto el me dijo que les de algunos diamantes
+[21:13:23] [Server thread/INFO]: Luca_537XD issued server command: /tpa:warp
+[21:13:32] [Server thread/INFO]: rexer issued server command: /tell johanprodox si lo aceptaron me avisas
+[21:13:38] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
+[21:13:40] [Async Chat Thread - #3/INFO]: <LinenFeather949> luca
+[21:13:43] [Async Chat Thread - #3/INFO]: <LinenFeather949> manda denuevo
+[21:13:43] [Async Chat Thread - #3/INFO]: <Luca_537XD> k
+[21:13:47] [Server thread/INFO]: Luca_537XD issued server command: /tpa LinenFeather949
+[21:13:48] [Async Chat Thread - #3/INFO]: <LinenFeather949> y mi hierro
+[21:13:50] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
+[21:13:54] [Server thread/INFO]: Luca_537XD issued server command: /tpa LinenFeather949
+[21:13:56] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
+[21:13:59] [Server thread/INFO]: rexer issued server command: /tpa Luca_537XD
+[21:14:01] [Craft Scheduler Thread - 92/INFO]: LinenFeather949
+[21:14:01] [Craft Scheduler Thread - 91/INFO]: LinenFeather949
+[21:14:01] [Async Chat Thread - #3/INFO]: <LinenFeather949> oe y mi hierro
+[21:14:03] [Server thread/INFO]: Luca_537XD issued server command: /tpaccept
+[21:14:06] [Async Chat Thread - #3/INFO]: <LinenFeather949> maldito
+[21:14:07] [Server thread/INFO]: Luca_537XD issued server command: /tpdeny
+[21:14:08] [Async Chat Thread - #3/INFO]: <LinenFeather949> dame todo
+[21:14:08] [Craft Scheduler Thread - 91/INFO]: Luca_537XD
+[21:14:08] [Craft Scheduler Thread - 92/INFO]: Luca_537XD
+[21:14:08] [Server thread/INFO]: johanprodox issued server command: /msg rexer no, solo dijimos que ibamos a hacer una alianza
+[21:14:37] [Server thread/INFO]: LinenFeather949 was slain by rexer
+[21:14:41] [Async Chat Thread - #3/INFO]: <LinenFeather949> vamos luca
+[21:14:44] [Async Chat Thread - #3/INFO]: <Luca_537XD> k passa
+[21:14:46] [Server thread/INFO]: LinenFeather949 issued server command: /tpa Luca_537XD
+[21:14:52] [Async Chat Thread - #3/INFO]: <LinenFeather949> acepta
+[21:14:55] [Server thread/INFO]: rexer lost connection: Disconnected
+[21:14:55] [Server thread/INFO]: [voicechat] Disconnecting client rexer
+[21:14:55] [Server thread/INFO]: rexer left the game
+[21:14:57] [Server thread/INFO]: Luca_537XD issued server command: /tpaccept
+[21:14:59] [Async Chat Thread - #3/INFO]: <LinenFeather949> ese wn
+[21:15:02] [Craft Scheduler Thread - 96/INFO]: Luca_537XD
+[21:15:02] [Craft Scheduler Thread - 97/INFO]: Luca_537XD
+[21:15:09] [Async Chat Thread - #3/INFO]: <LinenFeather949> mi hierro
+[21:15:11] [Async Chat Thread - #3/INFO]: <Luca_537XD> cava
+[21:15:13] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii o voy a estar afk un ratito, tala madera para tu armadura
+[21:15:25] [Async Chat Thread - #3/INFO]: <LinenFeather949> oe mi hierro mano
+[21:15:28] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii ya lo subi de nivel al de las armaduras
+[21:15:46] [User Authenticator #9/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
+[21:15:47] [Server thread/INFO]: rexer joined the game
+[21:15:47] [Server thread/INFO]: rexer[/127.109.181.221:49971] logged in with entity id 12095 at ([world]-24.9885800264209, 66.67647087614428, -322.10900614285794)
+[21:15:53] [Server thread/INFO]: rexer lost connection: Disconnected
+[21:15:53] [Server thread/INFO]: [voicechat] Disconnecting client rexer
+[21:15:53] [Server thread/INFO]: rexer left the game
+[21:16:01] [Async Chat Thread - #3/INFO]: <LinenFeather949> mi hierro causa
+[21:16:06] [Async Chat Thread - #3/INFO]: <LinenFeather949> q hicisto con todo el hierro
+[21:16:21] [Server thread/INFO]: kwimiii lost connection: Disconnected
+[21:16:21] [Server thread/INFO]: [voicechat] Disconnecting client kwimiii
+[21:16:21] [Server thread/INFO]: kwimiii left the game
+[21:16:29] [Server thread/INFO]: Luca_537XD was slain by LinenFeather949
+[21:16:30] [Async Chat Thread - #3/INFO]: <gotacrack777> ese kevin
+[21:16:33] [Async Chat Thread - #3/INFO]: <Luca_537XD> k pasa
+[21:16:35] [Async Chat Thread - #3/INFO]: <LinenFeather949> XD
+[21:16:39] [Server thread/INFO]: Luca_537XD issued server command: /tpa LinenFeather949
+[21:16:40] [Async Chat Thread - #3/INFO]: <LinenFeather949> MANDA
+[21:16:41] [Async Chat Thread - #3/INFO]: <Luca_537XD> oe
+[21:16:44] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
+[21:16:49] [Craft Scheduler Thread - 104/INFO]: LinenFeather949
+[21:16:49] [Craft Scheduler Thread - 105/INFO]: LinenFeather949
+[21:17:24] [User Authenticator #10/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
+[21:17:24] [Server thread/INFO]: rexer joined the game
+[21:17:24] [Server thread/INFO]: rexer[/127.109.181.221:59159] logged in with entity id 12701 at ([world]-27.11698048842165, 66.0, -322.93515280861027)
+[21:17:31] [Server thread/INFO]: LinenFeather949 was blown up by Creeper
+[21:17:37] [Server thread/INFO]: LinenFeather949 issued server command: /tpa Luca_537XD
+[21:17:40] [Server thread/INFO]: Luca_537XD issued server command: /tpaccept
+[21:17:45] [Craft Scheduler Thread - 108/INFO]: Luca_537XD
+[21:17:45] [Craft Scheduler Thread - 109/INFO]: Luca_537XD
+[21:18:00] [Server thread/INFO]: Luca_537XD was slain by Zombie
+[21:18:06] [Server thread/INFO]: Luca_537XD issued server command: /tpa LinenFeather949
+[21:18:07] [Server thread/INFO]: rexer lost connection: Disconnected
+[21:18:07] [Server thread/INFO]: [voicechat] Disconnecting client rexer
+[21:18:07] [Server thread/INFO]: rexer left the game
+[21:18:20] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
+[21:18:25] [Craft Scheduler Thread - 112/INFO]: LinenFeather949
+[21:18:25] [Craft Scheduler Thread - 113/INFO]: LinenFeather949

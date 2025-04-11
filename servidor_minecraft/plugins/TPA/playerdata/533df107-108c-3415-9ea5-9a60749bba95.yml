@@ -1,0 +1,17 @@
+player_name: Stincvx
+language: en_US
+setlang: false
+last_location:
+  world: world
+  x: 102.02436188475478
+  y: 63.0
+  z: -211.6369774265098
+  pitch: 33.15003
+  yaw: 81.92065
+logout_location:
+  world: world
+  x: 102.8452434237144
+  y: 63.0
+  z: -211.14039543637887
+  pitch: 60.29996
+  yaw: 43.22067
