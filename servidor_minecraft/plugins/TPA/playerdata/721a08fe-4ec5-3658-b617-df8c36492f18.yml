@@ -1,3 +1,10 @@
 player_name: gotacrack777
 language: es_ES
 setlang: false
+logout_location:
+  world: world
+  x: -116.12913903055733
+  y: 76.162141421027
+  z: -498.9686510154575
+  pitch: 46.776394
+  yaw: -35.761833

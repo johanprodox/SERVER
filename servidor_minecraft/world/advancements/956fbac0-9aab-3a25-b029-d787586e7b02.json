@@ -266,6 +266,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-04-10 16:33:15 +0000",
+      "beef": "2025-04-11 21:26:47 +0000",
       "porkchop": "2025-04-10 22:33:44 +0000",
       "bread": "2025-04-10 16:31:12 +0000",
       "golden_apple": "2025-04-10 22:15:50 +0000",
@@ -693,6 +694,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-04-10 16:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-04-11 21:26:41 +0000"
     },
     "done": true
   },
@@ -1158,6 +1165,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-11 21:24:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-04-10 15:55:08 +0000"
@@ -1173,6 +1186,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-04-10 16:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-04-11 21:26:41 +0000"
     },
     "done": true
   },
@@ -1352,6 +1371,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-04-10 16:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-11 21:26:41 +0000"
     },
     "done": true
   },

@@ -690,6 +690,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2025-04-11 21:23:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 14:39:33 +0000"
@@ -1078,6 +1084,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-04-10 21:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-11 21:24:28 +0000"
     },
     "done": true
   },
@@ -1633,6 +1645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-11 21:24:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-10 14:38:47 +0000"
@@ -2046,6 +2064,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2025-04-10 15:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-11 21:23:19 +0000"
     },
     "done": true
   },
