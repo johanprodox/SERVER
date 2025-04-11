@@ -1,719 +1,245 @@
-[20:48:46] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:48:46] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[20:48:47] [Worker-Main-2/INFO]: Loaded 7 recipes
-[20:48:48] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[20:48:48] [Server thread/INFO]: Loading properties
-[20:48:48] [Server thread/INFO]: This server is running Paper version git-Paper-416 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
-[20:48:49] [Server thread/INFO]: Debug logging is disabled
-[20:48:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:48:49] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:48:49] [Server thread/INFO]: Default game type: SURVIVAL
-[20:48:49] [Server thread/INFO]: Generating keypair
-[20:48:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:48:49] [Server thread/INFO]: Using epoll channel type
-[20:48:49] [Server thread/ERROR]: Could not load 'plugins/orebfuscator-plugin-5.1.2.jar' in folder 'plugins'
-org.bukkit.plugin.UnknownDependencyException: Unknown dependency ProtocolLib. Please download and install ProtocolLib to run this plugin.
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:272) ~[patched_1.16.4.jar:git-Paper-416]
-	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:389) ~[patched_1.16.4.jar:git-Paper-416]
-	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:206) ~[patched_1.16.4.jar:git-Paper-416]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:935) ~[patched_1.16.4.jar:git-Paper-416]
-	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:173) ~[patched_1.16.4.jar:git-Paper-416]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[20:48:50] [Server thread/INFO]: [voicechat] Loading voicechat v2.5.29
-[20:48:50] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
-[20:48:50] [Server thread/INFO]: [TPA] Loading TPA v3.2.3
-[20:48:50] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
-[20:48:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:48:50] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
-[20:48:50] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[20:48:50] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.4[32;1m.[0;39m
-[20:48:51] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
-[20:48:51] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
-[20:48:51] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
-[20:48:51] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
-[20:48:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:48:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:48:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:48:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:48:51] [Server thread/INFO]: Preparing level "world"
-[20:48:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:48:51] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[20:48:51] [Server thread/INFO]: Preparing spawn area: 0%
-[20:48:52] [Server thread/INFO]: Time elapsed: 427 ms
-[20:48:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:48:52] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[20:48:52] [Server thread/INFO]: Time elapsed: 174 ms
-[20:48:52] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.29
-[20:48:52] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.16.4-R0.1
-[20:48:52] [Server thread/INFO]: [voicechat] Compatibility version 18
-[20:48:52] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[20:48:52] [Server thread/INFO]: [TPA] Enabling TPA v3.2.3
-[20:48:52] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[20:48:52] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[20:48:52] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[20:48:52] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[20:48:52] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[20:48:52] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[20:48:52] [Server thread/INFO]: Running delayed init tasks
-[20:48:52] [Server thread/INFO]: [voicechat] Loading plugins
-[20:48:52] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[20:48:52] [Server thread/INFO]: [voicechat] Initializing plugins
-[20:48:52] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[20:48:52] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[20:48:52] [Server thread/INFO]: Done (4.328s)! For help, type "help"
-[20:48:52] [Server thread/INFO]: Timings Reset
-[20:48:52] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[20:48:53] [Craft Scheduler Thread - 0/INFO]: [TPA] 插件已成功加载！当前版本为：3.2.3
-[20:48:53] [Craft Scheduler Thread - 0/INFO]: [TPA] 正在检查更新...
-[20:48:54] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[20:48:54] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[20:48:54] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[20:48:54] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[20:48:54] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[20:48:54] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[20:48:54] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[20:48:54] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
-[20:48:54] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
-[20:48:54] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[20:48:54] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[20:48:54] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[20:48:54] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[20:48:54] [Craft Scheduler Thread - 0/INFO]: [TPA] 当前已是最新版本
-[20:49:42] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[20:49:42] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[20:49:42] [Server thread/INFO]: Debug logging is disabled
-[20:49:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:49:42] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:49:42] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
-[20:49:42] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[20:49:42] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[20:49:42] [Server thread/INFO]: [TPA] Disabling TPA v3.2.3
-[20:49:42] [Server thread/INFO]: [TPA] 插件已成功卸载！
-[20:49:42] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
-[20:49:42] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.29
-[20:49:42] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[20:49:42] [Server thread/INFO]: Loaded 7 recipes
-[20:49:43] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[20:49:43] [Server thread/INFO]: Loaded 7 recipes
-[20:49:44] [Server thread/INFO]: [voicechat] Loading voicechat v2.5.29
-[20:49:44] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
-[20:49:44] [Server thread/INFO]: [TPA] Loading TPA v3.2.3
-[20:49:44] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
-[20:49:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:49:44] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
-[20:49:44] [Server thread/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
-[20:49:44] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[20:49:44] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.4[32;1m.[0;39m
-[20:49:44] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
-[20:49:44] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
-[20:49:44] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
-[20:49:44] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
-[20:49:44] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.29
-[20:49:44] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.16.4-R0.1
-[20:49:44] [Server thread/INFO]: [voicechat] Compatibility version 18
-[20:49:44] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[20:49:44] [Server thread/ERROR]: [voicechat] Simple Voice Chat does not support reloads! Expect that things will break!
-[20:49:44] [Server thread/INFO]: [TPA] Enabling TPA v3.2.3
-[20:49:44] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[20:49:44] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[20:49:44] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[20:49:44] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[20:49:44] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[20:49:44] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[20:49:44] [Server thread/INFO]: CONSOLE: Reload complete.
-[20:49:44] [Server thread/INFO]: Timings Reset
-[20:49:44] [Server thread/INFO]: [voicechat] Loading plugins
-[20:49:44] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[20:49:44] [Server thread/INFO]: [voicechat] Initializing plugins
-[20:49:44] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[20:49:44] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[20:49:44] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[20:49:44] [Craft Scheduler Thread - 17/INFO]: [TPA] 插件已成功加载！当前版本为：3.2.3
-[20:49:44] [Craft Scheduler Thread - 17/INFO]: [TPA] 正在检查更新...
-[20:49:44] [Craft Scheduler Thread - 17/INFO]: [TPA] 当前已是最新版本
-[20:49:44] [Craft Scheduler Thread - 15/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[20:49:44] [Craft Scheduler Thread - 15/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[20:49:44] [Craft Scheduler Thread - 15/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[20:49:44] [Craft Scheduler Thread - 15/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[20:49:44] [Craft Scheduler Thread - 15/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[20:49:44] [Craft Scheduler Thread - 15/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[20:49:44] [Craft Scheduler Thread - 15/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[20:49:44] [Craft Scheduler Thread - 15/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
-[20:49:44] [Craft Scheduler Thread - 15/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
-[20:49:44] [Craft Scheduler Thread - 15/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[20:49:44] [Craft Scheduler Thread - 15/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[20:49:44] [Craft Scheduler Thread - 15/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[20:49:44] [Craft Scheduler Thread - 15/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[20:51:03] [User Authenticator #1/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
-[20:51:03] [Server thread/INFO]: johanprodox joined the game
-[20:51:03] [Server thread/INFO]: johanprodox[/127.251.51.31:60093] logged in with entity id 116 at ([world]-1284.5, 69.0, -1958.5)
-[20:54:19] [User Authenticator #2/INFO]: UUID of player LinenFeather949 is 43e0a2df-b9b5-3dcc-bcaf-9e76a1fc8542
-[20:54:19] [Server thread/INFO]: LinenFeather949 joined the game
-[20:54:19] [Server thread/INFO]: LinenFeather949[/127.187.221.159:46257] logged in with entity id 669 at ([world]253.3006013286395, 59.0, -758.6999999880791)
-[20:57:22] [User Authenticator #3/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[20:57:22] [Server thread/INFO]: rexer joined the game
-[20:57:22] [Server thread/INFO]: rexer[/127.109.181.221:44485] logged in with entity id 1711 at ([world]-3012.767990846301, 62.0, 2020.6959413385607)
-[20:57:44] [Async Chat Thread - #0/INFO]: <rexer> oe angelo
-[20:58:33] [User Authenticator #4/INFO]: UUID of player Luca_537XD is 9f52a659-9fe0-3cd4-a415-41b0e379092d
-[20:58:33] [Server thread/INFO]: Luca_537XD joined the game
-[20:58:33] [Server thread/INFO]: Luca_537XD[/127.14.158.73:36097] logged in with entity id 2417 at ([world]102.5, 63.0, -211.5)
-[20:58:34] [Async Chat Thread - #0/INFO]: <LinenFeather949> :v
-[20:58:40] [Server thread/INFO]: rexer issued server command: /tpa LinenFeather949
-[20:58:45] [Async Chat Thread - #0/INFO]: <rexer> acepta p causa
-[20:58:47] [Async Chat Thread - #0/INFO]: <LinenFeather949> pa que
-[20:58:53] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
-[20:58:55] [Async Chat Thread - #0/INFO]: <rexer> voy a ayudarles a buscar una nueva base
-[20:58:58] [Craft Scheduler Thread - 42/INFO]: LinenFeather949
-[20:58:58] [Craft Scheduler Thread - 41/INFO]: LinenFeather949
-[20:59:01] [Async Chat Thread - #0/INFO]: <LinenFeather949> no mejor no
-[20:59:09] [Async Chat Thread - #0/INFO]: <rexer> o q mrd
-[20:59:10] [Server thread/INFO]: Luca_537XD issued server command: /tpa LinenFeather949
-[20:59:18] [Async Chat Thread - #0/INFO]: <Luca_537XD> acepta angelo
-[20:59:19] [Async Chat Thread - #0/INFO]: <rexer> perame
-[20:59:20] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
-[20:59:25] [Craft Scheduler Thread - 41/INFO]: LinenFeather949
-[20:59:25] [Craft Scheduler Thread - 44/INFO]: LinenFeather949
-[20:59:30] [Async Chat Thread - #0/INFO]: <LinenFeather949> vamonos luca
-[20:59:33] [Async Chat Thread - #0/INFO]: <rexer> mi base esta a 4k de bloques XD
-[20:59:49] [Async Chat Thread - #0/INFO]: <LinenFeather949> CORRE
-[21:00:08] [Async Chat Thread - #0/INFO]: <rexer> :V
-[21:00:38] [Server thread/INFO]: LinenFeather949 was blown up by Creeper
-[21:00:41] [Async Chat Thread - #0/INFO]: <LinenFeather949> xd
-[21:00:41] [Server thread/INFO]: Luca_537XD has made the advancement [Stone Age]
-[21:00:41] [Server thread/INFO]: Luca_537XD has made the advancement [Getting an Upgrade]
-[21:00:47] [Server thread/INFO]: LinenFeather949 issued server command: /tpa Luca_537XD
-[21:00:52] [Server thread/INFO]: Luca_537XD issued server command: /tpaccept
-[21:00:56] [Server thread/INFO]: rexer issued server command: /home
-[21:00:57] [Craft Scheduler Thread - 49/INFO]: Luca_537XD
-[21:00:57] [Craft Scheduler Thread - 50/INFO]: Luca_537XD
-[21:00:59] [Server thread/INFO]: rexer issued server command: /home hogar
-[21:01:03] [Async Chat Thread - #0/INFO]: <LinenFeather949> pasa pes
-[21:01:04] [Craft Scheduler Thread - 50/INFO]: hogar
-[21:01:04] [Craft Scheduler Thread - 49/INFO]: hogar
-[21:01:06] [Async Chat Thread - #0/INFO]: <LinenFeather949> el pico
-[21:01:45] [Async Chat Thread - #0/INFO]: <Luca_537XD> y quiara
-[21:01:49] [Async Chat Thread - #0/INFO]: <Luca_537XD> kiara
-[21:01:50] [Async Chat Thread - #0/INFO]: <LinenFeather949> ahora no esat
-[21:01:53] [Async Chat Thread - #0/INFO]: <Luca_537XD> F
-[21:02:01] [Async Chat Thread - #0/INFO]: <Luca_537XD> dayron pork nos quieres matar
-[21:02:10] [Async Chat Thread - #0/INFO]: <rexer> no queria
-[21:02:14] [Async Chat Thread - #0/INFO]: <rexer> angelo me queria matar a mi
-[21:02:14] [Async Chat Thread - #0/INFO]: <Luca_537XD> a
-[21:02:19] [Async Chat Thread - #0/INFO]: <Luca_537XD> xd
-[21:02:26] [Async Chat Thread - #0/INFO]: <LinenFeather949> eran golpes de chill
-[21:02:29] [Async Chat Thread - #0/INFO]: <Luca_537XD> si estas full cheto
-[21:02:36] [Async Chat Thread - #0/INFO]: <LinenFeather949> como dos hachashos de piedra te van a matar
-[21:02:43] [Async Chat Thread - #0/INFO]: <rexer> mano estaba peleando con 2 hordas de zombies XD
-[21:02:50] [Async Chat Thread - #0/INFO]: <rexer> y tenia 4 coras
-[21:02:53] [Server thread/INFO]: johanprodox issued server command: /home
-[21:02:57] [Server thread/INFO]: johanprodox issued server command: /homes
-[21:03:00] [Server thread/INFO]: johanprodox issued server command: /home default
-[21:03:02] [Server thread/INFO]: Luca_537XD issued server command: /tpa rexer
-[21:03:05] [Craft Scheduler Thread - 55/INFO]: default
-[21:03:05] [Craft Scheduler Thread - 56/INFO]: default
-[21:03:56] [Async Chat Thread - #1/INFO]: <rexer> oe johan
-[21:04:00] [Async Chat Thread - #1/INFO]: <johanprodox> q
-[21:04:04] [Async Chat Thread - #1/INFO]: <rexer> cierra el end hasta que todos podamos ir
-[21:04:11] [User Authenticator #5/INFO]: UUID of player kwimiii is 7bf8fa59-d927-3016-99c8-1175082e9d8e
-[21:04:11] [Server thread/INFO]: kwimiii joined the game
-[21:04:11] [Server thread/INFO]: kwimiii[/127.182.105.156:46333] logged in with entity id 5467 at ([world]-1283.813698921849, 69.875, -1956.6515365605972)
-[21:04:12] [Server thread/INFO]: Luca_537XD has made the advancement [Monster Hunter]
-[21:04:18] [Async Chat Thread - #1/INFO]: <johanprodox> ya esta cerrado
-[21:04:23] [Async Chat Thread - #1/INFO]: <rexer> ok
-[21:04:28] [Server thread/INFO]: Luca_537XD issued server command: /tpa kwimiii
-[21:04:33] [Async Chat Thread - #1/INFO]: <rexer> con que se aparean los lobos?
-[21:04:34] [Async Chat Thread - #1/INFO]: <Luca_537XD> keviiin
-[21:04:42] [Async Chat Thread - #1/INFO]: <LinenFeather949> no es kevin
-[21:04:44] [Async Chat Thread - #1/INFO]: <LinenFeather949> es la k
-[21:04:45] [Async Chat Thread - #1/INFO]: <Luca_537XD> a
-[21:04:46] [Async Chat Thread - #1/INFO]: <LinenFeather949> minita
-[21:04:46] [Async Chat Thread - #1/INFO]: <rexer> es kiara
-[21:04:49] [Async Chat Thread - #1/INFO]: <kwimiii> aso
-[21:04:49] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii osla
-[21:04:50] [Async Chat Thread - #1/INFO]: <Luca_537XD> seeee
-[21:04:55] [Async Chat Thread - #1/INFO]: <LinenFeather949> XDD
-[21:04:55] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox ola
-[21:04:58] [Async Chat Thread - #1/INFO]: <Luca_537XD> kiara acepta tp
-[21:05:01] [Async Chat Thread - #1/INFO]: <Luca_537XD> kiara acepta tp
-[21:05:05] [Server thread/INFO]: Luca_537XD issued server command: /tpa kwimiii
-[21:05:09] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii o no lo aceptes
-[21:05:19] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii pera que no vayamos a otro lado p
-[21:05:22] [Async Chat Thread - #1/INFO]: <LinenFeather949> mde vas a dejar
-[21:05:32] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii por siaca p
-[21:05:35] [User Authenticator #6/INFO]: UUID of player gotacrack777 is 721a08fe-4ec5-3658-b617-df8c36492f18
-[21:05:35] [Server thread/INFO]: gotacrack777 joined the game
-[21:05:35] [Server thread/INFO]: gotacrack777[/127.218.61.44:56885] logged in with entity id 6167 at ([world]96.43756385787954, 64.0, -340.4783241752618)
-[21:05:37] [Async Chat Thread - #1/INFO]: <rexer> oe luca no que nos te ibas unir?
-[21:05:43] [Async Chat Thread - #1/INFO]: <LinenFeather949> no
-[21:05:47] [Async Chat Thread - #1/INFO]: <LinenFeather949> el solo es conmigo
-[21:06:02] [Async Chat Thread - #1/INFO]: <rexer> tmr
-[21:06:05] [Async Chat Thread - #1/INFO]: <Luca_537XD> se unio mau
-[21:06:14] [Async Chat Thread - #1/INFO]: <rexer> mau tienes clan?
-[21:06:17] [Server thread/INFO]: Luca_537XD issued server command: /msg rexer infiltrdo
-[21:06:25] [Server thread/INFO]: rexer issued server command: /tell Luca_537XD ok p
-[21:06:30] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii tienes el más hierro de la mina?
-[21:06:32] [Async Chat Thread - #1/INFO]: <gotacrack777> ese yeti run sin yeti
-[21:06:42] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox NO
-[21:06:46] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii y tmb tienes la manzanas?
-[21:06:50] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox estoy yendo a por comida
-[21:06:50] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii aya
-[21:06:54] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii ok
-[21:07:29] [Async Chat Thread - #1/INFO]: <Luca_537XD> pense k kwimiii era kevin
-[21:07:39] [Async Chat Thread - #1/INFO]: <kwimiii> nono
-[21:07:39] [Async Chat Thread - #1/INFO]: <LinenFeather949> ese x ray
-[21:07:41] [Server thread/INFO]: rexer issued server command: /tell Luca_537XD hasta tp a mi
-[21:07:48] [Async Chat Thread - #1/INFO]: <Luca_537XD> xd
-[21:07:52] [Server thread/INFO]: Luca_537XD issued server command: /tpa rexer
-[21:07:58] [Server thread/INFO]: rexer issued server command: /tpaccept
-[21:08:03] [Craft Scheduler Thread - 70/INFO]: rexer
-[21:08:03] [Craft Scheduler Thread - 71/INFO]: rexer
-[21:08:14] [Async Chat Thread - #1/INFO]: <rexer> ven bro
-[21:08:21] [Async Chat Thread - #1/INFO]: <rexer> tu vienes aca
-[21:08:24] [Async Chat Thread - #1/INFO]: <LinenFeather949> despues mandas tp luca
-[21:08:28] [Async Chat Thread - #1/INFO]: <LinenFeather949> voy a estar afuera
-[21:08:29] [Async Chat Thread - #1/INFO]: <Luca_537XD> ok
-[21:08:30] [Server thread/INFO]: Luca_537XD lost connection: no uses x ray, te observo
-[21:08:30] [Server thread/INFO]: [voicechat] Disconnecting client Luca_537XD
-[21:08:30] [Server thread/INFO]: Luca_537XD left the game
-[21:08:30] [Server thread/INFO]: Kicked Luca_537XD: no uses x ray, te observo
-[21:08:34] [Async Chat Thread - #1/INFO]: <gotacrack777> como funciona eso del tp
-[21:08:36] [User Authenticator #7/INFO]: UUID of player Luca_537XD is 9f52a659-9fe0-3cd4-a415-41b0e379092d
-[21:08:36] [Server thread/INFO]: Luca_537XD joined the game
-[21:08:36] [Server thread/INFO]: Luca_537XD[/127.14.158.73:45389] logged in with entity id 8001 at ([world]-2728.9036961304764, 71.00133597911214, 2155.7195445158927)
-[21:08:37] [Async Chat Thread - #1/INFO]: <rexer> XD se fue
-[21:08:50] [Server thread/INFO]: Luca_537XD lost connection: Disconnected
-[21:08:50] [Server thread/INFO]: [voicechat] Disconnecting client Luca_537XD
-[21:08:50] [Server thread/INFO]: Luca_537XD left the game
-[21:08:54] [User Authenticator #7/INFO]: UUID of player Luca_537XD is 9f52a659-9fe0-3cd4-a415-41b0e379092d
-[21:08:54] [Server thread/INFO]: Luca_537XD joined the game
-[21:08:54] [Server thread/INFO]: Luca_537XD[/127.14.158.73:48771] logged in with entity id 8143 at ([world]-2728.9036961304764, 70.6970191516546, 2155.7195445158927)
-[21:08:57] [Server thread/INFO]: rexer issued server command: /home hogar
-[21:09:02] [Craft Scheduler Thread - 75/INFO]: hogar
-[21:09:14] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox O
-[21:09:19] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii euq
-[21:09:21] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox SI TENIA HIERRO
-[21:09:29] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii SJAJSAJSJAJ y manzanas?
-[21:09:32] [Async Chat Thread - #1/INFO]: <Luca_537XD> el xray es malo muchachos
-[21:09:40] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox eso si ne
-[21:09:40] [Server thread/INFO]: Luca_537XD issued server command: /tpa rexer
-[21:09:42] [Async Chat Thread - #1/INFO]: <LinenFeather949> xd
-[21:09:50] [Async Chat Thread - #1/INFO]: <rexer> no luca estoy en mi base
-[21:10:00] [Server thread/INFO]: Luca_537XD issued server command: /tpa kwimiii
-[21:10:15] [Server thread/INFO]: Luca_537XD issued server command: /tpa johanprodox
-[21:10:20] [Server thread/INFO]: Luca_537XD issued server command: /tpa LinenFeather949
-[21:11:18] [Server thread/INFO]: gotacrack777 has made the advancement [Acquire Hardware]
-[21:11:30] [User Authenticator #8/INFO]: UUID of player Stincvx is 533df107-108c-3415-9ea5-9a60749bba95
-[21:11:30] [Server thread/INFO]: Stincvx joined the game
-[21:11:30] [Server thread/INFO]: Stincvx[/127.108.28.65:55929] logged in with entity id 9811 at ([world]102.5, 63.0, -211.5)
-[21:11:34] [Async Chat Thread - #2/INFO]: <johanprodox> WTF
-[21:11:39] [Async Chat Thread - #2/INFO]: <Luca_537XD> cual es kevin
-[21:11:40] [Async Chat Thread - #2/INFO]: <rexer> quienes son?
-[21:11:41] [Async Chat Thread - #2/INFO]: <johanprodox> y este
-[21:11:42] [Server thread/INFO]: Luca_537XD has made the advancement [Acquire Hardware]
-[21:11:51] [Async Chat Thread - #2/INFO]: <rexer> banealos p
-[21:11:54] [Async Chat Thread - #2/INFO]: <gotacrack777> vamos
-[21:11:54] [Async Chat Thread - #2/INFO]: <Luca_537XD> ban
-[21:11:56] [Async Chat Thread - #2/INFO]: <johanprodox> ok
-[21:12:00] [Async Chat Thread - #2/INFO]: <gotacrack777> ban
-[21:12:13] [Async Chat Thread - #2/INFO]: <gotacrack777> a donde van?
-[21:12:17] [Server thread/INFO]: Banned Stincvx: Banned by an operator.
-[21:12:17] [Server thread/INFO]: Stincvx lost connection: You are banned from this server
-[21:12:17] [Server thread/INFO]: [voicechat] Disconnecting client Stincvx
-[21:12:17] [Server thread/INFO]: Stincvx left the game
-[21:12:43] [Server thread/INFO]: Luca_537XD has made the advancement [Isn't It Iron Pick]
-[21:12:52] [Server thread/INFO]: rexer issued server command: /tpa Luca_537XD
-[21:12:58] [Server thread/INFO]: Luca_537XD issued server command: /tpaccept
-[21:13:02] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii o te voy a dar esmeraldas para tu armor de diamante
-[21:13:22] [Server thread/INFO]: rexer issued server command: /tell johanprodox oe mano deciero hacer team no con adiel? esto el me dijo que les de algunos diamantes
-[21:13:23] [Server thread/INFO]: Luca_537XD issued server command: /tpa:warp
-[21:13:32] [Server thread/INFO]: rexer issued server command: /tell johanprodox si lo aceptaron me avisas
-[21:13:38] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
-[21:13:40] [Async Chat Thread - #3/INFO]: <LinenFeather949> luca
-[21:13:43] [Async Chat Thread - #3/INFO]: <LinenFeather949> manda denuevo
-[21:13:43] [Async Chat Thread - #3/INFO]: <Luca_537XD> k
-[21:13:47] [Server thread/INFO]: Luca_537XD issued server command: /tpa LinenFeather949
-[21:13:48] [Async Chat Thread - #3/INFO]: <LinenFeather949> y mi hierro
-[21:13:50] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
-[21:13:54] [Server thread/INFO]: Luca_537XD issued server command: /tpa LinenFeather949
-[21:13:56] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
-[21:13:59] [Server thread/INFO]: rexer issued server command: /tpa Luca_537XD
-[21:14:01] [Craft Scheduler Thread - 92/INFO]: LinenFeather949
-[21:14:01] [Craft Scheduler Thread - 91/INFO]: LinenFeather949
-[21:14:01] [Async Chat Thread - #3/INFO]: <LinenFeather949> oe y mi hierro
-[21:14:03] [Server thread/INFO]: Luca_537XD issued server command: /tpaccept
-[21:14:06] [Async Chat Thread - #3/INFO]: <LinenFeather949> maldito
-[21:14:07] [Server thread/INFO]: Luca_537XD issued server command: /tpdeny
-[21:14:08] [Async Chat Thread - #3/INFO]: <LinenFeather949> dame todo
-[21:14:08] [Craft Scheduler Thread - 91/INFO]: Luca_537XD
-[21:14:08] [Craft Scheduler Thread - 92/INFO]: Luca_537XD
-[21:14:08] [Server thread/INFO]: johanprodox issued server command: /msg rexer no, solo dijimos que ibamos a hacer una alianza
-[21:14:37] [Server thread/INFO]: LinenFeather949 was slain by rexer
-[21:14:41] [Async Chat Thread - #3/INFO]: <LinenFeather949> vamos luca
-[21:14:44] [Async Chat Thread - #3/INFO]: <Luca_537XD> k passa
-[21:14:46] [Server thread/INFO]: LinenFeather949 issued server command: /tpa Luca_537XD
-[21:14:52] [Async Chat Thread - #3/INFO]: <LinenFeather949> acepta
-[21:14:55] [Server thread/INFO]: rexer lost connection: Disconnected
-[21:14:55] [Server thread/INFO]: [voicechat] Disconnecting client rexer
-[21:14:55] [Server thread/INFO]: rexer left the game
-[21:14:57] [Server thread/INFO]: Luca_537XD issued server command: /tpaccept
-[21:14:59] [Async Chat Thread - #3/INFO]: <LinenFeather949> ese wn
-[21:15:02] [Craft Scheduler Thread - 96/INFO]: Luca_537XD
-[21:15:02] [Craft Scheduler Thread - 97/INFO]: Luca_537XD
-[21:15:09] [Async Chat Thread - #3/INFO]: <LinenFeather949> mi hierro
-[21:15:11] [Async Chat Thread - #3/INFO]: <Luca_537XD> cava
-[21:15:13] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii o voy a estar afk un ratito, tala madera para tu armadura
-[21:15:25] [Async Chat Thread - #3/INFO]: <LinenFeather949> oe mi hierro mano
-[21:15:28] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii ya lo subi de nivel al de las armaduras
-[21:15:46] [User Authenticator #9/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[21:15:47] [Server thread/INFO]: rexer joined the game
-[21:15:47] [Server thread/INFO]: rexer[/127.109.181.221:49971] logged in with entity id 12095 at ([world]-24.9885800264209, 66.67647087614428, -322.10900614285794)
-[21:15:53] [Server thread/INFO]: rexer lost connection: Disconnected
-[21:15:53] [Server thread/INFO]: [voicechat] Disconnecting client rexer
-[21:15:53] [Server thread/INFO]: rexer left the game
-[21:16:01] [Async Chat Thread - #3/INFO]: <LinenFeather949> mi hierro causa
-[21:16:06] [Async Chat Thread - #3/INFO]: <LinenFeather949> q hicisto con todo el hierro
-[21:16:21] [Server thread/INFO]: kwimiii lost connection: Disconnected
-[21:16:21] [Server thread/INFO]: [voicechat] Disconnecting client kwimiii
-[21:16:21] [Server thread/INFO]: kwimiii left the game
-[21:16:29] [Server thread/INFO]: Luca_537XD was slain by LinenFeather949
-[21:16:30] [Async Chat Thread - #3/INFO]: <gotacrack777> ese kevin
-[21:16:33] [Async Chat Thread - #3/INFO]: <Luca_537XD> k pasa
-[21:16:35] [Async Chat Thread - #3/INFO]: <LinenFeather949> XD
-[21:16:39] [Server thread/INFO]: Luca_537XD issued server command: /tpa LinenFeather949
-[21:16:40] [Async Chat Thread - #3/INFO]: <LinenFeather949> MANDA
-[21:16:41] [Async Chat Thread - #3/INFO]: <Luca_537XD> oe
-[21:16:44] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
-[21:16:49] [Craft Scheduler Thread - 104/INFO]: LinenFeather949
-[21:16:49] [Craft Scheduler Thread - 105/INFO]: LinenFeather949
-[21:17:24] [User Authenticator #10/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[21:17:24] [Server thread/INFO]: rexer joined the game
-[21:17:24] [Server thread/INFO]: rexer[/127.109.181.221:59159] logged in with entity id 12701 at ([world]-27.11698048842165, 66.0, -322.93515280861027)
-[21:17:31] [Server thread/INFO]: LinenFeather949 was blown up by Creeper
-[21:17:37] [Server thread/INFO]: LinenFeather949 issued server command: /tpa Luca_537XD
-[21:17:40] [Server thread/INFO]: Luca_537XD issued server command: /tpaccept
-[21:17:45] [Craft Scheduler Thread - 108/INFO]: Luca_537XD
-[21:17:45] [Craft Scheduler Thread - 109/INFO]: Luca_537XD
-[21:18:00] [Server thread/INFO]: Luca_537XD was slain by Zombie
-[21:18:06] [Server thread/INFO]: Luca_537XD issued server command: /tpa LinenFeather949
-[21:18:07] [Server thread/INFO]: rexer lost connection: Disconnected
-[21:18:07] [Server thread/INFO]: [voicechat] Disconnecting client rexer
-[21:18:07] [Server thread/INFO]: rexer left the game
-[21:18:20] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
-[21:18:25] [Craft Scheduler Thread - 112/INFO]: LinenFeather949
-[21:18:25] [Craft Scheduler Thread - 113/INFO]: LinenFeather949
-[21:19:14] [Server thread/INFO]: LinenFeather949 was blown up by Creeper
-[21:19:20] [Server thread/INFO]: LinenFeather949 issued server command: /tpa Luca_537XD
-[21:19:35] [Async Chat Thread - #4/INFO]: <LinenFeather949> acepta
-[21:19:51] [User Authenticator #11/INFO]: UUID of player Elpanamiguel_777 is 356f2a13-dbc2-334c-afa3-d724557be09d
-[21:19:51] [Server thread/INFO]: Elpanamiguel_777 joined the game
-[21:19:51] [Server thread/INFO]: Elpanamiguel_777[/127.88.243.213:41467] logged in with entity id 13812 at ([world]70.57465027609274, 68.49520087700593, -714.6674350892758)
-[21:19:52] [Server thread/INFO]: LinenFeather949 issued server command: /tpa Luca_537XD
-[21:19:54] [Server thread/INFO]: Luca_537XD was slain by Spider
-[21:19:56] [Async Chat Thread - #4/INFO]: <LinenFeather949> XD
-[21:19:58] [Async Chat Thread - #4/INFO]: <Luca_537XD> aaaaaa
-[21:20:00] [Async Chat Thread - #4/INFO]: <LinenFeather949> ya fue luca
-[21:20:08] [Async Chat Thread - #4/INFO]: <LinenFeather949> desde cero
-[21:20:13] [Server thread/INFO]: Luca_537XD issued server command: /tpa Elpanamiguel_777
-[21:20:15] [Async Chat Thread - #4/INFO]: <LinenFeather949> igual no teniamos cosas
-[21:20:21] [Async Chat Thread - #4/INFO]: <Luca_537XD> oe pana acepta
-[21:20:25] [Async Chat Thread - #4/INFO]: <Luca_537XD> oe pana acepta
-[21:20:29] [Server thread/INFO]: LinenFeather949 issued server command: /tpa Elpanamiguel_777
-[21:20:31] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpaccept
-[21:20:32] [Server thread/INFO]: Luca_537XD issued server command: /tpaccept
-[21:20:33] [Async Chat Thread - #4/INFO]: <LinenFeather949> vamo con adiel
-[21:20:36] [Craft Scheduler Thread - 122/INFO]: Elpanamiguel_777
-[21:20:36] [Craft Scheduler Thread - 123/INFO]: Elpanamiguel_777
-[21:20:36] [Async Chat Thread - #4/INFO]: <Luca_537XD> se
-[21:20:42] [Server thread/INFO]: Luca_537XD issued server command: /tpa Elpanamiguel_777
-[21:20:55] [Async Chat Thread - #4/INFO]: <LinenFeather949> manda tp
-[21:21:22] [Server thread/INFO]: Luca_537XD issued server command: /tpa LinenFeather949
-[21:21:24] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
-[21:21:25] [User Authenticator #12/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
-[21:21:25] [Server thread/INFO]: rexer joined the game
-[21:21:25] [Server thread/INFO]: rexer[/127.109.181.221:36655] logged in with entity id 14823 at ([world]-26.250459442259906, 67.0, -328.1647856921851)
-[21:21:29] [Craft Scheduler Thread - 126/INFO]: LinenFeather949
-[21:21:29] [Craft Scheduler Thread - 127/INFO]: LinenFeather949
-[21:21:40] [Server thread/INFO]: gotacrack777 lost connection: Disconnected
-[21:21:40] [Server thread/INFO]: [voicechat] Disconnecting client gotacrack777
-[21:21:40] [Server thread/INFO]: gotacrack777 left the game
-[21:21:45] [Server thread/INFO]: rexer issued server command: /home hogar
-[21:21:46] [Async Chat Thread - #4/INFO]: <Luca_537XD> vamoo
-[21:21:50] [Craft Scheduler Thread - 127/INFO]: hogar
-[21:21:50] [Craft Scheduler Thread - 126/INFO]: hogar
-[21:21:52] [Server thread/INFO]: Luca_537XD was slain by Elpanamiguel_777
-[21:21:53] [Async Chat Thread - #4/INFO]: <johanprodox> volvi
-[21:21:54] [Async Chat Thread - #4/INFO]: <LinenFeather949> XD
-[21:21:58] [Async Chat Thread - #4/INFO]: <Luca_537XD> xd
-[21:22:00] [Server thread/INFO]: Luca_537XD issued server command: /tpa LinenFeather949
-[21:22:00] [Async Chat Thread - #4/INFO]: <Elpanamiguel_777> xddd
-[21:22:04] [Async Chat Thread - #4/INFO]: <LinenFeather949> simio no mata simio
-[21:22:09] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
-[21:22:11] [Server thread/INFO]: Luca_537XD issued server command: /tpa LinenFeather949
-[21:22:12] [Server thread/INFO]: rexer issued server command: /tell Elpanamiguel_777 oe luca nos traiciono
-[21:22:13] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
-[21:22:18] [Craft Scheduler Thread - 129/INFO]: LinenFeather949
-[21:22:19] [Craft Scheduler Thread - 130/INFO]: LinenFeather949
-[21:22:45] [User Authenticator #13/INFO]: UUID of player AngelMatias is 956fbac0-9aab-3a25-b029-d787586e7b02
-[21:22:45] [Server thread/INFO]: Luca_537XD tried to swim in lava
-[21:22:45] [Server thread/INFO]: AngelMatias joined the game
-[21:22:45] [Server thread/INFO]: AngelMatias[/127.218.61.44:51567] logged in with entity id 16115 at ([world]-3507.468727675062, 71.25220334025373, -2836.6443932836264)
-[21:22:47] [Async Chat Thread - #4/INFO]: <LinenFeather949> XDD
-[21:22:49] [Server thread/INFO]: Luca_537XD issued server command: /tpa LinenFeather949
-[21:22:50] [Server thread/INFO]: AngelMatias lost connection: Disconnected
-[21:22:50] [Server thread/INFO]: [voicechat] Disconnecting client AngelMatias
-[21:22:50] [Server thread/INFO]: AngelMatias left the game
-[21:22:53] [User Authenticator #13/INFO]: UUID of player AngelMatias is 956fbac0-9aab-3a25-b029-d787586e7b02
-[21:22:53] [Server thread/INFO]: AngelMatias joined the game
-[21:22:53] [Server thread/INFO]: AngelMatias[/127.218.61.44:54941] logged in with entity id 16642 at ([world]-3507.468727675062, 71.02167597134077, -2836.6443932836264)
-[21:22:53] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
-[21:22:55] [Async Chat Thread - #4/INFO]: <Luca_537XD> bruh
-[21:22:58] [Craft Scheduler Thread - 134/INFO]: LinenFeather949
-[21:22:58] [Craft Scheduler Thread - 133/INFO]: LinenFeather949
-[21:23:05] [Server thread/INFO]: Elpanamiguel_777 fell from a high place
-[21:23:07] [Async Chat Thread - #4/INFO]: <rexer> est pana
-[21:23:09] [Async Chat Thread - #4/INFO]: <LinenFeather949> XDDDDD
-[21:23:19] [Server thread/INFO]: rexer has made the advancement [The Parrots and the Bats]
-[21:23:32] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpa LinenFeather949
-[21:23:35] [User Authenticator #13/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
-[21:23:35] [Server thread/INFO]: GaccGamer joined the game
-[21:23:35] [Server thread/INFO]: GaccGamer[/127.125.12.20:55835] logged in with entity id 17370 at ([world_nether]-29.005856310754247, 73.0, 635.9513476581701)
-[21:23:44] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
-[21:23:44] [Async Chat Thread - #4/INFO]: <Elpanamiguel_777> acepta
-[21:23:49] [Craft Scheduler Thread - 137/INFO]: LinenFeather949
-[21:23:49] [Craft Scheduler Thread - 139/INFO]: LinenFeather949
-[21:24:03] [Server thread/INFO]: GaccGamer lost connection: Disconnected
-[21:24:03] [Server thread/INFO]: [voicechat] Disconnecting client GaccGamer
-[21:24:03] [Server thread/INFO]: GaccGamer left the game
-[21:24:05] [User Authenticator #13/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
-[21:24:05] [Server thread/INFO]: GaccGamer joined the game
-[21:24:05] [Server thread/INFO]: GaccGamer[/127.125.12.20:55639] logged in with entity id 17949 at ([world_nether]-29.69999998807907, 73.0, 636.3686257525386)
-[21:24:37] [Server thread/INFO]: AngelMatias has made the advancement [Ol' Betsy]
-[21:24:38] [User Authenticator #13/INFO]: UUID of player nicolas500701 is 073090fe-dafc-312f-ac6b-199c29f0d708
-[21:24:39] [Server thread/INFO]: nicolas500701 joined the game
-[21:24:39] [Server thread/INFO]: nicolas500701[/127.20.84.239:46623] logged in with entity id 18297 at ([world]102.5, 63.0, -211.5)
-[21:24:48] [Async Chat Thread - #5/INFO]: <johanprodox> volvies leiba?
-[21:24:53] [Async Chat Thread - #5/INFO]: <johanprodox> es leiba*
-[21:25:18] [Server thread/INFO]: Elpanamiguel_777 was slain by LinenFeather949
-[21:25:20] [Async Chat Thread - #5/INFO]: <LinenFeather949> XD
-[21:25:24] [Async Chat Thread - #5/INFO]: <Luca_537XD> kajaj
-[21:25:25] [Async Chat Thread - #5/INFO]: <rexer> oe adiel
-[21:25:30] [Async Chat Thread - #5/INFO]: <rexer> haste tp a mi
-[21:25:31] [Async Chat Thread - #5/INFO]: <nicolas500701> :V
-[21:25:33] [Async Chat Thread - #5/INFO]: <LinenFeather949> manda tp
-[21:25:38] [Server thread/INFO]: Luca_537XD issued server command: /tpa rexer
-[21:25:42] [Server thread/INFO]: rexer issued server command: /tpaccept
-[21:25:44] [Server thread/INFO]: Unbanned Stincvx
-[21:25:46] [Server thread/INFO]: Luca_537XD issued server command: /tpa rexer
-[21:25:48] [Server thread/INFO]: GaccGamer issued server command: /home
-[21:25:52] [Server thread/INFO]: GaccGamer issued server command: /homes
-[21:25:54] [Server thread/INFO]: GaccGamer issued server command: /home default
-[21:25:58] [Server thread/INFO]: Luca_537XD issued server command: /tpa rexer
-[21:25:59] [Craft Scheduler Thread - 146/INFO]: default
-[21:25:59] [Craft Scheduler Thread - 145/INFO]: default
-[21:26:06] [Server thread/INFO]: rexer issued server command: /tpaccept
-[21:26:09] [Async Chat Thread - #5/INFO]: <LinenFeather949> yo vi q activaste
-[21:26:09] [Server thread/INFO]: Luca_537XD issued server command: /tpa rexer
-[21:26:15] [Server thread/INFO]: rexer issued server command: /tpaccept
-[21:26:20] [Craft Scheduler Thread - 148/INFO]: rexer
-[21:26:20] [Craft Scheduler Thread - 147/INFO]: rexer
-[21:26:28] [Async Chat Thread - #5/INFO]: <Luca_537XD> muy mal
-[21:26:31] [Server thread/INFO]: Luca_537XD was slain by rexer
-[21:26:35] [Async Chat Thread - #5/INFO]: <Luca_537XD> oe k te pasa
-[21:26:37] [Async Chat Thread - #5/INFO]: <rexer> mmm no tenias nada
-[21:26:40] [Async Chat Thread - #5/INFO]: <Luca_537XD> ratona
-[21:26:41] [Async Chat Thread - #5/INFO]: <rexer> ya haste tp
-[21:26:42] [Async Chat Thread - #5/INFO]: <nicolas500701> muchacho y anaya?
-[21:26:45] [Async Chat Thread - #5/INFO]: <rexer> para darte las denuevo
-[21:26:46] [User Authenticator #14/INFO]: UUID of player Stincvx is 533df107-108c-3415-9ea5-9a60749bba95
-[21:26:46] [Server thread/INFO]: Stincvx joined the game
-[21:26:46] [Server thread/INFO]: Stincvx[/127.108.28.65:37945] logged in with entity id 21267 at ([world]102.8452434237144, 63.0, -211.14039543637887)
-[21:26:46] [Async Chat Thread - #5/INFO]: <LinenFeather949> k fue
-[21:26:46] [Server thread/INFO]: Luca_537XD issued server command: /tpa rexer
-[21:26:49] [Server thread/INFO]: Luca_537XD issued server command: /tpa rexer
-[21:26:51] [Async Chat Thread - #5/INFO]: <nicolas500701> ahi ta
-[21:26:52] [Server thread/INFO]: Luca_537XD issued server command: /tpa rexer
-[21:26:55] [Async Chat Thread - #5/INFO]: <rexer> lxr haste tp
-[21:26:56] [Server thread/INFO]: rexer issued server command: /tpaccept
-[21:26:56] [Server thread/INFO]: Stincvx issued server command: /grrr
-[21:27:01] [Craft Scheduler Thread - 151/INFO]: rexer
-[21:27:01] [Craft Scheduler Thread - 147/INFO]: rexer
-[21:27:11] [Server thread/INFO]: Luca_537XD issued server command: /msg rexer no k team
-[21:27:17] [Async Chat Thread - #5/INFO]: <Stincvx> grrr
-[21:27:18] [Async Chat Thread - #5/INFO]: <Luca_537XD> dame mis cosas
-[21:27:22] [Server thread/INFO]: rexer issued server command: /tell Luca_537XD tu me atacastes antes
-[21:27:26] [Async Chat Thread - #5/INFO]: <rexer> ya te las di
-[21:27:26] [Server thread/INFO]: LinenFeather949 issued server command: /tell Elpanamiguel_777 estas solo?
-[21:27:31] [Async Chat Thread - #5/INFO]: <Luca_537XD> sal oe faltan
-[21:27:35] [Async Chat Thread - #5/INFO]: <rexer> q falta
-[21:27:41] [Async Chat Thread - #5/INFO]: <Luca_537XD> tenia un monton
-[21:27:51] [Async Chat Thread - #5/INFO]: <rexer> ba tu pico
-[21:28:01] [Server thread/INFO]: LinenFeather949 issued server command: /tell Elpanamiguel_777 oe tas solo?
-[21:28:02] [Async Chat Thread - #5/INFO]: <rexer> despeus no hay nada mas XD
-[21:28:10] [Async Chat Thread - #5/INFO]: <rexer> oe no k team ven pue
-[21:28:13] [Async Chat Thread - #5/INFO]: <rexer> para llevarte a la base
-[21:28:25] [Async Chat Thread - #5/INFO]: <LinenFeather949> no le hagas caso luca
-[21:28:27] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tell LienenFeather949 si
-[21:28:30] [Async Chat Thread - #5/INFO]: <Luca_537XD> ahorita me mata
-[21:28:30] [Async Chat Thread - #5/INFO]: <LinenFeather949> nosotros mejoraremos poco a poco
-[21:28:32] [Async Chat Thread - #5/INFO]: <Luca_537XD> xdd
-[21:28:38] [Async Chat Thread - #5/INFO]: <rexer> q?
-[21:28:42] [Async Chat Thread - #5/INFO]: <rexer> vamos rapidin
-[21:28:44] [Server thread/INFO]: Luca_537XD issued server command: /tpa LinenFeather949
-[21:28:47] [Async Chat Thread - #5/INFO]: <rexer> oe adiel haste tp
-[21:28:52] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
-[21:28:58] [Async Chat Thread - #5/INFO]: <Luca_537XD> aaaaa
-[21:28:59] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
-[21:29:02] [Async Chat Thread - #5/INFO]: <LinenFeather949> manda luca
-[21:29:03] [Async Chat Thread - #5/INFO]: <Luca_537XD> no dayron
-[21:29:09] [Async Chat Thread - #5/INFO]: <rexer> q paso
-[21:29:10] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpa LinenFeather949
-[21:29:12] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
-[21:29:14] [Async Chat Thread - #5/INFO]: <Luca_537XD> no me hagas daño
-[21:29:17] [Async Chat Thread - #5/INFO]: <rexer> xd?
-[21:29:21] [Async Chat Thread - #5/INFO]: <rexer> pera
-[21:29:24] [Async Chat Thread - #5/INFO]: <rexer> esto reviso las coord
-[21:29:26] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpa LinenFeather949
-[21:29:27] [Server thread/INFO]: LinenFeather949 issued server command: /tpaccept
-[21:29:32] [Craft Scheduler Thread - 159/INFO]: LinenFeather949
-[21:29:32] [Craft Scheduler Thread - 160/INFO]: LinenFeather949
-[21:29:37] [Async Chat Thread - #5/INFO]: <Luca_537XD> era la 2da no
-[21:29:43] [Async Chat Thread - #5/INFO]: <rexer> si p
-[21:29:53] [Async Chat Thread - #5/INFO]: <rexer> la principal la tengo con adiel cuidando
-[21:30:02] [Server thread/INFO]: Luca_537XD issued server command: /tpa rexer
-[21:30:13] [Async Chat Thread - #5/INFO]: <Luca_537XD> ya p causa yo quiero estar con adiel
-[21:30:28] [Async Chat Thread - #5/INFO]: <rexer> el se va a mudar hay XD
-[21:30:29] [Async Chat Thread - #5/INFO]: <rexer> ven
-[21:30:32] [Server thread/INFO]: rexer issued server command: /tpaccept
-[21:30:37] [Async Chat Thread - #5/INFO]: <rexer> envia tp denuevo
-[21:30:37] [Async Chat Thread - #5/INFO]: <LinenFeather949> no luca
-[21:30:46] [Async Chat Thread - #5/INFO]: <Luca_537XD> ya p causa yo quiero estar con adiel
-[21:30:47] [Async Chat Thread - #5/INFO]: <LinenFeather949> ven con nosotros
-[21:30:49] [Server thread/INFO]: Luca_537XD issued server command: /tpa rexer
-[21:30:59] [Server thread/INFO]: rexer issued server command: /tpaccept
-[21:31:04] [Async Chat Thread - #5/INFO]: <Luca_537XD> estas con adiel
-[21:31:04] [Craft Scheduler Thread - 166/INFO]: rexer
-[21:31:04] [Craft Scheduler Thread - 167/INFO]: rexer
-[21:31:07] [Async Chat Thread - #5/INFO]: <Luca_537XD> ?
-[21:31:07] [Async Chat Thread - #5/INFO]: <LinenFeather949> si pes
-[21:31:13] [Async Chat Thread - #5/INFO]: <rexer> xd?
-[21:31:14] [Async Chat Thread - #5/INFO]: <rexer> adiel
-[21:31:16] [Async Chat Thread - #5/INFO]: <rexer> traicionas?
-[21:31:28] [Server thread/INFO]: johanprodox lost connection: Disconnected
-[21:31:28] [Server thread/INFO]: [voicechat] Disconnecting client johanprodox
-[21:31:28] [Server thread/INFO]: johanprodox left the game
-[21:31:35] [Async Chat Thread - #5/INFO]: <Luca_537XD> usen xray rapido
-[21:31:36] [Async Chat Thread - #5/INFO]: <LinenFeather949> manda
-[21:31:39] [Server thread/INFO]: Banned johanprodox: Banned by an operator.
-[21:31:41] [Async Chat Thread - #5/INFO]: <nicolas500701> ete om
-[21:31:45] [Async Chat Thread - #5/INFO]: <rexer> bro
-[21:31:51] [Async Chat Thread - #5/INFO]: <LinenFeather949> XD
-[21:31:52] [Async Chat Thread - #5/INFO]: <rexer> luca el x ray ya lo banio johan Xd
-[21:31:52] [Async Chat Thread - #5/INFO]: <Luca_537XD> mentira
-[21:31:55] [Async Chat Thread - #5/INFO]: <LinenFeather949> manda
-[21:32:01] [Async Chat Thread - #5/INFO]: <LinenFeather949> como q lo bloqueo
-[21:32:05] [Async Chat Thread - #5/INFO]: <LinenFeather949> si lo acabo de usar
-[21:32:06] [Async Chat Thread - #5/INFO]: <Luca_537XD> mas falso
-[21:32:07] [Async Chat Thread - #5/INFO]: <rexer> si asi dijo
-[21:32:20] [Async Chat Thread - #5/INFO]: <Luca_537XD> yo lo use
-[21:32:23] [Async Chat Thread - #5/INFO]: <LinenFeather949> XD
-[21:32:42] [Server thread/INFO]: You whisper to Luca_537XD:  luca te estoy viendo el chat desde el server
-[21:32:46] [Async Chat Thread - #5/INFO]: <rexer> como que eso se lo voy a enviarl al grupo p
-[21:32:47] [Async Chat Thread - #5/INFO]: <Luca_537XD> si p
-[21:32:50] [Async Chat Thread - #5/INFO]: <rexer> esto envia tp
-[21:32:59] [Async Chat Thread - #5/INFO]: <Luca_537XD> el server me observa
-[21:33:02] [Async Chat Thread - #5/INFO]: <Luca_537XD> }
-[21:33:11] [Async Chat Thread - #5/INFO]: <LinenFeather949> XD
-[21:33:16] [Server thread/INFO]: Stincvx has made the advancement [Stone Age]
-[21:33:38] [Server thread/INFO]: rexer issued server command: /tpa Luca_537XD
-[21:33:40] [Server thread/INFO]: Luca_537XD issued server command: /tpaccept
-[21:33:40] [Server thread/INFO]: Luca_537XD issued server command: /tpaccept
-[21:33:42] [Server thread/INFO]: rexer issued server command: /tpa Luca_537XD
-[21:33:45] [Server thread/INFO]: Luca_537XD issued server command: /tpaccept
-[21:33:50] [Craft Scheduler Thread - 173/INFO]: Luca_537XD
-[21:33:50] [Craft Scheduler Thread - 172/INFO]: Luca_537XD
-[21:33:51] [Server thread/INFO]: Stincvx has made the advancement [Getting an Upgrade]
-[21:34:02] [Async Chat Thread - #5/INFO]: <Elpanamiguel_777> aque hacer nueva base
-[21:34:06] [Async Chat Thread - #5/INFO]: <Luca_537XD> si
-[21:34:07] [Async Chat Thread - #5/INFO]: <LinenFeather949> nose bro
-[21:34:08] [Async Chat Thread - #5/INFO]: <Luca_537XD> manda tp
-[21:34:08] [Server thread/INFO]: nicolas500701 has made the advancement [Stone Age]
-[21:34:15] [Async Chat Thread - #5/INFO]: <LinenFeather949> hacer basess aqui ya no vale
-[21:34:15] [Server thread/INFO]: Luca_537XD issued server command: /
-[21:34:19] [Async Chat Thread - #5/INFO]: <LinenFeather949> luca manda tp
-[21:34:25] [Async Chat Thread - #5/INFO]: <rexer> aca esta
-[21:34:29] [Async Chat Thread - #5/INFO]: <rexer> oe
-[21:34:35] [Async Chat Thread - #5/INFO]: <rexer> adiel
-[21:34:35] [Server thread/INFO]: Luca_537XD issued server command: /msg LinenFeather949 mandame tu estoy en la bae de dayron
-[21:34:37] [Async Chat Thread - #5/INFO]: <rexer> envia tp
-[21:34:41] [Server thread/INFO]: nicolas500701 has made the advancement [Getting an Upgrade]
-[21:34:42] [Async Chat Thread - #5/INFO]: <rexer> aca esta la base 2
-[21:34:49] [Server thread/INFO]: rexer has made the advancement [Ol' Betsy]
-[21:34:49] [Server thread/INFO]: rexer has made the advancement [Take Aim]
-[21:34:52] [Async Chat Thread - #5/INFO]: <Luca_537XD> cual
-[21:34:52] [Server thread/INFO]: LinenFeather949 issued server command: /tell Luca_537XD para matarlo?
-[21:34:56] [Async Chat Thread - #5/INFO]: <Luca_537XD> se
-[21:34:56] [Async Chat Thread - #5/INFO]: <rexer> esta dentr
-[21:34:59] [Async Chat Thread - #5/INFO]: <LinenFeather949> ok
-[21:35:01] [Async Chat Thread - #5/INFO]: <LinenFeather949> dame un toque
-[21:35:08] [Async Chat Thread - #5/INFO]: <rexer> epa luca?
-[21:35:11] [Async Chat Thread - #5/INFO]: <Luca_537XD> no la veo
-[21:35:13] [Async Chat Thread - #5/INFO]: <LinenFeather949> adiel hay q conseguir carbon
-[21:35:17] [Async Chat Thread - #5/INFO]: <Elpanamiguel_777> okokok
-[21:35:35] [Async Chat Thread - #5/INFO]: <rexer> q w
-[21:35:36] [Async Chat Thread - #5/INFO]: <rexer> pera
-[21:35:56] [Server thread/INFO]: nicolas500701 has made the advancement [Monster Hunter]
-[21:36:07] [Async Chat Thread - #5/INFO]: <Luca_537XD> aaa
-[21:36:11] [Async Chat Thread - #5/INFO]: <Luca_537XD> ayuda
-[21:36:15] [Async Chat Thread - #5/INFO]: <rexer> q fue
-[21:36:16] [Async Chat Thread - #5/INFO]: <Luca_537XD> medio cora
-[21:36:19] [Async Chat Thread - #5/INFO]: <rexer> xd
-[21:36:20] [Async Chat Thread - #5/INFO]: <rexer> ten
-[21:36:38] [Async Chat Thread - #5/INFO]: <LinenFeather949> ayuda a picar
-[21:36:49] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[21:36:55] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[21:37:02] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[21:37:09] [Async Chat Thread - #5/INFO]: <LinenFeather949> pon otro horno
-[21:37:18] [Server thread/INFO]: Startup script './start.sh' does not exist! Stopping server.
-[21:37:18] [Server thread/INFO]: LinenFeather949 lost connection: Server is restarting
-[21:37:18] [Server thread/INFO]: [voicechat] Disconnecting client LinenFeather949
-[21:37:18] [Server thread/INFO]: LinenFeather949 left the game
-[21:37:18] [Server thread/INFO]: rexer lost connection: Server is restarting
-[21:37:18] [Server thread/INFO]: [voicechat] Disconnecting client rexer
-[21:37:18] [Server thread/INFO]: rexer left the game
-[21:37:18] [Server thread/INFO]: AngelMatias lost connection: Server is restarting
-[21:37:18] [Server thread/INFO]: [voicechat] Disconnecting client AngelMatias
-[21:37:18] [Server thread/INFO]: AngelMatias left the game
-[21:37:18] [Server thread/INFO]: nicolas500701 lost connection: Server is restarting
-[21:37:18] [Server thread/INFO]: [voicechat] Disconnecting client nicolas500701
-[21:37:18] [Server thread/INFO]: nicolas500701 left the game
-[21:37:18] [Server thread/INFO]: Elpanamiguel_777 lost connection: Server is restarting
-[21:37:18] [Server thread/INFO]: [voicechat] Disconnecting client Elpanamiguel_777
-[21:37:18] [Server thread/INFO]: Elpanamiguel_777 left the game
-[21:37:18] [Server thread/INFO]: GaccGamer lost connection: Server is restarting
-[21:37:18] [Server thread/INFO]: [voicechat] Disconnecting client GaccGamer
-[21:37:18] [Server thread/INFO]: GaccGamer left the game
-[21:37:18] [Server thread/INFO]: Luca_537XD lost connection: Server is restarting
-[21:37:18] [Server thread/INFO]: [voicechat] Disconnecting client Luca_537XD
-[21:37:18] [Server thread/INFO]: Luca_537XD left the game
-[21:37:18] [Server thread/INFO]: Stincvx lost connection: Server is restarting
-[21:37:18] [Server thread/INFO]: [voicechat] Disconnecting client Stincvx
-[21:37:18] [Server thread/INFO]: Stincvx left the game
-[21:37:18] [Server thread/INFO]: Stopping server
-[21:37:18] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
-[21:37:18] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[21:37:18] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[21:37:18] [Server thread/INFO]: [TPA] Disabling TPA v3.2.3
-[21:37:18] [Server thread/INFO]: [TPA] 插件已成功卸载！
-[21:37:18] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
-[21:37:18] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.29
-[21:37:18] [Server thread/INFO]: Saving players
-[21:37:18] [Server thread/INFO]: Saving worlds
-[21:37:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:37:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:37:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[21:37:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:37:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:37:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:37:21] [Server thread/INFO]: Flushing Chunk IO
-[21:37:21] [Server thread/INFO]: Closing Thread Pool
-[21:37:21] [Server thread/INFO]: Closing Server
+[22:36:51] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:36:51] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[22:36:52] [Worker-Main-2/INFO]: Loaded 7 recipes
+[22:36:53] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[22:36:53] [Server thread/INFO]: Loading properties
+[22:36:53] [Server thread/INFO]: This server is running Paper version git-Paper-416 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[22:36:53] [Server thread/INFO]: Debug logging is disabled
+[22:36:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:36:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:36:53] [Server thread/INFO]: Default game type: SURVIVAL
+[22:36:53] [Server thread/INFO]: Generating keypair
+[22:36:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:36:53] [Server thread/INFO]: Using epoll channel type
+[22:36:54] [Server thread/INFO]: [voicechat] Loading voicechat v2.5.29
+[22:36:54] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
+[22:36:54] [Server thread/INFO]: [TPA] Loading TPA v3.2.3
+[22:36:54] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
+[22:36:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:36:54] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[22:36:54] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[22:36:55] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.4[32;1m.[0;39m
+[22:36:55] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[22:36:55] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[22:36:55] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[22:36:55] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[22:36:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:36:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:36:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:36:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:36:55] [Server thread/INFO]: Preparing level "world"
+[22:36:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:36:56] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[22:36:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:36:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:36:56] [Server thread/INFO]: Time elapsed: 614 ms
+[22:36:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:36:56] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[22:36:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:36:56] [Server thread/INFO]: Time elapsed: 240 ms
+[22:36:56] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.29
+[22:36:56] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.16.4-R0.1
+[22:36:56] [Server thread/INFO]: [voicechat] Compatibility version 18
+[22:36:57] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[22:36:57] [Server thread/INFO]: [TPA] Enabling TPA v3.2.3
+[22:36:57] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[22:36:57] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[22:36:57] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[22:36:57] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[22:36:57] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[22:36:57] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[22:36:57] [Server thread/INFO]: Running delayed init tasks
+[22:36:57] [Server thread/INFO]: [voicechat] Loading plugins
+[22:36:57] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[22:36:57] [Server thread/INFO]: [voicechat] Initializing plugins
+[22:36:57] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[22:36:57] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[22:36:57] [Server thread/INFO]: Done (4.140s)! For help, type "help"
+[22:36:57] [Server thread/INFO]: Timings Reset
+[22:36:57] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[22:36:57] [Craft Scheduler Thread - 1/INFO]: [TPA] 插件已成功加载！当前版本为：3.2.3
+[22:36:57] [Craft Scheduler Thread - 1/INFO]: [TPA] 正在检查更新...
+[22:36:58] [Craft Scheduler Thread - 1/INFO]: [TPA] 当前已是最新版本
+[22:36:58] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[22:36:58] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[22:36:58] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[22:36:58] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[22:36:58] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[22:36:58] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[22:36:58] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[22:36:58] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
+[22:36:58] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
+[22:36:58] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[22:36:58] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[22:36:58] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[22:36:58] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[22:37:02] [User Authenticator #1/INFO]: UUID of player Nicolandix is b24396a8-f6c0-3596-96eb-df72fd73099e
+[22:37:02] [Server thread/INFO]: Nicolandix joined the game
+[22:37:02] [Server thread/INFO]: Nicolandix[/127.251.51.31:33335] logged in with entity id 388 at ([world]102.5, 63.0, -211.5)
+[22:37:03] [User Authenticator #2/INFO]: UUID of player nicolas500701 is 073090fe-dafc-312f-ac6b-199c29f0d708
+[22:37:03] [Server thread/INFO]: nicolas500701 joined the game
+[22:37:03] [Server thread/INFO]: nicolas500701[/127.20.84.239:50583] logged in with entity id 389 at ([world]151.90225221280423, 64.0, -494.435054998632)
+[22:37:04] [User Authenticator #2/INFO]: UUID of player Elpanamiguel_777 is 356f2a13-dbc2-334c-afa3-d724557be09d
+[22:37:04] [Server thread/INFO]: Elpanamiguel_777 joined the game
+[22:37:04] [Server thread/INFO]: Elpanamiguel_777[/127.88.243.213:54003] logged in with entity id 631 at ([world]-1122.4520553111647, 68.0, -2195.9809479471196)
+[22:37:06] [User Authenticator #2/INFO]: UUID of player alejandro123532 is c0bc5b95-f1af-33b5-961b-448e32da83a3
+[22:37:06] [Server thread/INFO]: alejandro123532 joined the game
+[22:37:06] [Server thread/INFO]: alejandro123532[/127.184.55.218:60703] logged in with entity id 715 at ([world]139.56376297966142, 64.7531999805212, -481.9305120677781)
+[22:37:07] [User Authenticator #2/INFO]: UUID of player Kiwing is 80e8e31c-31e1-3003-a2ee-ff97818bee8b
+[22:37:08] [Server thread/INFO]: Kiwing joined the game
+[22:37:08] [Server thread/INFO]: Kiwing[/127.210.68.95:45791] logged in with entity id 749 at ([world_nether]256.87759013946845, 38.0, 533.8666603065944)
+[22:37:18] [User Authenticator #2/INFO]: UUID of player Luca_537XD is 9f52a659-9fe0-3cd4-a415-41b0e379092d
+[22:37:18] [Server thread/INFO]: Luca_537XD joined the game
+[22:37:18] [Server thread/INFO]: Luca_537XD[/127.14.158.73:52513] logged in with entity id 993 at ([world_nether]-148.9261868934839, 69.0, -260.2185833210319)
+[22:37:33] [Server thread/INFO]: Luca_537XD lost connection: Disconnected
+[22:37:33] [Server thread/INFO]: [voicechat] Disconnecting client Luca_537XD
+[22:37:33] [Server thread/INFO]: Luca_537XD left the game
+[22:37:41] [Server thread/INFO]: alejandro123532 issued server command: /tpa nicolas500701
+[22:37:53] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[22:37:58] [Craft Scheduler Thread - 19/INFO]: nicolas500701
+[22:37:58] [Craft Scheduler Thread - 21/INFO]: nicolas500701
+[22:38:11] [Server thread/INFO]: Nicolandix was shot by Skeleton
+[22:38:42] [User Authenticator #3/INFO]: UUID of player Luca_537XD is 9f52a659-9fe0-3cd4-a415-41b0e379092d
+[22:38:42] [Server thread/INFO]: Luca_537XD joined the game
+[22:38:42] [Server thread/INFO]: Luca_537XD[/127.14.158.73:56991] logged in with entity id 2705 at ([world_nether]-148.9261868934839, 69.0, -260.2185833210319)
+[22:39:08] [Server thread/INFO]: Kiwing lost connection: Login timed out!
+[22:39:08] [Server thread/INFO]: [voicechat] Disconnecting client Kiwing
+[22:39:08] [Server thread/INFO]: Kiwing left the game
+[22:39:11] [User Authenticator #3/INFO]: UUID of player Kiwing is 80e8e31c-31e1-3003-a2ee-ff97818bee8b
+[22:39:11] [Server thread/INFO]: Kiwing joined the game
+[22:39:11] [Server thread/INFO]: Kiwing[/127.210.68.95:48155] logged in with entity id 3180 at ([world_nether]256.89317679055443, 38.0, 533.9634128631438)
+[22:39:38] [User Authenticator #3/INFO]: UUID of player AngelMatias is 956fbac0-9aab-3a25-b029-d787586e7b02
+[22:39:38] [Server thread/INFO]: AngelMatias joined the game
+[22:39:38] [Server thread/INFO]: AngelMatias[/127.218.61.44:39149] logged in with entity id 3775 at ([world]-6928.180334313642, 68.17675927506424, -5294.745596295097)
+[22:39:53] [Server thread/INFO]: Nicolandix has made the advancement [Stone Age]
+[22:40:23] [Server thread/INFO]: Nicolandix has made the advancement [Getting an Upgrade]
+[22:41:06] [Async Chat Thread - #0/INFO]: <Elpanamiguel_777> aaaaaaaaaaaaaaaaaaa
+[22:41:08] [Async Chat Thread - #0/INFO]: <AngelMatias> nicolas, Nicolandix es tu otra cuenta?
+[22:41:14] [Async Chat Thread - #0/INFO]: <Nicolandix> no mano
+[22:41:20] [Async Chat Thread - #0/INFO]: <Nicolandix> soy nicolas
+[22:41:23] [Async Chat Thread - #0/INFO]: <Nicolandix> el prime
+[22:41:26] [Async Chat Thread - #0/INFO]: <nicolas500701> cual manin
+[22:41:27] [Async Chat Thread - #0/INFO]: <Luca_537XD> bastion
+[22:41:32] [Async Chat Thread - #0/INFO]: <nicolas500701> apellido :V
+[22:41:34] [Server thread/INFO]: Luca_537XD has made the advancement [Those Were the Days]
+[22:41:36] [Async Chat Thread - #0/INFO]: <AngelMatias> nicolas no entendi
+[22:41:39] [Async Chat Thread - #0/INFO]: <Nicolandix> rojas p
+[22:41:42] [Async Chat Thread - #0/INFO]: <Nicolandix> quien mas
+[22:41:43] [Async Chat Thread - #0/INFO]: <nicolas500701> a tonoto
+[22:41:47] [Async Chat Thread - #0/INFO]: <nicolas500701> XD
+[22:41:49] [Async Chat Thread - #0/INFO]: <AngelMatias> XDDD
+[22:41:55] [Async Chat Thread - #0/INFO]: <Nicolandix> oe quien es angel matias
+[22:42:02] [Async Chat Thread - #0/INFO]: <AngelMatias> el de entusiasmo
+[22:42:06] [Async Chat Thread - #0/INFO]: <Elpanamiguel_777> a
+[22:42:08] [Async Chat Thread - #0/INFO]: <AngelMatias> tu estas en perseverancia?
+[22:42:10] [Async Chat Thread - #0/INFO]: <Nicolandix> a?
+[22:42:22] [Server thread/INFO]: Luca_537XD was slain by Piglin Brute
+[22:42:30] [Async Chat Thread - #0/INFO]: <Elpanamiguel_777> xddd
+[22:42:30] [Async Chat Thread - #0/INFO]: <Luca_537XD> aaaaaaa
+[22:42:32] [Async Chat Thread - #0/INFO]: <AngelMatias> creo que ese no es el nombre de tu salon, bueno da igual
+[22:42:34] [Async Chat Thread - #0/INFO]: <Luca_537XD> pana miguelk
+[22:42:36] [Async Chat Thread - #0/INFO]: <Elpanamiguel_777> ven luca
+[22:42:37] [Async Chat Thread - #0/INFO]: <Luca_537XD> ve al portal
+[22:42:42] [Async Chat Thread - #0/INFO]: <Elpanamiguel_777> no pe
+[22:42:49] [Server thread/INFO]: Luca_537XD issued server command: /tpa Elpanamiguel_777
+[22:42:51] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpaccept
+[22:42:56] [Craft Scheduler Thread - 32/INFO]: Elpanamiguel_777
+[22:42:56] [Craft Scheduler Thread - 33/INFO]: Elpanamiguel_777
+[22:43:21] [Async Chat Thread - #0/INFO]: <Elpanamiguel_777> equipate y vamos
+[22:46:09] [Server thread/WARN]: Boat (vehicle of nicolas500701) moved wrongly! 0.32765095931791804
+[22:46:56] [Server thread/INFO]: Luca_537XD was slain by Piglin Brute
+[22:47:00] [Server thread/INFO]: Luca_537XD issued server command: /tpa Elpanamiguel_777
+[22:47:05] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpaccept
+[22:47:10] [Craft Scheduler Thread - 38/INFO]: Elpanamiguel_777
+[22:47:10] [Craft Scheduler Thread - 39/INFO]: Elpanamiguel_777
+[22:47:36] [User Authenticator #4/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
+[22:47:36] [Server thread/INFO]: GaccGamer joined the game
+[22:47:36] [Server thread/INFO]: GaccGamer[/127.125.12.20:57149] logged in with entity id 12304 at ([world]-226.06317046399113, 64.0, 4900.157214302537)
+[22:47:43] [Async Chat Thread - #1/INFO]: <Nicolandix> q
+[22:47:44] [Async Chat Thread - #1/INFO]: <Nicolandix> q
+[22:47:46] [Async Chat Thread - #1/INFO]: <GaccGamer> qqqqqqqqq
+[22:48:29] [Server thread/WARN]: Elpanamiguel_777 moved wrongly!
+[22:48:42] [Server thread/INFO]: Luca_537XD was slain by Piglin
+[22:48:45] [Async Chat Thread - #1/INFO]: <Luca_537XD> ve al portal
+[22:48:51] [Server thread/INFO]: Luca_537XD issued server command: /tpa Elpanamiguel_777
+[22:48:54] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpaccept
+[22:48:59] [Craft Scheduler Thread - 45/INFO]: Elpanamiguel_777
+[22:48:59] [Craft Scheduler Thread - 46/INFO]: Elpanamiguel_777
+[22:49:01] [Server thread/INFO]: Kiwing issued server command: /tpa AngelMatias
+[22:49:06] [Server thread/INFO]: AngelMatias issued server command: /tpaccept
+[22:49:11] [Craft Scheduler Thread - 44/INFO]: AngelMatias
+[22:49:11] [Craft Scheduler Thread - 46/INFO]: AngelMatias
+[22:49:31] [Server thread/INFO]: Elpanamiguel_777 has made the advancement [Those Were the Days]
+[22:49:37] [Server thread/INFO]: Luca_537XD has made the advancement [War Pigs]
+[22:49:54] [Server thread/INFO]: Elpanamiguel_777 was slain by Piglin Brute
+[22:50:15] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpa Luca_537XD
+[22:50:17] [Server thread/INFO]: Luca_537XD issued server command: /tpaccept
+[22:50:18] [Server thread/INFO]: Luca_537XD issued server command: /tpaccept
+[22:50:22] [Craft Scheduler Thread - 52/INFO]: Luca_537XD
+[22:50:22] [Craft Scheduler Thread - 51/INFO]: Luca_537XD
+[22:50:33] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.5865248645886822
+[22:50:33] [Server thread/INFO]: Nicolandix has made the advancement [Ice Bucket Challenge]
+[22:50:34] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.186291068574974
+[22:50:34] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.7907882287199755
+[22:50:34] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.4426942462659132
+[22:50:34] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.099910596169019
+[22:50:34] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.7518893507683906
+[22:50:34] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.404997714648488
+[22:50:38] [Server thread/INFO]: Elpanamiguel_777 was slain by Piglin
+[22:50:51] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpa Luca_537XD
+[22:51:01] [Server thread/INFO]: Elpanamiguel_777 issued server command: /tpa Luca_537XD
+[22:51:03] [Server thread/INFO]: Luca_537XD issued server command: /tpaccept
+[22:51:08] [Craft Scheduler Thread - 55/INFO]: Luca_537XD
+[22:51:08] [Craft Scheduler Thread - 54/INFO]: Luca_537XD
+[22:51:29] [Async Chat Thread - #2/INFO]: <Elpanamiguel_777> mis cosas
+[22:52:34] [Server thread/INFO]: alejandro123532 issued server command: /tpa nicolas500701
+[22:52:37] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[22:52:38] [Async Chat Thread - #3/INFO]: <nicolas500701> w
+[22:52:40] [User Authenticator #5/INFO]: UUID of player Stincvx is 533df107-108c-3415-9ea5-9a60749bba95
+[22:52:40] [Server thread/INFO]: Stincvx joined the game
+[22:52:40] [Server thread/INFO]: Stincvx[/127.108.28.65:59317] logged in with entity id 20818 at ([world]134.12430395546218, 61.0, -484.06287772031106)
+[22:52:41] [Server thread/INFO]: Luca_537XD has made the advancement [Hidden in the Depths]
+[22:52:42] [Craft Scheduler Thread - 59/INFO]: nicolas500701
+[22:52:42] [Craft Scheduler Thread - 61/INFO]: nicolas500701
+[22:52:45] [Server thread/INFO]: nicolas500701 has made the advancement [Sweet Dreams]
+[22:52:49] [Server thread/INFO]: GaccGamer issued server command: /homes
+[22:52:51] [Server thread/INFO]: GaccGamer issued server command: /home default
+[22:52:56] [Craft Scheduler Thread - 59/INFO]: default
+[22:52:56] [Craft Scheduler Thread - 61/INFO]: default
+[22:53:19] [Server thread/INFO]: Stincvx issued server command: /tpa
+[22:53:50] [Server thread/INFO]: Stincvx issued server command: /tpa nicolas500701
+[22:53:51] [Async Chat Thread - #4/INFO]: <alejandro123532> ./tpa
+[22:53:52] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[22:53:56] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[22:54:08] [Server thread/INFO]: AngelMatias has made the advancement [Take Aim]
+[22:54:20] [Server thread/INFO]: GaccGamer issued server command: /homes
+[22:54:22] [Server thread/INFO]: GaccGamer issued server command: /home default
+[22:54:27] [Craft Scheduler Thread - 69/INFO]: default
+[22:54:27] [Craft Scheduler Thread - 70/INFO]: default
+[22:54:28] [Server thread/INFO]: Stincvx issued server command: /tpa nicolas500701
+[22:54:29] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[22:54:33] [Server thread/INFO]: alejandro123532 issued server command: /tpa nicolas500701
+[22:54:35] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[22:54:40] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[22:54:40] [Craft Scheduler Thread - 69/INFO]: nicolas500701
+[22:54:40] [Craft Scheduler Thread - 70/INFO]: nicolas500701
+[22:54:44] [Server thread/INFO]: Kiwing issued server command: /tpa GaccGamer
+[22:55:01] [Server thread/INFO]: GaccGamer issued server command: /tpaccept
+[22:55:05] [Server thread/INFO]: Stincvx issued server command: /tpa nicolas500701
+[22:55:05] [Craft Scheduler Thread - 72/INFO]: GaccGamer
+[22:55:06] [Craft Scheduler Thread - 71/INFO]: GaccGamer
+[22:55:07] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[22:55:18] [Server thread/INFO]: Stincvx issued server command: /tpa nicolas500701
+[22:55:21] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[22:55:23] [Server thread/WARN]: alejandro123532 moved wrongly!
+[22:55:26] [Craft Scheduler Thread - 73/INFO]: nicolas500701
+[22:55:26] [Craft Scheduler Thread - 74/INFO]: nicolas500701
+[22:55:33] [Server thread/INFO]: GaccGamer issued server command: /homes
+[22:55:35] [Server thread/INFO]: GaccGamer issued server command: /home default
+[22:55:40] [Craft Scheduler Thread - 75/INFO]: default
+[22:55:40] [Craft Scheduler Thread - 73/INFO]: default
+[22:55:49] [Server thread/INFO]: Kiwing issued server command: /tpa GaccGamer
+[22:55:51] [Server thread/INFO]: GaccGamer issued server command: /tpaccept
+[22:55:56] [Craft Scheduler Thread - 75/INFO]: GaccGamer
+[22:55:56] [Craft Scheduler Thread - 76/INFO]: GaccGamer
+[22:56:35] [Server thread/INFO]: Elpanamiguel_777 has made the advancement [War Pigs]

@@ -3,18 +3,18 @@ language: es_ES
 setlang: false
 last_location:
   world: world
-  x: -2320.410377930663
-  y: 77.0
-  z: 2594.286532983719
-  pitch: 16.299381
-  yaw: -263.1714
+  x: -2915.1574820410533
+  y: 70.0
+  z: 1969.564893665608
+  pitch: 19.082436
+  yaw: -227.83453
 logout_location:
   world: world
-  x: -2144.961940493304
-  y: 80.41999998688698
-  z: 2614.806516430409
-  pitch: 51.09159
-  yaw: -98.57544
+  x: -3020.149844361227
+  y: 51.0
+  z: 2000.8527129554423
+  pitch: 34.612762
+  yaw: 180.61137
 homes:
   hogar:
     world: world
