@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-04-11 22:58:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-04-11 21:11:42 +0000"
@@ -337,6 +343,7 @@
       "mutton": "2025-04-11 21:32:32 +0000",
       "bread": "2025-04-11 21:36:34 +0000",
       "rotten_flesh": "2025-04-11 21:54:35 +0000",
+      "golden_carrot": "2025-04-11 22:59:04 +0000",
       "cooked_chicken": "2025-04-11 21:14:30 +0000"
     },
     "done": false
@@ -368,6 +375,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-04-11 21:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-04-11 22:58:23 +0000"
     },
     "done": true
   },
