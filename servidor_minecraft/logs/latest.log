@@ -347,3 +347,10 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency ProtocolLib. Pl
 [04:20:32] [Server thread/INFO]: rexer issued server command: /setdefaulthome
 [04:20:34] [Server thread/INFO]: rexer issued server command: /setdefaulthome hogar
 [04:20:41] [Server thread/INFO]: rexer issued server command: /sethome hogar
+[04:29:00] [Server thread/INFO]: There are 1 of a max of 20 players online: rexer
+[04:30:05] [Server thread/INFO]: rexer issued server command: /home
+[04:30:10] [Craft Scheduler Thread - 81/INFO]: hogar
+[04:30:10] [Craft Scheduler Thread - 82/INFO]: hogar
+[04:30:13] [Server thread/INFO]: rexer lost connection: Disconnected
+[04:30:13] [Server thread/INFO]: [voicechat] Disconnecting client rexer
+[04:30:13] [Server thread/INFO]: rexer left the game
