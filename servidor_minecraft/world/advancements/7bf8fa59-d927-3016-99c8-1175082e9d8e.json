@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2025-04-11 03:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 14:49:20 +0000"
@@ -421,6 +427,7 @@
       "rabbit": "2025-04-10 23:13:03 +0000",
       "mutton": "2025-04-10 14:40:28 +0000",
       "bread": "2025-04-10 21:29:46 +0000",
+      "golden_apple": "2025-04-11 04:04:02 +0000",
       "rotten_flesh": "2025-04-10 15:12:57 +0000",
       "melon_slice": "2025-04-10 18:52:35 +0000",
       "beetroot": "2025-04-11 02:58:34 +0000",
@@ -1267,6 +1274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-11 03:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-04-10 14:33:22 +0000"
@@ -1426,6 +1439,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-04-10 18:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-04-11 04:04:42 +0000"
     },
     "done": true
   },
@@ -2037,6 +2056,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-04-10 19:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-04-11 04:04:42 +0000"
     },
     "done": true
   },
