@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-12 01:51:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-04-11 21:33:16 +0000"
@@ -62,6 +68,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-04-11 22:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-04-12 01:51:35 +0000"
     },
     "done": true
   },
@@ -98,6 +110,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-11 21:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-12 01:51:35 +0000"
     },
     "done": true
   },
@@ -170,6 +188,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-04-11 21:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-04-12 01:51:35 +0000"
     },
     "done": true
   },
@@ -275,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-04-12 01:51:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-04-11 21:30:26 +0000"
@@ -307,6 +337,7 @@
       "cooked_beef": "2025-04-11 22:09:17 +0000",
       "apple": "2025-04-11 21:35:22 +0000",
       "mutton": "2025-04-11 21:36:20 +0000",
+      "bread": "2025-04-12 01:56:38 +0000",
       "rotten_flesh": "2025-04-11 21:53:18 +0000",
       "cooked_chicken": "2025-04-11 21:41:42 +0000"
     },
@@ -435,6 +466,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-04-11 22:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-12 01:51:35 +0000"
     },
     "done": true
   },
@@ -624,6 +661,7 @@
       "minecraft:forest": "2025-04-11 21:28:04 +0000",
       "minecraft:snowy_tundra": "2025-04-11 22:55:27 +0000",
       "minecraft:beach": "2025-04-11 21:35:58 +0000",
+      "minecraft:snowy_taiga": "2025-04-12 01:48:27 +0000",
       "minecraft:savanna": "2025-04-11 21:33:12 +0000",
       "minecraft:plains": "2025-04-11 21:11:30 +0000"
     },
@@ -644,6 +682,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-04-11 22:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-12 01:51:37 +0000"
     },
     "done": true
   },
@@ -821,6 +865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-04-12 01:51:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-04-11 22:11:26 +0000"
@@ -841,6 +891,18 @@
       "minecraft:zombie": "2025-04-11 21:44:06 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2025-04-12 01:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-12 01:50:17 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
@@ -866,6 +928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-12 01:51:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-04-11 21:35:35 +0000"
@@ -881,6 +949,18 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-04-11 21:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-12 01:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-12 01:57:02 +0000"
     },
     "done": true
   },
@@ -917,6 +997,12 @@
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-04-11 22:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-12 01:50:02 +0000"
     },
     "done": true
   },

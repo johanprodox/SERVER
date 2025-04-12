@@ -318,3 +318,78 @@ Reason: Banned by an operator.
 [01:47:19] [Async Chat Thread - #1/INFO]: <nicolas500701> todos somos malos XDDd
 [01:47:27] [Async Chat Thread - #1/INFO]: <johanprodox> osea no sea diego
 [01:47:32] [Async Chat Thread - #1/INFO]: <nicolas500701> XD
+[01:47:40] [Async Chat Thread - #1/INFO]: <Zackmo64> oe calla tu eres el unico malo nico
+[01:47:46] [Async Chat Thread - #1/INFO]: <nicolas500701> apoco si tilin
+[01:47:49] [Server thread/INFO]: johanprodox issued server command: /homes
+[01:47:51] [Server thread/INFO]: johanprodox issued server command: /home default
+[01:47:54] [Async Chat Thread - #1/INFO]: <Zackmo64> calla manco
+[01:47:56] [Craft Scheduler Thread - 85/INFO]: default
+[01:47:56] [Craft Scheduler Thread - 86/INFO]: default
+[01:47:57] [Async Chat Thread - #1/INFO]: <nicolas500701> XD
+[01:47:57] [User Authenticator #6/INFO]: UUID of player Stincvx is 533df107-108c-3415-9ea5-9a60749bba95
+[01:47:57] [Server thread/INFO]: Stincvx joined the game
+[01:47:57] [Server thread/INFO]: Stincvx[/127.108.28.65:60309] logged in with entity id 12317 at ([world]1761.9837488252847, 69.25220334025373, -248.41068634110522)
+[01:48:00] [Async Chat Thread - #1/INFO]: <nicolas500701> ya tonoto
+[01:48:05] [Async Chat Thread - #1/INFO]: <Zackmo64> ese quien es?
+[01:48:05] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii kiara XD, no hay arboles
+[01:48:09] [Async Chat Thread - #1/INFO]: <nicolas500701> tuvi
+[01:48:18] [Server thread/INFO]: nicolas500701 issued server command: /home casa 1
+[01:48:19] [Server thread/INFO]: Stincvx issued server command: /tpa alejandro123532
+[01:48:21] [Server thread/INFO]: alejandro123532 issued server command: /tpaccept
+[01:48:24] [Server thread/INFO]: nicolas500701 issued server command: /home casa
+[01:48:26] [Craft Scheduler Thread - 87/INFO]: alejandro123532
+[01:48:26] [Craft Scheduler Thread - 88/INFO]: alejandro123532
+[01:48:27] [Server thread/INFO]: nicolas500701 issued server command: /home
+[01:48:31] [Server thread/INFO]: nicolas500701 issued server command: /home casa
+[01:48:33] [Async Chat Thread - #1/INFO]: <AngelMatias> Stincvx, que nivel eres en minecraft?
+[01:48:46] [Server thread/INFO]: Stincvx issued server command: /10
+[01:48:48] [Async Chat Thread - #1/INFO]: <Stincvx> 10
+[01:48:51] [Server thread/INFO]: nicolas500701 issued server command: /sethome casa1
+[01:48:55] [Server thread/INFO]: nicolas500701 issued server command: /home casa1
+[01:49:05] [Server thread/INFO]: nicolas500701 issued server command: /set
+[01:49:08] [Server thread/INFO]: nicolas500701 issued server command: /sethome
+[01:49:30] [Server thread/INFO]: Zackmo64 was blown up by Creeper
+[01:49:36] [Async Chat Thread - #1/INFO]: <nicolas500701> XD
+[01:49:43] [Async Chat Thread - #1/INFO]: <johanprodox> asu
+[01:50:17] [Server thread/INFO]: Stincvx has made the advancement [Enchanter]
+[01:50:19] [User Authenticator #7/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
+[01:50:19] [Server thread/INFO]: GaccGamer joined the game
+[01:50:19] [Server thread/INFO]: GaccGamer[/127.125.12.20:42209] logged in with entity id 14880 at ([world]-223.26426765262752, 64.0, 4898.615399501841)
+[01:50:20] [Server thread/INFO]: alejandro123532 issued server command: /sethome b
+[01:50:27] [Server thread/INFO]: alejandro123532 issued server command: /home a
+[01:50:43] [Server thread/INFO]: alejandro123532 issued server command: /home a
+[01:50:48] [Craft Scheduler Thread - 94/INFO]: a
+[01:50:48] [Craft Scheduler Thread - 93/INFO]: a
+[01:51:36] [Server thread/INFO]: Zackmo64 lost connection: Disconnected
+[01:51:36] [Server thread/INFO]: [voicechat] Disconnecting client Zackmo64
+[01:51:36] [Server thread/INFO]: Zackmo64 left the game
+[01:52:25] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii kiara voa hacer la tarea
+[01:52:32] [Server thread/INFO]: alejandro123532 issued server command: /tpa nicolas500701
+[01:52:34] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[01:52:36] [Server thread/INFO]: johanprodox issued server command: /homes
+[01:52:38] [Server thread/INFO]: johanprodox issued server command: /home default
+[01:52:39] [Craft Scheduler Thread - 99/INFO]: nicolas500701
+[01:52:39] [Craft Scheduler Thread - 98/INFO]: nicolas500701
+[01:52:43] [Craft Scheduler Thread - 100/INFO]: default
+[01:52:43] [Craft Scheduler Thread - 98/INFO]: default
+[01:53:05] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox yayyaa
+[01:53:24] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii pa tu casco
+[01:54:25] [Server thread/INFO]: Villager EntityVillager['Fletcher'/1222, uuid='039968ad-3d6a-492a-bf8c-bad6fd143544', l='ServerLevel[world]', x=-229.24, y=64.00, z=4898.45, cx=-15, cz=306, tl=332204, v=true, d=false] died, message: 'Fletcher was blown up by Creeper'
+[01:55:13] [User Authenticator #8/INFO]: UUID of player Nicolandix is b24396a8-f6c0-3596-96eb-df72fd73099e
+[01:55:13] [Server thread/INFO]: Nicolandix joined the game
+[01:55:13] [Server thread/INFO]: Nicolandix[/127.251.51.31:51439] logged in with entity id 18526 at ([world]-109.67201914322325, 31.0, 1158.300000011921)
+[01:55:17] [Server thread/INFO]: AngelMatias issued server command: /sethome anos
+[01:55:23] [Server thread/INFO]: AngelMatias issued server command: /home anos
+[01:55:28] [Craft Scheduler Thread - 105/INFO]: anos
+[01:55:28] [Craft Scheduler Thread - 106/INFO]: anos
+[01:55:35] [Server thread/INFO]: AngelMatias issued server command: /delhome anos
+[01:55:46] [Server thread/INFO]: AngelMatias issued server command: /sethome anos
+[01:56:15] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii volvi
+[01:56:54] [Server thread/INFO]: Villager EntityVillager['Fletcher'/1219, uuid='974ac1ae-ee94-4dc7-8e34-152d69bdc6b1', l='ServerLevel[world]', x=-219.70, y=64.00, z=4894.30, cx=-14, cz=305, tl=335478, v=true, d=false] died, message: 'Fletcher was slain by Kiwing'
+[01:57:04] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii a q consegui más palos para reparacion p
+[01:57:18] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii esta 14 el libro
+[01:57:24] [Server thread/INFO]: Kiwing issued server command: /tpa alejandro123532
+[01:57:26] [Server thread/INFO]: alejandro123532 issued server command: /tpaccept
+[01:57:31] [Craft Scheduler Thread - 111/INFO]: alejandro123532
+[01:57:31] [Craft Scheduler Thread - 112/INFO]: alejandro123532
+[01:57:48] [Server thread/INFO]: AngelMatias has made the advancement [A Seedy Place]
