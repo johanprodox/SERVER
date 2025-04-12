@@ -10,11 +10,11 @@ logout_location:
   yaw: -94.67453
 last_location:
   world: world
-  x: -1295.7580225827853
-  y: 71.0
-  z: -1965.6767578125
-  pitch: 27.170572
-  yaw: 141.46947
+  x: -1168.300000011921
+  y: 18.79673560066869
+  z: -1955.300000011921
+  pitch: 66.89998
+  yaw: 316.26733
 homes:
   default:
     world: world

@@ -10,11 +10,11 @@ last_location:
   yaw: -256.68024
 logout_location:
   world: world
-  x: 1792.6426825575904
-  y: 68.0
-  z: -244.69620309429882
-  pitch: 37.06625
-  yaw: -68.99438
+  x: 1796.3002097129918
+  y: 57.0
+  z: -247.7201234539622
+  pitch: 4.692551
+  yaw: 43.753418
 homes:
   anos:
     world: world

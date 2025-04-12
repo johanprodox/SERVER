@@ -921,3 +921,77 @@ Caused by: java.lang.ClassNotFoundException: org.apache.commons.io.IOUtils
 [03:31:49] [Server thread/INFO]: rexer[/127.109.181.221:60431] logged in with entity id 43521 at ([world]1793.4742064847383, 57.0, -244.3291853145259)
 [03:32:25] [Async Chat Thread - #13/INFO]: <Stincvx> :v
 [03:32:29] [Async Chat Thread - #13/INFO]: <Stincvx> mis cosas desaparecieron causa
+[03:33:50] [Server thread/INFO]: rexer lost connection: Login timed out!
+[03:33:50] [Server thread/INFO]: [voicechat] Disconnecting client rexer
+[03:33:50] [Server thread/INFO]: rexer left the game
+[03:33:54] [User Authenticator #25/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
+[03:33:54] [Server thread/INFO]: rexer joined the game
+[03:33:54] [Server thread/INFO]: rexer[/127.109.181.221:39805] logged in with entity id 44366 at ([world]1793.300000011921, 57.0, -244.30000001192093)
+[03:33:55] [Server thread/INFO]: Stincvx has made the advancement [A Terrible Fortress]
+[03:33:56] [Server thread/INFO]: Stincvx tried to swim in lava
+[03:35:00] [Server thread/INFO]: GaccGamer lost connection: Disconnected
+[03:35:00] [Server thread/INFO]: [voicechat] Disconnecting client GaccGamer
+[03:35:00] [Server thread/INFO]: GaccGamer left the game
+[03:35:01] [Server thread/INFO]: AngelMatias lost connection: Disconnected
+[03:35:01] [Server thread/INFO]: [voicechat] Disconnecting client AngelMatias
+[03:35:01] [Server thread/INFO]: AngelMatias left the game
+[03:35:03] [User Authenticator #26/INFO]: UUID of player AngelMatias is 956fbac0-9aab-3a25-b029-d787586e7b02
+[03:35:03] [Server thread/INFO]: AngelMatias joined the game
+[03:35:03] [Server thread/INFO]: AngelMatias[/127.218.61.44:36463] logged in with entity id 44859 at ([world]1796.3002097129918, 57.0, -247.7201234539622)
+[03:35:04] [User Authenticator #26/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
+[03:35:04] [Server thread/INFO]: GaccGamer joined the game
+[03:35:04] [Server thread/INFO]: GaccGamer[/127.125.12.20:50289] logged in with entity id 44865 at ([world]1796.856724905232, 60.0, -244.68155472135925)
+[03:35:31] [Server thread/INFO]: Nicolandix has made the advancement [War Pigs]
+[03:35:50] [Server thread/INFO]: Stincvx has made the advancement [Oh Shiny]
+[03:35:55] [Server thread/INFO]: rexer lost connection: Login timed out!
+[03:35:55] [Server thread/INFO]: [voicechat] Disconnecting client rexer
+[03:35:55] [Server thread/INFO]: rexer left the game
+[03:36:35] [User Authenticator #27/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
+[03:36:35] [Server thread/INFO]: rexer joined the game
+[03:36:35] [Server thread/INFO]: rexer[/127.109.181.221:54951] logged in with entity id 45630 at ([world]1793.417491980478, 57.0, -244.37759513107557)
+[03:37:08] [Server thread/INFO]: Stincvx issued server command: /tpa nicolas500701
+[03:37:10] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[03:37:15] [Craft Scheduler Thread - 200/INFO]: nicolas500701
+[03:37:15] [Craft Scheduler Thread - 201/INFO]: nicolas500701
+[03:37:24] [Server thread/INFO]: Nicolandix has made the advancement [Hidden in the Depths]
+[03:37:36] [Server thread/INFO]: AngelMatias issued server command: /w GaccGamer dc
+[03:38:35] [Server thread/INFO]: rexer lost connection: Login timed out!
+[03:38:35] [Server thread/INFO]: [voicechat] Disconnecting client rexer
+[03:38:35] [Server thread/INFO]: rexer left the game
+[03:38:40] [User Authenticator #28/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
+[03:38:41] [Server thread/INFO]: rexer joined the game
+[03:38:41] [Server thread/INFO]: rexer[/127.109.181.221:59615] logged in with entity id 46292 at ([world]1793.3591962647747, 57.0, -244.69999998807907)
+[03:38:54] [Server thread/INFO]: Villager EntityVillager['Villager'/44880, uuid='0d8d33c1-57ec-4a91-a2ac-44539394f56b', l='ServerLevel[world]', x=1260.94, y=64.00, z=-1262.45, cx=78, cz=-79, tl=4255, v=true, d=false] died, message: 'Villager was slain by Stincvx'
+[03:38:55] [Server thread/INFO]: Stincvx was slain by nicolas500701
+[03:39:12] [Server thread/INFO]: Stincvx issued server command: /tpa nicolas30701
+[03:39:20] [Server thread/INFO]: Stincvx issued server command: /tpa nicolas500701
+[03:39:22] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[03:39:27] [Craft Scheduler Thread - 209/INFO]: nicolas500701
+[03:39:27] [Craft Scheduler Thread - 210/INFO]: nicolas500701
+[03:39:35] [Server thread/INFO]: Stincvx has made the advancement [Ice Bucket Challenge]
+[03:39:53] [Server thread/INFO]: Stincvx has made the advancement [Diamonds!]
+[03:40:14] [Async Chat Thread - #14/INFO]: <Stincvx> oye yohan
+[03:40:17] [Async Chat Thread - #14/INFO]: <johanprodox> q
+[03:40:19] [Async Chat Thread - #14/INFO]: <Stincvx> tienes 26 esmeraldas
+[03:40:21] [Async Chat Thread - #14/INFO]: <Stincvx> ?
+[03:40:23] [Async Chat Thread - #14/INFO]: <johanprodox> no
+[03:40:28] [Async Chat Thread - #14/INFO]: <Stincvx> y
+[03:40:29] [Server thread/INFO]: Stincvx issued server command: /ya
+[03:40:30] [Async Chat Thread - #14/INFO]: <Stincvx> ya
+[03:40:41] [Server thread/INFO]: rexer lost connection: Login timed out!
+[03:40:41] [Server thread/INFO]: [voicechat] Disconnecting client rexer
+[03:40:41] [Server thread/INFO]: rexer left the game
+[03:40:46] [Server thread/INFO]: Stincvx issued server command: /tpa GaccGamer
+[03:40:57] [User Authenticator #29/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
+[03:40:57] [Server thread/INFO]: rexer joined the game
+[03:40:57] [Server thread/INFO]: rexer[/127.109.181.221:46597] logged in with entity id 47059 at ([world]1793.4967201639804, 57.0, -244.69999998807907)
+[03:40:59] [Server thread/INFO]: GaccGamer issued server command: /tpaccept
+[03:41:04] [Craft Scheduler Thread - 217/INFO]: GaccGamer
+[03:41:04] [Craft Scheduler Thread - 216/INFO]: GaccGamer
+[03:42:01] [Server thread/WARN]: GaccGamer moved wrongly!
+[03:42:58] [Server thread/INFO]: rexer lost connection: Login timed out!
+[03:42:58] [Server thread/INFO]: [voicechat] Disconnecting client rexer
+[03:42:58] [Server thread/INFO]: rexer left the game
+[03:43:03] [User Authenticator #30/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
+[03:43:03] [Server thread/INFO]: rexer joined the game
+[03:43:03] [Server thread/INFO]: rexer[/127.109.181.221:40135] logged in with entity id 47935 at ([world]1793.3558288247098, 57.0, -244.64317169435648)
