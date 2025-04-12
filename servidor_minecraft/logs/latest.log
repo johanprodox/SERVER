@@ -1173,3 +1173,60 @@ Caused by: java.lang.ClassNotFoundException: org.apache.commons.io.IOUtils
 [04:11:56] [Server thread/INFO]: rexer issued server command: /home hogar
 [04:12:01] [Craft Scheduler Thread - 303/INFO]: hogar
 [04:12:01] [Craft Scheduler Thread - 304/INFO]: hogar
+[04:15:28] [Server thread/INFO]: Stincvx was slain by Enderman
+[04:15:29] [Server thread/INFO]: Attempt to teleport dead player Stincvx restricted
+[04:15:29] [Server thread/INFO]: Attempt to teleport dead player Stincvx restricted
+[04:15:43] [Server thread/INFO]: johanprodox issued server command: /homes
+[04:15:43] [Server thread/INFO]: Stincvx issued server command: /tpa nicolas500701
+[04:15:44] [Server thread/INFO]: johanprodox issued server command: /home default
+[04:15:45] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[04:15:49] [Craft Scheduler Thread - 309/INFO]: default
+[04:15:49] [Craft Scheduler Thread - 308/INFO]: default
+[04:15:50] [Server thread/INFO]: Stincvx issued server command: /tpa nicolas50701
+[04:15:56] [Server thread/INFO]: Stincvx issued server command: /tpa nicolas500701
+[04:16:00] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[04:16:05] [Craft Scheduler Thread - 309/INFO]: nicolas500701
+[04:16:05] [Craft Scheduler Thread - 309/INFO]: nicolas500701
+[04:16:38] [Server thread/INFO]: johanprodox lost connection: Disconnected
+[04:16:38] [Server thread/INFO]: [voicechat] Disconnecting client johanprodox
+[04:16:38] [Server thread/INFO]: johanprodox left the game
+[04:17:01] [Server thread/INFO]: nicolas500701 burned to death
+[04:17:07] [Server thread/INFO]: nicolas500701 issued server command: /tpa Stincvx
+[04:17:10] [Server thread/INFO]: Stincvx issued server command: /tpaccept
+[04:17:15] [Craft Scheduler Thread - 316/INFO]: Stincvx
+[04:17:15] [Craft Scheduler Thread - 317/INFO]: Stincvx
+[04:17:17] [Server thread/INFO]: Stincvx has made the advancement [Spooky Scary Skeleton]
+[04:18:05] [Server thread/INFO]: Villager EntityVillager['Nitwit'/58354, uuid='f3e25cea-9876-44a2-a307-b3b841f48cc3', l='ServerLevel[world]', x=-2773.70, y=71.00, z=2090.25, cx=-174, cz=130, tl=41936, v=true, d=false] died, message: 'Nitwit was slain by rexer'
+[04:18:48] [Server thread/WARN]: Boat (vehicle of Stincvx) moved wrongly! 1.565939091260098
+[04:18:49] [Server thread/WARN]: Boat (vehicle of Stincvx) moved wrongly! 0.445916974524323
+[04:20:38] [Server thread/INFO]: nicolas500701 has made the advancement [Who is Cutting Onions?]
+[04:31:57] [Server thread/INFO]: Stincvx issued server command: /tpa nicolas500701
+[04:31:59] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[04:32:00] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[04:32:04] [Craft Scheduler Thread - 323/INFO]: nicolas500701
+[04:32:04] [Craft Scheduler Thread - 324/INFO]: nicolas500701
+[04:34:25] [Async Chat Thread - #20/INFO]: <nicolas500701> oe dairon
+[04:34:29] [Async Chat Thread - #20/INFO]: <rexer> q mano
+[04:34:34] [Async Chat Thread - #20/INFO]: <nicolas500701> ya me voy
+[04:34:40] [Async Chat Thread - #20/INFO]: <nicolas500701> cuida de mi anayas p
+[04:34:40] [Async Chat Thread - #20/INFO]: <rexer> vas a pagar server?
+[04:34:41] [Async Chat Thread - #20/INFO]: <nicolas500701> Xd
+[04:34:44] [Async Chat Thread - #20/INFO]: <nicolas500701> no
+[04:34:45] [Async Chat Thread - #20/INFO]: <nicolas500701> XD
+[04:34:46] [Async Chat Thread - #20/INFO]: <rexer> a xd
+[04:34:46] [Async Chat Thread - #20/INFO]: <Stincvx> yo tmb me voy mano
+[04:34:52] [Async Chat Thread - #20/INFO]: <rexer> x2
+[04:35:01] [Async Chat Thread - #20/INFO]: <nicolas500701> weno papus amigos
+[04:35:07] [Async Chat Thread - #20/INFO]: <Stincvx> chaus p
+[04:35:07] [Async Chat Thread - #20/INFO]: <nicolas500701> tremendo speedrun q hice Xd
+[04:35:11] [Async Chat Thread - #20/INFO]: <rexer> xd
+[04:35:11] [Async Chat Thread - #20/INFO]: <Stincvx> xd
+[04:35:15] [Async Chat Thread - #20/INFO]: <nicolas500701> chaus causas cuidense
+[04:35:17] [Async Chat Thread - #20/INFO]: <nicolas500701> noches
+[04:35:17] [Async Chat Thread - #20/INFO]: <rexer> oe anaya nunca mas
+[04:35:20] [Async Chat Thread - #20/INFO]: <rexer> confie en ti
+[04:35:21] [Async Chat Thread - #20/INFO]: <nicolas500701> XD
+[04:35:23] [Async Chat Thread - #20/INFO]: <Stincvx> XDDD
+[04:35:24] [Server thread/INFO]: nicolas500701 lost connection: Disconnected
+[04:35:24] [Server thread/INFO]: [voicechat] Disconnecting client nicolas500701
+[04:35:24] [Server thread/INFO]: nicolas500701 left the game
