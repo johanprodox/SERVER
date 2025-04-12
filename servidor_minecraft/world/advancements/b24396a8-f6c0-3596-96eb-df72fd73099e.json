@@ -1211,6 +1211,7 @@
     "criteria": {
       "minecraft:snowy_mountains": "2025-04-11 22:53:36 +0000",
       "minecraft:forest": "2025-04-11 22:38:54 +0000",
+      "minecraft:mountains": "2025-04-12 02:26:10 +0000",
       "minecraft:snowy_tundra": "2025-04-11 22:53:21 +0000",
       "minecraft:frozen_river": "2025-04-11 22:53:19 +0000",
       "minecraft:snowy_beach": "2025-04-11 22:52:25 +0000",
@@ -1219,6 +1220,7 @@
       "minecraft:river": "2025-04-11 22:46:49 +0000",
       "minecraft:lukewarm_ocean": "2025-04-11 22:47:42 +0000",
       "minecraft:snowy_taiga": "2025-04-11 22:52:27 +0000",
+      "minecraft:wooded_hills": "2025-04-12 02:25:34 +0000",
       "minecraft:snowy_taiga_hills": "2025-04-11 22:52:55 +0000",
       "minecraft:plains": "2025-04-11 22:37:02 +0000"
     },
@@ -1254,15 +1256,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2025-04-12 02:10:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-04-12 02:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-12 02:10:09 +0000"
     },
     "done": true
   },
@@ -1344,15 +1346,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2025-04-12 01:58:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-04-12 01:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-12 01:58:49 +0000"
     },
     "done": true
   },

@@ -1,505 +1,404 @@
-[01:27:12] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[01:27:12] [Worker-Main-2/INFO]: Loaded 7 recipes
-[01:27:13] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[01:27:13] [Server thread/INFO]: Loading properties
-[01:27:14] [Server thread/INFO]: This server is running Paper version git-Paper-416 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
-[01:27:14] [Server thread/INFO]: Debug logging is disabled
-[01:27:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:27:14] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:27:14] [Server thread/INFO]: Default game type: SURVIVAL
-[01:27:14] [Server thread/INFO]: Generating keypair
-[01:27:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:27:14] [Server thread/INFO]: Using epoll channel type
-[01:27:14] [Server thread/INFO]: [voicechat] Loading voicechat v2.5.29
-[01:27:14] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
-[01:27:14] [Server thread/INFO]: [TPA] Loading TPA v3.2.3
-[01:27:14] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
-[01:27:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:27:14] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
-[01:27:15] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[01:27:15] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.4[32;1m.[0;39m
-[01:27:16] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
-[01:27:16] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
-[01:27:16] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
-[01:27:16] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
-[01:27:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:27:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:27:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:27:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:27:16] [Server thread/INFO]: Preparing level "world"
-[01:27:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:27:16] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[01:27:16] [Server thread/INFO]: Preparing spawn area: 0%
-[01:27:16] [Server thread/INFO]: Preparing spawn area: 0%
-[01:27:17] [Server thread/INFO]: Time elapsed: 778 ms
-[01:27:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:27:17] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[01:27:17] [Server thread/INFO]: Preparing spawn area: 0%
-[01:27:17] [Server thread/INFO]: Time elapsed: 232 ms
-[01:27:17] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.29
-[01:27:17] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.16.4-R0.1
-[01:27:17] [Server thread/INFO]: [voicechat] Compatibility version 18
-[01:27:17] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[01:27:17] [Server thread/INFO]: [TPA] Enabling TPA v3.2.3
-[01:27:17] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[01:27:17] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[01:27:17] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[01:27:18] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[01:27:18] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[01:27:18] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[01:27:18] [Server thread/INFO]: Running delayed init tasks
-[01:27:18] [Server thread/INFO]: [voicechat] Loading plugins
-[01:27:18] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[01:27:18] [Server thread/INFO]: [voicechat] Initializing plugins
-[01:27:18] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[01:27:18] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[01:27:18] [Server thread/INFO]: Done (4.758s)! For help, type "help"
-[01:27:18] [Server thread/INFO]: Timings Reset
-[01:27:18] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[01:27:19] [Craft Scheduler Thread - 0/INFO]: [TPA] 插件已成功加载！当前版本为：3.2.3
-[01:27:19] [Craft Scheduler Thread - 0/INFO]: [TPA] 正在检查更新...
-[01:27:20] [Craft Scheduler Thread - 0/INFO]: [TPA] 当前已是最新版本
-[01:27:20] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[01:27:20] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[01:27:20] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[01:27:20] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[01:27:20] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[01:27:20] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[01:27:20] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[01:27:20] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
-[01:27:20] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
-[01:27:20] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[01:27:20] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[01:27:20] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[01:27:20] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[01:27:21] [User Authenticator #1/INFO]: UUID of player Kiwing is 80e8e31c-31e1-3003-a2ee-ff97818bee8b
-[01:27:22] [Server thread/INFO]: Kiwing joined the game
-[01:27:22] [Server thread/INFO]: Kiwing[/127.210.68.95:46271] logged in with entity id 116 at ([world_nether]225.57460381949528, 36.25220334025373, 644.2461955232216)
-[01:27:28] [User Authenticator #1/INFO]: UUID of player Nicolandix is b24396a8-f6c0-3596-96eb-df72fd73099e
-[01:27:28] [Server thread/INFO]: Nicolandix joined the game
-[01:27:28] [Server thread/INFO]: Nicolandix[/127.251.51.31:38011] logged in with entity id 284 at ([world]-79.42170547267774, 36.00133597911215, 1181.699999988079)
-[01:28:25] [User Authenticator #1/INFO]: UUID of player Zackmo64 is 60d33d32-1f30-345b-bc3b-02ffb5a079b3
-[01:28:25] [Server thread/INFO]: Zackmo64 joined the game
-[01:28:25] [Server thread/INFO]: Zackmo64[/127.227.44.37:35067] logged in with entity id 756 at ([world]-1520.2729300685667, 62.162141421026995, -848.946883028577)
-[01:29:01] [User Authenticator #1/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
-[01:29:01] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@d1d5416[id=b93a90b6-9cda-3e37-b79c-ce24bbaadf6f,name=johanprodox,properties={textures=[com.mojang.authlib.properties.Property@2a2b1482]},legacy=false] (/127.251.51.31:39651): You are banned from this server.
-Reason: Banned by an operator.
-[01:29:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@d1d5416[id=b93a90b6-9cda-3e37-b79c-ce24bbaadf6f,name=johanprodox,properties={textures=[com.mojang.authlib.properties.Property@2a2b1482]},legacy=false] (/127.251.51.31:39651) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[01:29:03] [User Authenticator #1/INFO]: UUID of player alejandro123532 is c0bc5b95-f1af-33b5-961b-448e32da83a3
-[01:29:03] [Server thread/INFO]: alejandro123532 joined the game
-[01:29:03] [Server thread/INFO]: alejandro123532[/127.184.55.218:58151] logged in with entity id 1217 at ([world]-226.4906068269724, 64.0, 4900.739112590644)
-[01:29:29] [Server thread/INFO]: alejandro123532 lost connection: Disconnected
-[01:29:29] [Server thread/INFO]: [voicechat] Disconnecting client alejandro123532
-[01:29:29] [Server thread/INFO]: alejandro123532 left the game
-[01:29:30] [User Authenticator #1/INFO]: UUID of player alejandro123532 is c0bc5b95-f1af-33b5-961b-448e32da83a3
-[01:29:30] [Server thread/INFO]: alejandro123532 joined the game
-[01:29:30] [Server thread/INFO]: alejandro123532[/127.184.55.218:44207] logged in with entity id 1762 at ([world]-226.4906068269724, 64.0, 4900.739112590644)
-[01:29:30] [Server thread/INFO]: Kiwing lost connection: Disconnected
-[01:29:30] [Server thread/INFO]: [voicechat] Disconnecting client Kiwing
-[01:29:30] [Server thread/INFO]: Kiwing left the game
-[01:29:33] [Async Chat Thread - #0/INFO]: <Zackmo64> nicoo
-[01:29:38] [Async Chat Thread - #0/INFO]: <Zackmo64> tienes team?
-[01:29:40] [User Authenticator #1/INFO]: UUID of player Kiwing is 80e8e31c-31e1-3003-a2ee-ff97818bee8b
-[01:29:40] [Server thread/INFO]: Kiwing joined the game
-[01:29:40] [Server thread/INFO]: Kiwing[/127.210.68.95:34125] logged in with entity id 1867 at ([world_nether]255.69686236532135, 29.052573262365858, 627.4721494859251)
-[01:29:47] [Server thread/INFO]: Kiwing lost connection: Disconnected
-[01:29:47] [Server thread/INFO]: [voicechat] Disconnecting client Kiwing
-[01:29:47] [Server thread/INFO]: Kiwing left the game
-[01:29:50] [User Authenticator #1/INFO]: UUID of player Kiwing is 80e8e31c-31e1-3003-a2ee-ff97818bee8b
-[01:29:50] [User Authenticator #1/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
-[01:29:50] [Server thread/INFO]: Kiwing joined the game
-[01:29:50] [Server thread/INFO]: Kiwing[/127.210.68.95:49415] logged in with entity id 1950 at ([world_nether]255.2739753813725, 28.86771384996394, 627.4454303252514)
-[01:29:50] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@28b7bd87[id=b93a90b6-9cda-3e37-b79c-ce24bbaadf6f,name=johanprodox,properties={textures=[com.mojang.authlib.properties.Property@287b981a]},legacy=false] (/127.251.51.31:58437): You are banned from this server.
-Reason: Banned by an operator.
-[01:29:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@28b7bd87[id=b93a90b6-9cda-3e37-b79c-ce24bbaadf6f,name=johanprodox,properties={textures=[com.mojang.authlib.properties.Property@287b981a]},legacy=false] (/127.251.51.31:58437) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[01:29:54] [Server thread/INFO]: Kiwing tried to swim in lava
-[01:29:57] [Server thread/INFO]: Kiwing has completed the challenge [Subspace Bubble]
-[01:29:57] [Server thread/INFO]: Unbanned johanprodox
-[01:30:00] [User Authenticator #1/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
-[01:30:00] [Server thread/INFO]: johanprodox joined the game
-[01:30:00] [Server thread/INFO]: johanprodox[/127.251.51.31:60595] logged in with entity id 2462 at ([world]-1282.1038355115631, 70.0, -1954.0030501792496)
-[01:30:16] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.32269385648396565
-[01:30:16] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.9189202085326542
-[01:30:16] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.5463970045848328
-[01:30:16] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.1905952901570345
-[01:30:16] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.843740911380337
-[01:30:16] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 3.5016740735200074
-[01:30:16] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.6604948798312762
-[01:30:16] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.3219403475850413
-[01:30:16] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.9575076520677612
-[01:30:16] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.49157428201397124
-[01:30:25] [Server thread/INFO]: johanprodox issued server command: /tpa Zackmo64
-[01:30:29] [Server thread/INFO]: Zackmo64 issued server command: /tpaccept
-[01:30:31] [Async Chat Thread - #0/INFO]: <Zackmo64> a
-[01:30:34] [Craft Scheduler Thread - 29/INFO]: Zackmo64
-[01:30:34] [Craft Scheduler Thread - 30/INFO]: Zackmo64
-[01:30:47] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.3762958731376784
-[01:30:47] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.9533533424155394
-[01:30:47] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.4260955848938175
-[01:30:47] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.8634292509903
-[01:30:47] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.344707306829325
-[01:30:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.275812933040444
-[01:30:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.8975733903924626
-[01:30:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.5388905956582777
-[01:30:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.190558070352244
-[01:30:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.8477560699661417
-[01:30:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 3.5079124097227674
-[01:30:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.5855914673505769
-[01:30:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.2480624398601334
-[01:30:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.9110763307462004
-[01:30:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.5742510970557553
-[01:30:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.5863935166277668
-[01:30:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.2486187807269769
-[01:30:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.898941964628762
-[01:30:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.550413563956207
-[01:30:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 3.2070718174211192
-[01:30:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.6049704984819468
-[01:30:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.2788365387337406
-[01:30:59] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.9543352081773882
-[01:31:00] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.630593540280956
-[01:31:00] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.6109800064225308
-[01:31:00] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.2871752117895936
-[01:31:00] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 1.9273744299919848
-[01:31:00] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 2.5618631535956524
-[01:31:00] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.2735890583949056
-[01:31:07] [Server thread/WARN]: Horse (vehicle of Kiwing) moved wrongly! 0.3082708685046367
-[01:32:14] [Server thread/INFO]: Kiwing issued server command: /tpa alejandro123532
-[01:32:20] [Server thread/INFO]: alejandro123532 issued server command: /tpaccept
-[01:32:24] [Server thread/INFO]: Nicolandix lost connection: Disconnected
-[01:32:24] [Server thread/INFO]: [voicechat] Disconnecting client Nicolandix
-[01:32:24] [Server thread/INFO]: Nicolandix left the game
-[01:32:25] [Craft Scheduler Thread - 36/INFO]: alejandro123532
-[01:32:25] [Craft Scheduler Thread - 37/INFO]: alejandro123532
-[01:32:49] [Server thread/INFO]: johanprodox issued server command: /tpa Zackmo64
-[01:33:47] [Server thread/INFO]: johanprodox lost connection: Disconnected
-[01:33:47] [Server thread/INFO]: [voicechat] Disconnecting client johanprodox
-[01:33:47] [Server thread/INFO]: johanprodox left the game
-[01:34:10] [User Authenticator #2/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
-[01:34:10] [Server thread/INFO]: johanprodox joined the game
-[01:34:10] [Server thread/INFO]: johanprodox[/127.251.51.31:50487] logged in with entity id 4217 at ([world]-1540.4456243534073, 7.677500047683712, -856.1620848749727)
-[01:34:11] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=-227, y=64, z=4903}
-[01:34:12] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=-226, y=64, z=4903}
-[01:34:12] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=-225, y=64, z=4903}
-[01:34:16] [Server thread/INFO]: johanprodox lost connection: Disconnected
-[01:34:16] [Server thread/INFO]: [voicechat] Disconnecting client johanprodox
-[01:34:16] [Server thread/INFO]: johanprodox left the game
-[01:35:01] [Server thread/INFO]: Zackmo64 burned to death
-[01:36:16] [Server thread/INFO]: Zackmo64 fell from a high place
-[01:36:38] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[01:36:42] [Server thread/INFO]: Kiwing has made the advancement [What a Deal!]
-[01:36:43] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[01:36:43] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[01:36:43] [Server thread/INFO]: Debug logging is disabled
-[01:36:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:36:43] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:36:43] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
-[01:36:43] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[01:36:43] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[01:36:43] [Server thread/INFO]: [TPA] Disabling TPA v3.2.3
-[01:36:43] [Server thread/INFO]: [TPA] 插件已成功卸载！
-[01:36:43] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
-[01:36:43] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.29
-[01:36:43] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[01:36:43] [Server thread/INFO]: Loaded 7 recipes
-[01:36:44] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[01:36:44] [Server thread/INFO]: Loaded 7 recipes
-[01:36:44] [Server thread/INFO]: [voicechat] Loading voicechat v2.5.29
-[01:36:44] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
-[01:36:44] [Server thread/INFO]: [TPA] Loading TPA v3.2.3
-[01:36:44] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
-[01:36:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:36:44] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
-[01:36:45] [Server thread/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
-[01:36:45] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[01:36:45] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.4[32;1m.[0;39m
-[01:36:45] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
-[01:36:45] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
-[01:36:45] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
-[01:36:45] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
-[01:36:45] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.29
-[01:36:45] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.16.4-R0.1
-[01:36:45] [Server thread/INFO]: [voicechat] Compatibility version 18
-[01:36:45] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[01:36:45] [Server thread/ERROR]: [voicechat] Simple Voice Chat does not support reloads! Expect that things will break!
-[01:36:45] [Server thread/INFO]: [TPA] Enabling TPA v3.2.3
-[01:36:45] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[01:36:45] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[01:36:45] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[01:36:45] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[01:36:45] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[01:36:45] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[01:36:45] [Server thread/INFO]: CONSOLE: Reload complete.
-[01:36:45] [Server thread/INFO]: Timings Reset
-[01:36:45] [Server thread/INFO]: [voicechat] Loading plugins
-[01:36:45] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[01:36:45] [Server thread/INFO]: [voicechat] Initializing plugins
-[01:36:45] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[01:36:45] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[01:36:45] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[01:36:45] [Craft Scheduler Thread - 48/INFO]: [TPA] 插件已成功加载！当前版本为：3.2.3
-[01:36:45] [Craft Scheduler Thread - 48/INFO]: [TPA] 正在检查更新...
-[01:36:45] [Craft Scheduler Thread - 48/INFO]: [TPA] 当前已是最新版本
-[01:36:45] [Craft Scheduler Thread - 46/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[01:36:45] [Craft Scheduler Thread - 46/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[01:36:45] [Craft Scheduler Thread - 46/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[01:36:45] [Craft Scheduler Thread - 46/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[01:36:45] [Craft Scheduler Thread - 46/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[01:36:45] [Craft Scheduler Thread - 46/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[01:36:45] [Craft Scheduler Thread - 46/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[01:36:45] [Craft Scheduler Thread - 46/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
-[01:36:45] [Craft Scheduler Thread - 46/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
-[01:36:45] [Craft Scheduler Thread - 46/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[01:36:45] [Craft Scheduler Thread - 46/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[01:36:45] [Craft Scheduler Thread - 46/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[01:36:45] [Craft Scheduler Thread - 46/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[01:36:45] [Server thread/INFO]: Kiwing has made the advancement [What a Deal!]
-[01:36:51] [Server thread/INFO]: Plugins (4): LoginSecurity, SkinsRestorer, TPA, voicechat
-[01:38:10] [Server thread/INFO]: Banned johanprodox: Banned by an operator.
-[01:38:13] [Server thread/INFO]: Unbanned johanprodox
-[01:38:27] [User Authenticator #3/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
-[01:38:27] [Server thread/INFO]: johanprodox joined the game
-[01:38:27] [Server thread/INFO]: johanprodox[/127.251.51.31:50523] logged in with entity id 6409 at ([world]-1540.4456243534073, 7.0, -856.1620848749727)
-[01:39:05] [Server thread/INFO]: Zackmo64 was slain by Zombie
-[01:39:05] [Server thread/INFO]: johanprodox issued server command: /homes
-[01:39:28] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[01:40:27] [Server thread/INFO]: johanprodox lost connection: Login timed out!
-[01:40:27] [Server thread/INFO]: [voicechat] Disconnecting client johanprodox
-[01:40:27] [Server thread/INFO]: johanprodox left the game
-[01:41:35] [User Authenticator #4/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
-[01:41:35] [Server thread/INFO]: johanprodox joined the game
-[01:41:35] [Server thread/INFO]: johanprodox[/127.251.51.31:36841] logged in with entity id 7439 at ([world]-1540.3701763237848, 7.0, -856.1254359082756)
-[01:42:31] [User Authenticator #4/INFO]: UUID of player kwimiii is 7bf8fa59-d927-3016-99c8-1175082e9d8e
-[01:42:31] [Server thread/INFO]: kwimiii joined the game
-[01:42:31] [Server thread/INFO]: kwimiii[/127.182.105.156:50255] logged in with entity id 7578 at ([world]-1142.699999988079, 66.0, -1765.4290764697096)
-[01:43:36] [Server thread/INFO]: johanprodox lost connection: Login timed out!
-[01:43:36] [Server thread/INFO]: [voicechat] Disconnecting client johanprodox
-[01:43:36] [Server thread/INFO]: johanprodox left the game
-[01:43:53] [User Authenticator #5/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
-[01:43:53] [Server thread/INFO]: johanprodox joined the game
-[01:43:53] [Server thread/INFO]: johanprodox[/127.251.51.31:40191] logged in with entity id 8451 at ([world]-1540.3251937353775, 7.0, -856.9954057404851)
-[01:44:38] [Server thread/INFO]: johanprodox issued server command: /homes
-[01:44:41] [Server thread/INFO]: johanprodox issued server command: /home default
-[01:44:45] [Server thread/INFO]: alejandro123532 issued server command: /sethome a
-[01:44:46] [Craft Scheduler Thread - 74/INFO]: default
-[01:44:46] [Craft Scheduler Thread - 75/INFO]: default
-[01:44:50] [Server thread/INFO]: alejandro123532 issued server command: /home a
-[01:45:04] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii osla
-[01:45:13] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii ya sali de la lava
-[01:45:23] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox onde andas
-[01:45:32] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii en la base
-[01:46:02] [Server thread/INFO]: Zackmo64 was slain by Zombie
-[01:46:15] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii donde andas
-[01:46:25] [User Authenticator #6/INFO]: UUID of player AngelMatias is 956fbac0-9aab-3a25-b029-d787586e7b02
-[01:46:26] [Server thread/INFO]: AngelMatias joined the game
-[01:46:26] [Server thread/INFO]: AngelMatias[/127.218.61.44:48241] logged in with entity id 10521 at ([world]-7000.347837564659, 65.0, -5268.981553867441)
-[01:46:26] [Server thread/INFO]: AngelMatias lost connection: Disconnected
-[01:46:26] [Server thread/INFO]: [voicechat] Disconnecting client AngelMatias
-[01:46:26] [Server thread/INFO]: AngelMatias left the game
-[01:46:28] [User Authenticator #6/INFO]: UUID of player nicolas500701 is 073090fe-dafc-312f-ac6b-199c29f0d708
-[01:46:28] [Server thread/INFO]: nicolas500701 joined the game
-[01:46:28] [Server thread/INFO]: nicolas500701[/127.20.84.239:59797] logged in with entity id 10693 at ([world]1731.5299291686142, 69.7531999805212, -261.30000001192093)
-[01:46:34] [Server thread/INFO]: alejandro123532 issued server command: /tpa nicolas500701
-[01:46:40] [Server thread/INFO]: kwimiii issued server command: /tpa johanprodox
-[01:46:40] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
-[01:46:43] [Server thread/INFO]: johanprodox issued server command: /tpaccept
-[01:46:45] [Craft Scheduler Thread - 79/INFO]: nicolas500701
-[01:46:45] [Craft Scheduler Thread - 80/INFO]: nicolas500701
-[01:46:47] [Craft Scheduler Thread - 80/INFO]: johanprodox
-[01:46:48] [Craft Scheduler Thread - 78/INFO]: johanprodox
-[01:46:57] [User Authenticator #6/INFO]: UUID of player AngelMatias is 956fbac0-9aab-3a25-b029-d787586e7b02
-[01:46:57] [Server thread/INFO]: AngelMatias joined the game
-[01:46:57] [Server thread/INFO]: AngelMatias[/127.218.61.44:51165] logged in with entity id 11280 at ([world]-7000.347837564659, 65.0, -5268.981553867441)
-[01:47:06] [Async Chat Thread - #1/INFO]: <Zackmo64> busco team
-[01:47:11] [Async Chat Thread - #1/INFO]: <Zackmo64> q no sea malo
-[01:47:15] [Async Chat Thread - #1/INFO]: <AngelMatias> chimi por no tener
-[01:47:18] [Async Chat Thread - #1/INFO]: <Zackmo64> osea no sea johan
-[01:47:19] [Async Chat Thread - #1/INFO]: <nicolas500701> todos somos malos XDDd
-[01:47:27] [Async Chat Thread - #1/INFO]: <johanprodox> osea no sea diego
-[01:47:32] [Async Chat Thread - #1/INFO]: <nicolas500701> XD
-[01:47:40] [Async Chat Thread - #1/INFO]: <Zackmo64> oe calla tu eres el unico malo nico
-[01:47:46] [Async Chat Thread - #1/INFO]: <nicolas500701> apoco si tilin
-[01:47:49] [Server thread/INFO]: johanprodox issued server command: /homes
-[01:47:51] [Server thread/INFO]: johanprodox issued server command: /home default
-[01:47:54] [Async Chat Thread - #1/INFO]: <Zackmo64> calla manco
-[01:47:56] [Craft Scheduler Thread - 85/INFO]: default
-[01:47:56] [Craft Scheduler Thread - 86/INFO]: default
-[01:47:57] [Async Chat Thread - #1/INFO]: <nicolas500701> XD
-[01:47:57] [User Authenticator #6/INFO]: UUID of player Stincvx is 533df107-108c-3415-9ea5-9a60749bba95
-[01:47:57] [Server thread/INFO]: Stincvx joined the game
-[01:47:57] [Server thread/INFO]: Stincvx[/127.108.28.65:60309] logged in with entity id 12317 at ([world]1761.9837488252847, 69.25220334025373, -248.41068634110522)
-[01:48:00] [Async Chat Thread - #1/INFO]: <nicolas500701> ya tonoto
-[01:48:05] [Async Chat Thread - #1/INFO]: <Zackmo64> ese quien es?
-[01:48:05] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii kiara XD, no hay arboles
-[01:48:09] [Async Chat Thread - #1/INFO]: <nicolas500701> tuvi
-[01:48:18] [Server thread/INFO]: nicolas500701 issued server command: /home casa 1
-[01:48:19] [Server thread/INFO]: Stincvx issued server command: /tpa alejandro123532
-[01:48:21] [Server thread/INFO]: alejandro123532 issued server command: /tpaccept
-[01:48:24] [Server thread/INFO]: nicolas500701 issued server command: /home casa
-[01:48:26] [Craft Scheduler Thread - 87/INFO]: alejandro123532
-[01:48:26] [Craft Scheduler Thread - 88/INFO]: alejandro123532
-[01:48:27] [Server thread/INFO]: nicolas500701 issued server command: /home
-[01:48:31] [Server thread/INFO]: nicolas500701 issued server command: /home casa
-[01:48:33] [Async Chat Thread - #1/INFO]: <AngelMatias> Stincvx, que nivel eres en minecraft?
-[01:48:46] [Server thread/INFO]: Stincvx issued server command: /10
-[01:48:48] [Async Chat Thread - #1/INFO]: <Stincvx> 10
-[01:48:51] [Server thread/INFO]: nicolas500701 issued server command: /sethome casa1
-[01:48:55] [Server thread/INFO]: nicolas500701 issued server command: /home casa1
-[01:49:05] [Server thread/INFO]: nicolas500701 issued server command: /set
-[01:49:08] [Server thread/INFO]: nicolas500701 issued server command: /sethome
-[01:49:30] [Server thread/INFO]: Zackmo64 was blown up by Creeper
-[01:49:36] [Async Chat Thread - #1/INFO]: <nicolas500701> XD
-[01:49:43] [Async Chat Thread - #1/INFO]: <johanprodox> asu
-[01:50:17] [Server thread/INFO]: Stincvx has made the advancement [Enchanter]
-[01:50:19] [User Authenticator #7/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
-[01:50:19] [Server thread/INFO]: GaccGamer joined the game
-[01:50:19] [Server thread/INFO]: GaccGamer[/127.125.12.20:42209] logged in with entity id 14880 at ([world]-223.26426765262752, 64.0, 4898.615399501841)
-[01:50:20] [Server thread/INFO]: alejandro123532 issued server command: /sethome b
-[01:50:27] [Server thread/INFO]: alejandro123532 issued server command: /home a
-[01:50:43] [Server thread/INFO]: alejandro123532 issued server command: /home a
-[01:50:48] [Craft Scheduler Thread - 94/INFO]: a
-[01:50:48] [Craft Scheduler Thread - 93/INFO]: a
-[01:51:36] [Server thread/INFO]: Zackmo64 lost connection: Disconnected
-[01:51:36] [Server thread/INFO]: [voicechat] Disconnecting client Zackmo64
-[01:51:36] [Server thread/INFO]: Zackmo64 left the game
-[01:52:25] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii kiara voa hacer la tarea
-[01:52:32] [Server thread/INFO]: alejandro123532 issued server command: /tpa nicolas500701
-[01:52:34] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
-[01:52:36] [Server thread/INFO]: johanprodox issued server command: /homes
-[01:52:38] [Server thread/INFO]: johanprodox issued server command: /home default
-[01:52:39] [Craft Scheduler Thread - 99/INFO]: nicolas500701
-[01:52:39] [Craft Scheduler Thread - 98/INFO]: nicolas500701
-[01:52:43] [Craft Scheduler Thread - 100/INFO]: default
-[01:52:43] [Craft Scheduler Thread - 98/INFO]: default
-[01:53:05] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox yayyaa
-[01:53:24] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii pa tu casco
-[01:54:25] [Server thread/INFO]: Villager EntityVillager['Fletcher'/1222, uuid='039968ad-3d6a-492a-bf8c-bad6fd143544', l='ServerLevel[world]', x=-229.24, y=64.00, z=4898.45, cx=-15, cz=306, tl=332204, v=true, d=false] died, message: 'Fletcher was blown up by Creeper'
-[01:55:13] [User Authenticator #8/INFO]: UUID of player Nicolandix is b24396a8-f6c0-3596-96eb-df72fd73099e
-[01:55:13] [Server thread/INFO]: Nicolandix joined the game
-[01:55:13] [Server thread/INFO]: Nicolandix[/127.251.51.31:51439] logged in with entity id 18526 at ([world]-109.67201914322325, 31.0, 1158.300000011921)
-[01:55:17] [Server thread/INFO]: AngelMatias issued server command: /sethome anos
-[01:55:23] [Server thread/INFO]: AngelMatias issued server command: /home anos
-[01:55:28] [Craft Scheduler Thread - 105/INFO]: anos
-[01:55:28] [Craft Scheduler Thread - 106/INFO]: anos
-[01:55:35] [Server thread/INFO]: AngelMatias issued server command: /delhome anos
-[01:55:46] [Server thread/INFO]: AngelMatias issued server command: /sethome anos
-[01:56:15] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii volvi
-[01:56:54] [Server thread/INFO]: Villager EntityVillager['Fletcher'/1219, uuid='974ac1ae-ee94-4dc7-8e34-152d69bdc6b1', l='ServerLevel[world]', x=-219.70, y=64.00, z=4894.30, cx=-14, cz=305, tl=335478, v=true, d=false] died, message: 'Fletcher was slain by Kiwing'
-[01:57:04] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii a q consegui más palos para reparacion p
-[01:57:18] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii esta 14 el libro
-[01:57:24] [Server thread/INFO]: Kiwing issued server command: /tpa alejandro123532
-[01:57:26] [Server thread/INFO]: alejandro123532 issued server command: /tpaccept
-[01:57:31] [Craft Scheduler Thread - 111/INFO]: alejandro123532
-[01:57:31] [Craft Scheduler Thread - 112/INFO]: alejandro123532
-[01:57:48] [Server thread/INFO]: AngelMatias has made the advancement [A Seedy Place]
-[01:59:31] [Server thread/INFO]: alejandro123532 issued server command: /home a
-[01:59:36] [Craft Scheduler Thread - 117/INFO]: a
-[01:59:36] [Craft Scheduler Thread - 118/INFO]: a
-[01:59:46] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox ayyayaya+
-[02:00:01] [Server thread/WARN]: Nicolandix moved too quickly! 1.0730036222705337,-0.20000004768371582,-11.610897536503217
-[02:00:32] [Server thread/INFO]: alejandro123532 issued server command: /home b
-[02:00:37] [Craft Scheduler Thread - 123/INFO]: b
-[02:00:37] [Craft Scheduler Thread - 124/INFO]: b
-[02:01:18] [Server thread/INFO]: GaccGamer issued server command: /tpa alejandro123532
-[02:01:21] [Server thread/INFO]: alejandro123532 issued server command: /tpaccept
-[02:01:26] [Craft Scheduler Thread - 127/INFO]: alejandro123532
-[02:01:26] [Craft Scheduler Thread - 126/INFO]: alejandro123532
-[02:02:44] [Server thread/INFO]: johanprodox issued server command: /homes
-[02:02:46] [Server thread/INFO]: johanprodox issued server command: /home default
-[02:02:51] [Craft Scheduler Thread - 132/INFO]: default
-[02:02:51] [Craft Scheduler Thread - 133/INFO]: default
-[02:03:10] [Server thread/INFO]: GaccGamer issued server command: /tpa AngelMatias
-[02:03:17] [Server thread/INFO]: AngelMatias issued server command: /tpaccept
-[02:03:22] [Craft Scheduler Thread - 136/INFO]: AngelMatias
-[02:03:22] [Craft Scheduler Thread - 134/INFO]: AngelMatias
-[02:03:36] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii ahora esta a 18 el libro :,v
-[02:04:47] [Server thread/INFO]: AngelMatias issued server command: /w GaccGamer dc
-[02:07:33] [Server thread/INFO]: kwimiii was shot by Skeleton
-[02:07:38] [Async Chat Thread - #2/INFO]: <johanprodox> q
-[02:07:43] [Async Chat Thread - #2/INFO]: <AngelMatias> ese kevin
-[02:07:54] [Server thread/INFO]: alejandro123532 issued server command: /tpaccept
-[02:07:56] [Server thread/INFO]: alejandro123532 issued server command: /home a
-[02:08:01] [Craft Scheduler Thread - 142/INFO]: a
-[02:08:01] [Craft Scheduler Thread - 143/INFO]: a
-[02:08:22] [Server thread/INFO]: Villager EntityVillager['Villager'/10696, uuid='27413926-bd03-4ecb-b114-724547800b11', l='ServerLevel[world]', x=1722.10, y=66.84, z=-259.43, cx=107, cz=-17, tl=38056, v=true, d=false] died, message: 'Villager was slain by Zombie'
-[02:08:23] [Server thread/INFO]: Villager EntityVillager['Farmer'/10695, uuid='2f68f56c-26ca-4bb7-bc1e-afff04d38d8a', l='ServerLevel[world]', x=1722.88, y=66.84, z=-259.27, cx=107, cz=-17, tl=38078, v=true, d=false] died, message: 'Farmer was slain by Zombie Villager'
-[02:08:28] [Server thread/INFO]: Stincvx has made the advancement [Take Aim]
-[02:08:31] [Server thread/INFO]: Villager EntityVillager['Farmer'/10703, uuid='f65da3ef-ad9c-46f0-b1d5-8d3150b3bf9f', l='ServerLevel[world]', x=1724.70, y=66.90, z=-255.03, cx=107, cz=-16, tl=38432, v=true, d=false] died, message: 'Farmer was slain by Zombie'
-[02:09:12] [Server thread/INFO]: Nicolandix has made the advancement [Not Today, Thank You]
-[02:09:25] [Server thread/INFO]: kwimiii was blown up by Creeper
-[02:09:30] [Server thread/INFO]: alejandro123532 issued server command: /tpa nicolas500701
-[02:09:37] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox ASUO
-[02:09:39] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii onde andas
-[02:09:40] [Server thread/INFO]: alejandro123532 issued server command: /tpa Kiwing
-[02:09:42] [Server thread/INFO]: Kiwing issued server command: /tpaccept
-[02:09:47] [Server thread/INFO]: Kiwing issued server command: /tpaccept
-[02:09:49] [Server thread/INFO]: alejandro123532 issued server command: /tpa Kiwing
-[02:09:57] [Server thread/INFO]: Stincvx has made the advancement [Fishy Business]
-[02:10:11] [Server thread/INFO]: kwimiii was shot by Skeleton
-[02:10:14] [Server thread/INFO]: alejandro123532 issued server command: /tpa Stincvx
-[02:10:16] [Server thread/INFO]: Kiwing issued server command: /tpa AngelMatias
-[02:10:17] [Async Chat Thread - #3/INFO]: <Stincvx> xd
-[02:10:22] [Server thread/INFO]: Stincvx issued server command: /tpaccept
-[02:10:26] [Server thread/INFO]: AngelMatias issued server command: /tpa Kiwingk
-[02:10:32] [Server thread/INFO]: AngelMatias issued server command: /tpa Kiwing
-[02:10:32] [Server thread/INFO]: alejandro123532 issued server command: /tpa Stincvx
-[02:10:34] [Server thread/INFO]: Stincvx issued server command: /tpaccept
-[02:10:37] [Server thread/INFO]: Kiwing issued server command: /tpaccept
-[02:10:39] [Craft Scheduler Thread - 150/INFO]: Stincvx
-[02:10:39] [Craft Scheduler Thread - 151/INFO]: Stincvx
-[02:10:46] [Server thread/INFO]: AngelMatias issued server command: /tpa Kiwing
-[02:10:50] [Server thread/INFO]: nicolas500701 lost connection: Disconnected
-[02:10:50] [Server thread/INFO]: [voicechat] Disconnecting client nicolas500701
-[02:10:50] [Server thread/INFO]: nicolas500701 left the game
-[02:10:51] [Server thread/INFO]: Kiwing issued server command: /tpaccept
-[02:10:53] [User Authenticator #9/INFO]: UUID of player nicolas500701 is 073090fe-dafc-312f-ac6b-199c29f0d708
-[02:10:53] [Server thread/INFO]: nicolas500701 joined the game
-[02:10:53] [Server thread/INFO]: nicolas500701[/127.20.84.239:33733] logged in with entity id 35321 at ([world]1804.5586395027572, 15.0, 206.90624454674446)
-[02:10:56] [Craft Scheduler Thread - 151/INFO]: Kiwing
-[02:10:56] [Craft Scheduler Thread - 152/INFO]: Kiwing
-[02:11:16] [Server thread/INFO]: GaccGamer issued server command: /tpa nicolas500701
-[02:11:21] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
-[02:11:26] [Craft Scheduler Thread - 154/INFO]: nicolas500701
-[02:11:26] [Craft Scheduler Thread - 155/INFO]: nicolas500701
-[02:11:29] [Server thread/INFO]: Villager EntityVillager['Fletcher'/10705, uuid='389bd175-94f9-45d8-bf3e-b5675e3b32b5', l='ServerLevel[world]', x=1748.39, y=66.84, z=-224.81, cx=109, cz=-15, tl=41717, v=true, d=false] died, message: 'Fletcher was slain by Zombie'
-[02:11:42] [Server thread/INFO]: AngelMatias issued server command: /home ano
-[02:11:43] [Server thread/INFO]: AngelMatias issued server command: /home anos
-[02:11:48] [Server thread/INFO]: nicolas500701 issued server command: /tpa alejandro123532
-[02:11:48] [Craft Scheduler Thread - 154/INFO]: anos
-[02:11:48] [Craft Scheduler Thread - 155/INFO]: anos
-[02:11:51] [Server thread/INFO]: alejandro123532 issued server command: /tpaccept
-[02:11:56] [Craft Scheduler Thread - 157/INFO]: alejandro123532
-[02:11:56] [Craft Scheduler Thread - 154/INFO]: alejandro123532
-[02:13:15] [Server thread/INFO]: alejandro123532 issued server command: /home a
-[02:13:20] [Craft Scheduler Thread - 162/INFO]: a
-[02:13:20] [Craft Scheduler Thread - 163/INFO]: a
-[02:13:48] [Server thread/INFO]: nicolas500701 issued server command: /sethome
-[02:15:21] [Server thread/INFO]: alejandro123532 issued server command: /tpa nicolas500701
-[02:15:23] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
-[02:15:28] [Craft Scheduler Thread - 168/INFO]: nicolas500701
-[02:15:28] [Craft Scheduler Thread - 169/INFO]: nicolas500701
-[02:15:32] [User Authenticator #10/INFO]: UUID of player Zackmo64 is 60d33d32-1f30-345b-bc3b-02ffb5a079b3
-[02:15:32] [Server thread/INFO]: Zackmo64 joined the game
-[02:15:32] [Server thread/INFO]: Zackmo64[/127.227.44.37:44585] logged in with entity id 41583 at ([world]-1231.559335304098, 91.0, -632.6999999880791)
-[02:15:38] [Server thread/INFO]: nicolas500701 has made the advancement [We Need to Go Deeper]
-[02:16:21] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox CIUANTAS ESMERALAS TIENES
-[02:16:31] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii 7
-[02:16:37] [Server thread/INFO]: johanprodox issued server command: /homes
-[02:16:38] [Server thread/INFO]: johanprodox issued server command: /home default
-[02:16:40] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox X2
-[02:16:43] [Craft Scheduler Thread - 173/INFO]: default
-[02:16:43] [Craft Scheduler Thread - 174/INFO]: default
-[02:16:48] [Server thread/INFO]: johanprodox issued server command: /msg kwimiii JSJAJSJASJA
-[02:17:29] [Async Chat Thread - #4/INFO]: <johanprodox> kiara
-[02:17:38] [Async Chat Thread - #4/INFO]: <kwimiii> k
-[02:17:41] [Async Chat Thread - #4/INFO]: <nicolas500701> so
-[02:17:42] [Async Chat Thread - #4/INFO]: <AngelMatias> zo
-[02:17:43] [Async Chat Thread - #4/INFO]: <johanprodox> te di 2
-[02:17:45] [Async Chat Thread - #4/INFO]: <nicolas500701> XD
-[02:17:46] [Async Chat Thread - #4/INFO]: <johanprodox> vo
-[02:17:54] [Async Chat Thread - #4/INFO]: <AngelMatias> xdxdxdxd
-[02:18:03] [Server thread/INFO]: kwimiii issued server command: /tell johanprodox 2 que?
-[02:18:07] [Async Chat Thread - #4/INFO]: <johanprodox> esmeraldas
-[02:18:12] [Server thread/INFO]: Zackmo64 issued server command: /tell Nicolandix broh cuando veas a nico lo matas
-[02:18:22] [Server thread/INFO]: Zackmo64 issued server command: /tell Nicolandix y dps le metes la pija
+[02:20:58] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:20:59] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[02:20:59] [Worker-Main-2/INFO]: Loaded 7 recipes
+[02:21:00] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[02:21:00] [Server thread/INFO]: Loading properties
+[02:21:01] [Server thread/INFO]: This server is running Paper version git-Paper-416 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[02:21:01] [Server thread/INFO]: Debug logging is disabled
+[02:21:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:21:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:21:01] [Server thread/INFO]: Default game type: SURVIVAL
+[02:21:01] [Server thread/INFO]: Generating keypair
+[02:21:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:21:01] [Server thread/INFO]: Using epoll channel type
+[02:21:02] [Server thread/INFO]: [voicechat] Loading voicechat v2.5.29
+[02:21:02] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
+[02:21:02] [Server thread/INFO]: [TPA] Loading TPA v3.2.3
+[02:21:02] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
+[02:21:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:21:02] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[02:21:02] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[02:21:03] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.4[32;1m.[0;39m
+[02:21:03] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[02:21:03] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[02:21:03] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[02:21:03] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[02:21:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:21:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:21:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:21:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:21:03] [Server thread/INFO]: Preparing level "world"
+[02:21:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:21:04] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[02:21:04] [Server thread/INFO]: Time elapsed: 340 ms
+[02:21:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:21:04] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[02:21:04] [Server thread/INFO]: Time elapsed: 49 ms
+[02:21:04] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.29
+[02:21:04] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.16.4-R0.1
+[02:21:04] [Server thread/INFO]: [voicechat] Compatibility version 18
+[02:21:04] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[02:21:04] [Server thread/INFO]: [TPA] Enabling TPA v3.2.3
+[02:21:04] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[02:21:04] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[02:21:04] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[02:21:04] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[02:21:04] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[02:21:04] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[02:21:05] [Server thread/INFO]: Running delayed init tasks
+[02:21:05] [Server thread/INFO]: [voicechat] Loading plugins
+[02:21:05] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[02:21:05] [Server thread/INFO]: [voicechat] Initializing plugins
+[02:21:05] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[02:21:05] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[02:21:05] [Server thread/INFO]: Done (4.318s)! For help, type "help"
+[02:21:05] [Server thread/INFO]: Timings Reset
+[02:21:05] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[02:21:05] [Craft Scheduler Thread - 1/INFO]: [TPA] 插件已成功加载！当前版本为：3.2.3
+[02:21:05] [Craft Scheduler Thread - 1/INFO]: [TPA] 正在检查更新...
+[02:21:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:21:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[02:21:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[02:21:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[02:21:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[02:21:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[02:21:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:21:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
+[02:21:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
+[02:21:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[02:21:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:21:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[02:21:06] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[02:21:06] [Craft Scheduler Thread - 1/INFO]: [TPA] 当前已是最新版本
+[02:21:10] [User Authenticator #1/INFO]: UUID of player alejandro123532 is c0bc5b95-f1af-33b5-961b-448e32da83a3
+[02:21:10] [Server thread/INFO]: alejandro123532 joined the game
+[02:21:10] [Server thread/INFO]: alejandro123532[/127.184.55.218:42179] logged in with entity id 156 at ([world_nether]-48.85194441090263, 79.0, 640.397816094092)
+[02:21:15] [User Authenticator #1/INFO]: UUID of player nicolas500701 is 073090fe-dafc-312f-ac6b-199c29f0d708
+[02:21:15] [Server thread/INFO]: nicolas500701 joined the game
+[02:21:15] [Server thread/INFO]: nicolas500701[/127.20.84.239:39951] logged in with entity id 253 at ([world_nether]251.22850858999178, 74.162141421027, -27.04879125825404)
+[02:21:17] [User Authenticator #1/INFO]: UUID of player Stincvx is 533df107-108c-3415-9ea5-9a60749bba95
+[02:21:17] [Server thread/INFO]: Stincvx joined the game
+[02:21:17] [Server thread/INFO]: Stincvx[/127.108.28.65:34685] logged in with entity id 320 at ([world]1783.300000011921, 72.0, -240.84222293073825)
+[02:21:18] [User Authenticator #2/INFO]: UUID of player Kiwing is 80e8e31c-31e1-3003-a2ee-ff97818bee8b
+[02:21:18] [User Authenticator #1/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
+[02:21:18] [Server thread/INFO]: Kiwing joined the game
+[02:21:18] [Server thread/INFO]: Kiwing[/127.210.68.95:45825] logged in with entity id 328 at ([world]1724.7384961870857, 69.0, -255.97017026990505)
+[02:21:19] [Server thread/INFO]: GaccGamer joined the game
+[02:21:19] [Server thread/INFO]: GaccGamer[/127.125.12.20:45633] logged in with entity id 338 at ([world]1777.576937826978, 17.0, 211.83565661959716)
+[02:21:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5099ms or 101 ticks behind
+[02:21:34] [User Authenticator #1/INFO]: UUID of player Nicolandix is b24396a8-f6c0-3596-96eb-df72fd73099e
+[02:21:35] [Server thread/INFO]: Nicolandix joined the game
+[02:21:35] [Server thread/INFO]: Nicolandix[/127.251.51.31:41281] logged in with entity id 998 at ([world]-849.6586419653754, 65.24918707874468, 1316.3576715465806)
+[02:21:42] [Server thread/WARN]: nicolas500701 moved too quickly! -15.141264418368564,0.604424101326714,0.2997945121068284
+[02:21:47] [Server thread/INFO]: Nicolandix lost connection: Disconnected
+[02:21:47] [Server thread/INFO]: [voicechat] Disconnecting client Nicolandix
+[02:21:47] [Server thread/INFO]: Nicolandix left the game
+[02:21:57] [User Authenticator #1/INFO]: UUID of player Nicolandix is b24396a8-f6c0-3596-96eb-df72fd73099e
+[02:21:57] [Server thread/INFO]: Nicolandix joined the game
+[02:21:57] [Server thread/INFO]: Nicolandix[/127.251.51.31:36609] logged in with entity id 1316 at ([world]-849.6586419653754, 65.1707870772188, 1316.3576715465806)
+[02:22:39] [Server thread/INFO]: alejandro123532 issued server command: /tpa nicolas500701
+[02:22:47] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[02:22:52] [Craft Scheduler Thread - 22/INFO]: nicolas500701
+[02:22:52] [Craft Scheduler Thread - 23/INFO]: nicolas500701
+[02:23:01] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[02:23:01] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[02:23:01] [Server thread/INFO]: Debug logging is disabled
+[02:23:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:23:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:23:01] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[02:23:01] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[02:23:01] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[02:23:01] [Server thread/INFO]: [TPA] Disabling TPA v3.2.3
+[02:23:01] [Server thread/INFO]: [TPA] 插件已成功卸载！
+[02:23:01] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
+[02:23:01] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.29
+[02:23:01] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[02:23:01] [Server thread/INFO]: Loaded 7 recipes
+[02:23:02] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[02:23:02] [Server thread/INFO]: Loaded 7 recipes
+[02:23:03] [Server thread/INFO]: [voicechat] Loading voicechat v2.5.29
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m] Loading LagFixer v1.3.31 (build 95)[0m
+[02:23:03] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
+[02:23:03] [Server thread/INFO]: [TPA] Loading TPA v3.2.3
+[02:23:03] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
+[02:23:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:23:03] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[02:23:03] [Server thread/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
+[02:23:03] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[02:23:03] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.4[32;1m.[0;39m
+[02:23:03] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[02:23:03] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[02:23:03] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[02:23:03] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[02:23:03] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.29
+[02:23:03] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.16.4-R0.1
+[02:23:03] [Server thread/INFO]: [voicechat] Compatibility version 18
+[02:23:03] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[02:23:03] [Server thread/ERROR]: [voicechat] Simple Voice Chat does not support reloads! Expect that things will break!
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m] Enabling LagFixer v1.3.31 (build 95)[0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;15mRemember to leave a rating![0m [38;5;11m[1m★ ★ ★ ★ ★
+
+
+
+
+
+[38;5;15mLagFixer - Best Performance Solution![0m
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░██╗░░░░░░█████╗░░██████╗░░░███████╗██╗██╗░░██╗███████╗██████╗░░
+░██║░░░░░██╔══██╗██╔════╝░░░██╔════╝██║╚██╗██╔╝██╔════╝██╔══██╗░
+░██║░░░░░███████║██║░░██╗░░░█████╗░░██║░╚███╔╝░█████╗░░██████╔╝░
+░██║░░░░░██╔══██║██║░░╚██╗░░██╔══╝░░██║░██╔██╗░██╔══╝░░██╔══██╗░
+░███████╗██║░░██║╚██████╔╝░░██║░░░░░██║██╔╝╚██╗███████╗██║░░██║░
+░╚══════╝╚═╝░░╚═╝░╚═════╝░░░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+
+
+
+[0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mErrorsManager[38;5;8m) [38;5;246m-> [38;5;15mEnabling manager...[0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mStarted listening for console LagFixer errors![0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mErrorsManager[38;5;8m) [38;5;246m-> [38;5;15mEnabled manager in [38;5;11m0ms[38;5;15m![0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mSupportManager[38;5;8m) [38;5;246m-> [38;5;15mEnabling manager...[0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mLoaded creatures 1051 to creature container![0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mLoaded items 55 to item container![0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mLoaded fork support ~ xyz.lychee.lagfixer.support.Spigot[0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mLoaded nms support ~ xyz.lychee.lagfixer.nms.v1_16_R3.SupportNms[0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mSupportManager[38;5;8m) [38;5;246m-> [38;5;15mEnabled manager in [38;5;11m16ms[38;5;15m![0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mConfigManager[38;5;8m) [38;5;246m-> [38;5;15mEnabling manager...[0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mConfiguration loader overrided key [38;5;8m'[38;5;11mmain.prefix[38;5;8m' [38;5;246m→ [38;5;172m[38;5;8m[[38;5;11m[1m⚡[38;5;8m] [0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mConfiguration loader overrided key [38;5;8m'[38;5;11mmain.prefix_hover[38;5;8m' [38;5;246m→ [38;5;172mtrue[0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mConfiguration loader overrided key [38;5;8m'[38;5;11mmain.threads[38;5;8m' [38;5;246m→ [38;5;172m1[0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mConfiguration loader overrided key [38;5;8m'[38;5;11mmain.monitor_interval[38;5;8m' [38;5;246m→ [38;5;172m5[0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mConfiguration loader overrided key [38;5;8m'[38;5;11mmain.map_interval[38;5;8m' [38;5;246m→ [38;5;172m3[0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mConfiguration loader overrided key [38;5;8m'[38;5;11mmain.errors_reporter[38;5;8m' [38;5;246m→ [38;5;172mtrue[0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mConfiguration loader overrided key [38;5;8m'[38;5;11mmain.updater[38;5;8m' [38;5;246m→ [38;5;172mtrue[0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mConfiguration loader overrided key [38;5;8m'[38;5;11mmain.warnings[38;5;8m' [38;5;246m→ [38;5;172mtrue[0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mConfiguration loader overrided key [38;5;8m'[38;5;11mmain.bStats[38;5;8m' [38;5;246m→ [38;5;172mtrue[0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mConfiguration loader overrided key [38;5;8m'[38;5;11mmain.command[38;5;8m' [38;5;246m→ [38;5;172mMemorySection[path='main.command', root='YamlConfiguration'][0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mConfiguration loader overrided key [38;5;8m'[38;5;11mmodules[38;5;8m' [38;5;246m→ [38;5;172mMemorySection[path='modules', root='YamlConfiguration'][0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mConfigManager[38;5;8m) [38;5;246m-> [38;5;15mEnabled manager in [38;5;11m60ms[38;5;15m![0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mHookManager[38;5;8m) [38;5;246m-> [38;5;15mEnabling manager...[0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mHookManager[38;5;8m) [38;5;246m-> [38;5;15mEnabled manager in [38;5;11m0ms[38;5;15m![0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mMetricsManager[38;5;8m) [38;5;246m-> [38;5;15mEnabling manager...[0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mMetricsManager[38;5;8m) [38;5;246m-> [38;5;15mEnabled manager in [38;5;11m2ms[38;5;15m![0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mUpdaterManager[38;5;8m) [38;5;246m-> [38;5;15mEnabling manager...[0m
+[02:23:03] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mUpdaterManager[38;5;8m) [38;5;246m-> [38;5;15mEnabled manager in [38;5;11m1ms[38;5;15m![0m
+[02:23:04] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mModuleManager[38;5;8m) [38;5;246m-> [38;5;15mEnabling manager...[0m
+[02:23:04] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mSucessfully loaded module LagMonitor in 10ms.[0m
+[02:23:04] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mSucessfully loaded module WorldCleaner in 15ms.[0m
+[02:23:04] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mSucessfully loaded module CustomAi in 17ms.[0m
+[02:23:04] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mSucessfully loaded module InstantLeafDecay in 2ms.[0m
+[02:23:04] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mSucessfully loaded module EntityLimiter in 9ms.[0m
+[02:23:04] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mSucessfully loaded module CustomVehicles in 6ms.[0m
+[02:23:04] [Server thread/INFO]: [[38;5;11m⚡[0m]  [38;5;8m• [0mSucessfully loaded module RedstoneLimiter in 7ms.[0m
+[02:23:04] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mModuleManager[38;5;8m) [38;5;246m-> [38;5;15mEnabled manager in [38;5;11m71ms[38;5;15m![0m
+[02:23:04] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mCommandManager[38;5;8m) [38;5;246m-> [38;5;15mEnabling manager...[0m
+[02:23:04] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mCommandManager[38;5;8m) [38;5;246m-> [38;5;15mEnabled manager in [38;5;11m12ms[38;5;15m![0m
+[02:23:04] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;15mRemember to leave a rating![0m [38;5;11m[1m★ ★ ★ ★ ★[0m
+[02:23:04] [Server thread/INFO]: [TPA] Enabling TPA v3.2.3
+[02:23:04] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[02:23:04] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[02:23:04] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[02:23:04] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[02:23:04] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[02:23:04] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[02:23:04] [Server thread/INFO]: CONSOLE: Reload complete.
+[02:23:04] [Server thread/INFO]: Timings Reset
+[02:23:04] [Server thread/INFO]: [voicechat] Loading plugins
+[02:23:04] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[02:23:04] [Server thread/INFO]: [voicechat] Initializing plugins
+[02:23:04] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[02:23:04] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[02:23:04] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[02:23:04] [Craft Scheduler Thread - 20/INFO]: [TPA] 插件已成功加载！当前版本为：3.2.3
+[02:23:04] [Craft Scheduler Thread - 20/INFO]: [TPA] 正在检查更新...
+[02:23:04] [Craft Scheduler Thread - 20/INFO]: [TPA] 当前已是最新版本
+[02:23:04] [Craft Scheduler Thread - 22/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:23:04] [Craft Scheduler Thread - 22/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[02:23:04] [Craft Scheduler Thread - 22/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[02:23:04] [Craft Scheduler Thread - 22/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[02:23:04] [Craft Scheduler Thread - 22/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[02:23:04] [Craft Scheduler Thread - 22/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[02:23:04] [Craft Scheduler Thread - 22/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:23:04] [Craft Scheduler Thread - 22/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
+[02:23:04] [Craft Scheduler Thread - 22/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
+[02:23:04] [Craft Scheduler Thread - 22/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[02:23:04] [Craft Scheduler Thread - 22/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:23:04] [Craft Scheduler Thread - 22/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[02:23:04] [Craft Scheduler Thread - 22/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[02:23:06] [User Authenticator #3/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
+[02:23:06] [Server thread/INFO]: johanprodox joined the game
+[02:23:06] [Server thread/INFO]: johanprodox[/127.251.51.31:49973] logged in with entity id 2401 at ([world]-1263.2864813666822, 69.0, -1816.36277559129)
+[02:23:19] [Server thread/INFO]: nicolas500701 has made the advancement [A Terrible Fortress]
+[02:23:27] [Server thread/INFO]: alejandro123532 issued server command: /tpa nicolas500701
+[02:23:36] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[02:23:41] [Craft Scheduler Thread - 30/INFO]: nicolas500701
+[02:23:41] [Craft Scheduler Thread - 26/INFO]: nicolas500701
+[02:23:41] [Server thread/INFO]: alejandro123532 has made the advancement [A Terrible Fortress]
+[02:23:45] [User Authenticator #3/INFO]: UUID of player kwimiii is 7bf8fa59-d927-3016-99c8-1175082e9d8e
+[02:23:45] [Server thread/INFO]: kwimiii joined the game
+[02:23:45] [Server thread/INFO]: kwimiii[/127.182.105.156:57901] logged in with entity id 3766 at ([world]-1286.7429434412309, 70.0, -1969.9036675721609)
+[02:23:47] [Server thread/INFO]: Kiwing issued server command: /tpa alejandro123532
+[02:24:01] [Craft Scheduler Thread - 26/WARN]: [[38;5;11m⚡[0m] Plugin LagFixer v1.3.31 (build 95) generated an exception while executing task 44682[0m
+java.lang.NoClassDefFoundError: org/apache/commons/io/IOUtils
+	at xyz.lychee.lagfixer.managers.UpdaterManager.lambda$load$1(UpdaterManager.java:52) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:99) ~[patched_1.16.4.jar:git-Paper-416]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.4.jar:git-Paper-416]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.4.jar:git-Paper-416]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.ClassNotFoundException: org.apache.commons.io.IOUtils
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:476) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:182) ~[patched_1.16.4.jar:git-Paper-416]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:111) ~[patched_1.16.4.jar:git-Paper-416]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:594) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	... 7 more
+[02:24:19] [Server thread/INFO]: Kiwing issued server command: /tpa alejandro123532
+[02:24:22] [Server thread/WARN]: nicolas500701 was kicked for floating too long!
+[02:24:22] [Server thread/INFO]: nicolas500701 lost connection: Flying is not enabled on this server
+[02:24:22] [Server thread/INFO]: [voicechat] Disconnecting client nicolas500701
+[02:24:22] [Server thread/INFO]: nicolas500701 left the game
+[02:24:27] [User Authenticator #3/INFO]: UUID of player nicolas500701 is 073090fe-dafc-312f-ac6b-199c29f0d708
+[02:24:27] [Server thread/INFO]: nicolas500701 joined the game
+[02:24:27] [Server thread/INFO]: nicolas500701[/127.20.84.239:40789] logged in with entity id 4856 at ([world_nether]223.13568727787458, 54.84610397459555, 45.131166131704695)
+[02:24:30] [Server thread/INFO]: alejandro123532 issued server command: /tpaccept
+[02:24:32] [User Authenticator #3/INFO]: UUID of player AngelMatias is 956fbac0-9aab-3a25-b029-d787586e7b02
+[02:24:32] [Server thread/INFO]: AngelMatias joined the game
+[02:24:32] [Server thread/INFO]: AngelMatias[/127.218.61.44:36545] logged in with entity id 4913 at ([world]-7000.59700486289, 65.7531999805212, -5270.783388633463)
+[02:24:35] [Server thread/INFO]: GaccGamer issued server command: /tpa AngelMatias
+[02:24:35] [Craft Scheduler Thread - 21/INFO]: alejandro123532
+[02:24:35] [Craft Scheduler Thread - 26/INFO]: alejandro123532
+[02:24:36] [Server thread/INFO]: Kiwing has made the advancement [A Terrible Fortress]
+[02:24:49] [Server thread/INFO]: johanprodox issued server command: /tpa:delspawn
+[02:24:58] [Server thread/INFO]: alejandro123532 has made the advancement [Into Fire]
+[02:25:07] [Server thread/INFO]: kwimiii lost connection: Timed out
+[02:25:07] [Server thread/INFO]: [voicechat] Disconnecting client kwimiii
+[02:25:07] [Server thread/INFO]: kwimiii left the game
+[02:25:48] [Server thread/INFO]: nicolas500701 has made the advancement [Into Fire]
+[02:26:12] [Server thread/INFO]: Kiwing lost connection: Disconnected
+[02:26:12] [Server thread/INFO]: [voicechat] Disconnecting client Kiwing
+[02:26:12] [Server thread/INFO]: Kiwing left the game
+[02:26:19] [User Authenticator #4/INFO]: UUID of player Kiwing is 80e8e31c-31e1-3003-a2ee-ff97818bee8b
+[02:26:19] [Server thread/INFO]: Kiwing joined the game
+[02:26:19] [Server thread/INFO]: Kiwing[/127.210.68.95:49189] logged in with entity id 7313 at ([world_nether]214.30000001192093, 53.0, 118.30000001192093)
+[02:27:09] [Async Chat Thread - #0/INFO]: <AngelMatias> QUE
+[02:27:12] [Async Chat Thread - #0/INFO]: <GaccGamer> ala johan ese plugin anti lag :VVV
+[02:28:10] [User Authenticator #5/INFO]: UUID of player kwimiii is 7bf8fa59-d927-3016-99c8-1175082e9d8e
+[02:28:10] [Server thread/INFO]: kwimiii joined the game
+[02:28:10] [Server thread/INFO]: kwimiii[/127.182.105.156:49667] logged in with entity id 9923 at ([world]-1297.2783690141216, 67.0, -1938.300000011921)
+[02:28:29] [Async Chat Thread - #1/INFO]: <Stincvx> invoquen wither :v
+[02:28:42] [Async Chat Thread - #1/INFO]: <AngelMatias> chicos... tenemos que matar a dios
+[02:28:53] [Async Chat Thread - #1/INFO]: <Stincvx> ya
+[02:28:55] [Server thread/WARN]: kwimiii was kicked due to keepalive timeout!
+[02:28:55] [Server thread/INFO]: kwimiii lost connection: Timed out
+[02:28:55] [Server thread/INFO]: [voicechat] Disconnecting client kwimiii
+[02:28:55] [Server thread/INFO]: kwimiii left the game
+[02:28:56] [Async Chat Thread - #1/INFO]: <alejandro123532> ok
+[02:28:57] [Async Chat Thread - #1/INFO]: <Stincvx> pongan wither storm
+[02:29:19] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[02:29:19] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[02:29:19] [Server thread/INFO]: Debug logging is disabled
+[02:29:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:29:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:29:19] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[02:29:19] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[02:29:19] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[02:29:19] [Server thread/INFO]: [TPA] Disabling TPA v3.2.3
+[02:29:19] [Server thread/INFO]: [TPA] 插件已成功卸载！
+[02:29:19] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m] Disabling LagFixer v1.3.31 (build 95)[0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mErrorsManager[38;5;8m) [38;5;246m-> [38;5;15mDisabling manager...[0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mErrorsManager[38;5;8m) [38;5;246m-> [38;5;15mDisabled manager in [38;5;11m0ms[38;5;15m![0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mSupportManager[38;5;8m) [38;5;246m-> [38;5;15mDisabling manager...[0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mSupportManager[38;5;8m) [38;5;246m-> [38;5;15mDisabled manager in [38;5;11m0ms[38;5;15m![0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mConfigManager[38;5;8m) [38;5;246m-> [38;5;15mDisabling manager...[0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mConfigManager[38;5;8m) [38;5;246m-> [38;5;15mDisabled manager in [38;5;11m0ms[38;5;15m![0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mHookManager[38;5;8m) [38;5;246m-> [38;5;15mDisabling manager...[0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mHookManager[38;5;8m) [38;5;246m-> [38;5;15mDisabled manager in [38;5;11m0ms[38;5;15m![0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mMetricsManager[38;5;8m) [38;5;246m-> [38;5;15mDisabling manager...[0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mMetricsManager[38;5;8m) [38;5;246m-> [38;5;15mDisabled manager in [38;5;11m0ms[38;5;15m![0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mUpdaterManager[38;5;8m) [38;5;246m-> [38;5;15mDisabling manager...[0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mUpdaterManager[38;5;8m) [38;5;246m-> [38;5;15mDisabled manager in [38;5;11m0ms[38;5;15m![0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mModuleManager[38;5;8m) [38;5;246m-> [38;5;15mDisabling manager...[0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module LagMonitor in 0ms.[0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module WorldCleaner in 1ms.[0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module CustomAi in 0ms.[0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module InstantLeafDecay in 0ms.[0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module EntityLimiter in 1ms.[0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module CustomVehicles in 0ms.[0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Sucessfully disabled module RedstoneLimiter in 0ms.[0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mModuleManager[38;5;8m) [38;5;246m-> [38;5;15mDisabled manager in [38;5;11m2ms[38;5;15m![0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mCommandManager[38;5;8m) [38;5;246m-> [38;5;15mDisabling manager...[0m
+[02:29:19] [Server thread/INFO]: [[38;5;11m⚡[0m] [38;5;8m([38;5;11mCommandManager[38;5;8m) [38;5;246m-> [38;5;15mDisabled manager in [38;5;11m1ms[38;5;15m![0m
+[02:29:19] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.29
+[02:29:19] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[02:29:19] [Server thread/INFO]: Loaded 7 recipes
+[02:29:20] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[02:29:20] [Server thread/INFO]: Loaded 7 recipes
+[02:29:20] [Server thread/INFO]: [voicechat] Loading voicechat v2.5.29
+[02:29:20] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
+[02:29:20] [Server thread/INFO]: [TPA] Loading TPA v3.2.3
+[02:29:20] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
+[02:29:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:29:20] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[02:29:20] [Server thread/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
+[02:29:20] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[02:29:20] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.4[32;1m.[0;39m
+[02:29:21] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[02:29:21] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[02:29:21] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[02:29:21] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[02:29:21] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.29
+[02:29:21] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.16.4-R0.1
+[02:29:21] [Server thread/INFO]: [voicechat] Compatibility version 18
+[02:29:21] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[02:29:21] [Server thread/ERROR]: [voicechat] Simple Voice Chat does not support reloads! Expect that things will break!
+[02:29:21] [Server thread/INFO]: [TPA] Enabling TPA v3.2.3
+[02:29:21] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[02:29:21] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[02:29:21] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[02:29:21] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[02:29:21] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[02:29:21] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[02:29:21] [Server thread/INFO]: CONSOLE: Reload complete.
+[02:29:21] [Server thread/INFO]: Timings Reset
+[02:29:21] [Server thread/INFO]: [voicechat] Loading plugins
+[02:29:21] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[02:29:21] [Server thread/INFO]: [voicechat] Initializing plugins
+[02:29:21] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[02:29:21] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[02:29:21] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[02:29:21] [Craft Scheduler Thread - 21/INFO]: [TPA] 插件已成功加载！当前版本为：3.2.3
+[02:29:21] [Craft Scheduler Thread - 21/INFO]: [TPA] 正在检查更新...
+[02:29:21] [Craft Scheduler Thread - 21/INFO]: [TPA] 当前已是最新版本
+[02:29:21] [Craft Scheduler Thread - 32/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:29:21] [Craft Scheduler Thread - 32/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[02:29:21] [Craft Scheduler Thread - 32/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[02:29:21] [Craft Scheduler Thread - 32/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[02:29:21] [Craft Scheduler Thread - 32/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[02:29:21] [Craft Scheduler Thread - 32/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[02:29:21] [Craft Scheduler Thread - 32/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:29:21] [Craft Scheduler Thread - 32/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
+[02:29:21] [Craft Scheduler Thread - 32/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
+[02:29:21] [Craft Scheduler Thread - 32/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[02:29:21] [Craft Scheduler Thread - 32/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:29:21] [Craft Scheduler Thread - 32/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[02:29:21] [Craft Scheduler Thread - 32/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[02:29:39] [Server thread/INFO]: johanprodox lost connection: Disconnected
+[02:29:39] [Server thread/INFO]: [voicechat] Disconnecting client johanprodox
+[02:29:39] [Server thread/INFO]: johanprodox left the game
+[02:29:41] [User Authenticator #7/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
+[02:29:41] [Server thread/INFO]: johanprodox joined the game
+[02:29:41] [Server thread/INFO]: johanprodox[/127.251.51.31:54815] logged in with entity id 11523 at ([world]-1539.165951671213, 66.0, -1820.0858492551884)
+[02:29:41] [User Authenticator #6/INFO]: UUID of player kwimiii is 7bf8fa59-d927-3016-99c8-1175082e9d8e
+[02:29:41] [Server thread/INFO]: kwimiii joined the game
+[02:29:41] [Server thread/INFO]: kwimiii[/127.182.105.156:33707] logged in with entity id 11541 at ([world]-1297.9144740763527, 68.0, -1936.9644443010322)
+[02:30:03] [Server thread/INFO]: nicolas500701 has made the advancement [Into Fire]
+[02:30:26] [Server thread/WARN]: kwimiii was kicked due to keepalive timeout!
+[02:30:26] [Server thread/INFO]: kwimiii lost connection: Timed out
+[02:30:26] [Server thread/INFO]: [voicechat] Disconnecting client kwimiii
+[02:30:26] [Server thread/INFO]: kwimiii left the game
+[02:30:48] [Server thread/INFO]: GaccGamer issued server command: /tpa AngelMatias

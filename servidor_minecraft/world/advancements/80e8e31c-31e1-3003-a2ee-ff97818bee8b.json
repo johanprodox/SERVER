@@ -945,12 +945,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-04-12 02:24:57 +0000",
       "minecraft:skeleton": "2025-04-10 16:16:38 +0000",
       "minecraft:hoglin": "2025-04-11 02:53:05 +0000",
       "minecraft:spider": "2025-04-10 16:17:08 +0000",
       "minecraft:creeper": "2025-04-10 16:33:03 +0000",
       "minecraft:phantom": "2025-04-10 17:44:31 +0000",
       "minecraft:witch": "2025-04-12 02:08:32 +0000",
+      "minecraft:wither_skeleton": "2025-04-12 02:26:04 +0000",
       "minecraft:piglin": "2025-04-11 03:06:29 +0000",
       "minecraft:enderman": "2025-04-10 16:26:53 +0000",
       "minecraft:zombie": "2025-04-10 16:16:02 +0000"
@@ -1230,6 +1232,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-04-10 14:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-12 02:24:36 +0000"
     },
     "done": true
   },
@@ -1936,7 +1944,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-04-11 02:42:04 +0000",
       "minecraft:nether_wastes": "2025-04-11 02:34:33 +0000",
-      "minecraft:basalt_deltas": "2025-04-11 23:02:25 +0000"
+      "minecraft:basalt_deltas": "2025-04-11 23:02:25 +0000",
+      "minecraft:warped_forest": "2025-04-12 02:23:36 +0000"
     },
     "done": false
   },

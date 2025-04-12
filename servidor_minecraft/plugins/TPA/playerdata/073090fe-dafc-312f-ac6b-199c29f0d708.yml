@@ -2,19 +2,19 @@ player_name: nicolas500701
 language: en_US
 setlang: false
 last_location:
-  world: world
-  x: 1659.1929296885958
-  y: 65.92159999847412
-  z: -254.43423948547448
-  pitch: 10.839034
-  yaw: -121.15726
+  world: world_nether
+  x: 155.99887134293982
+  y: 53.0
+  z: 44.343062640152965
+  pitch: 27.861782
+  yaw: -276.88446
 logout_location:
-  world: world
-  x: 1804.5586395027572
-  y: 15.0
-  z: 206.90624454674446
-  pitch: 27.142387
-  yaw: -305.13794
+  world: world_nether
+  x: 223.13568727787458
+  y: 55.00133597911215
+  z: 45.131166131704695
+  pitch: 28.068445
+  yaw: -271.79138
 homes:
   default:
     world: world
