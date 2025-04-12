@@ -382,6 +382,7 @@
       "cooked_porkchop": "2025-04-11 22:19:12 +0000",
       "cooked_beef": "2025-04-11 21:40:22 +0000",
       "beef": "2025-04-11 21:36:01 +0000",
+      "baked_potato": "2025-04-12 04:04:22 +0000",
       "cooked_cod": "2025-04-12 03:09:39 +0000",
       "mutton": "2025-04-11 21:32:18 +0000",
       "bread": "2025-04-11 22:15:56 +0000",
@@ -556,6 +557,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-11 21:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-12 04:02:22 +0000"
     },
     "done": true
   },
@@ -917,8 +924,10 @@
     "criteria": {
       "minecraft:blaze": "2025-04-12 02:23:55 +0000",
       "minecraft:skeleton": "2025-04-11 21:35:56 +0000",
+      "minecraft:magma_cube": "2025-04-12 04:11:19 +0000",
       "minecraft:spider": "2025-04-11 21:41:10 +0000",
       "minecraft:creeper": "2025-04-11 21:44:37 +0000",
+      "minecraft:zombified_piglin": "2025-04-12 04:08:31 +0000",
       "minecraft:wither_skeleton": "2025-04-12 02:23:27 +0000",
       "minecraft:husk": "2025-04-11 21:41:16 +0000",
       "minecraft:cave_spider": "2025-04-11 21:50:47 +0000",
@@ -1538,6 +1547,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-04-12 02:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-04-12 04:02:22 +0000"
     },
     "done": true
   },

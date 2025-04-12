@@ -1511,6 +1511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-12 04:05:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-04-10 14:34:46 +0000"
@@ -2142,7 +2148,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-04-11 02:52:02 +0000",
-      "minecraft:soul_sand_valley": "2025-04-10 16:52:54 +0000"
+      "minecraft:soul_sand_valley": "2025-04-10 16:52:54 +0000",
+      "minecraft:nether_wastes": "2025-04-12 04:03:53 +0000",
+      "minecraft:basalt_deltas": "2025-04-12 04:06:14 +0000"
     },
     "done": false
   },
@@ -2161,6 +2169,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-04-10 19:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-12 04:05:53 +0000"
     },
     "done": true
   },
@@ -2251,6 +2265,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-04-10 14:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-12 04:05:08 +0000"
     },
     "done": true
   },

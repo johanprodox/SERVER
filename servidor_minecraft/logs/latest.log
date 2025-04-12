@@ -1135,3 +1135,41 @@ Caused by: java.lang.ClassNotFoundException: org.apache.commons.io.IOUtils
 [04:02:28] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
 [04:02:33] [Craft Scheduler Thread - 277/INFO]: nicolas500701
 [04:02:33] [Craft Scheduler Thread - 278/INFO]: nicolas500701
+[04:06:31] [Server thread/INFO]: nicolas500701 was slain by Zombified Piglin
+[04:06:35] [Server thread/INFO]: johanprodox issued server command: /homes
+[04:06:36] [Server thread/INFO]: johanprodox issued server command: /home default
+[04:06:41] [Craft Scheduler Thread - 283/INFO]: default
+[04:06:41] [Craft Scheduler Thread - 284/INFO]: default
+[04:06:52] [Server thread/INFO]: nicolas500701 issued server command: /tpa Stincvx
+[04:06:55] [Server thread/INFO]: Stincvx issued server command: /tpaccept
+[04:06:57] [Server thread/INFO]: rexer issued server command: /home hogar
+[04:07:00] [Craft Scheduler Thread - 283/INFO]: Stincvx
+[04:07:00] [Craft Scheduler Thread - 282/INFO]: Stincvx
+[04:07:02] [Craft Scheduler Thread - 284/INFO]: hogar
+[04:07:02] [Craft Scheduler Thread - 282/INFO]: hogar
+[04:07:37] [Server thread/INFO]: Stincvx withered away
+[04:07:45] [Server thread/INFO]: Stincvx issued server command: /tpa nicolas500701
+[04:07:47] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[04:08:14] [Server thread/INFO]: Stincvx issued server command: /tpa nicolas500701
+[04:08:16] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[04:08:21] [Craft Scheduler Thread - 290/INFO]: nicolas500701
+[04:08:21] [Craft Scheduler Thread - 292/INFO]: nicolas500701
+[04:08:40] [Server thread/INFO]: johanprodox issued server command: /homes
+[04:08:42] [Server thread/INFO]: johanprodox issued server command: /home default
+[04:08:47] [Craft Scheduler Thread - 292/INFO]: default
+[04:08:47] [Craft Scheduler Thread - 290/INFO]: default
+[04:10:10] [Server thread/INFO]: AngelMatias issued server command: /home anos
+[04:10:11] [Server thread/INFO]: AngelMatias issued server command: /home anos
+[04:10:18] [Server thread/INFO]: AngelMatias issued server command: /home anos
+[04:10:21] [Server thread/INFO]: AngelMatias issued server command: /home anos
+[04:10:23] [Server thread/INFO]: AngelMatias issued server command: /home anos
+[04:10:28] [Craft Scheduler Thread - 297/INFO]: anos
+[04:10:28] [Craft Scheduler Thread - 298/INFO]: anos
+[04:10:41] [Server thread/INFO]: Villager EntityVillager['Toolsmith'/58299, uuid='b2951a1d-5469-4224-be92-f5f1343fcda3', l='ServerLevel[world]', x=-2840.46, y=63.00, z=2017.59, cx=-178, cz=126, tl=46693, v=true, d=false] died, message: 'Toolsmith was slain by rexer'
+[04:11:22] [Server thread/INFO]: AngelMatias issued server command: /warp
+[04:11:36] [Server thread/INFO]: AngelMatias lost connection: Disconnected
+[04:11:36] [Server thread/INFO]: [voicechat] Disconnecting client AngelMatias
+[04:11:36] [Server thread/INFO]: AngelMatias left the game
+[04:11:56] [Server thread/INFO]: rexer issued server command: /home hogar
+[04:12:01] [Craft Scheduler Thread - 303/INFO]: hogar
+[04:12:01] [Craft Scheduler Thread - 304/INFO]: hogar

@@ -287,6 +287,7 @@
       "chicken": "2025-04-11 21:36:26 +0000",
       "cooked_mutton": "2025-04-11 22:54:08 +0000",
       "cooked_beef": "2025-04-11 22:09:17 +0000",
+      "baked_potato": "2025-04-12 04:02:11 +0000",
       "beetroot_soup": "2025-04-12 03:50:21 +0000",
       "apple": "2025-04-11 21:35:22 +0000",
       "potato": "2025-04-12 03:51:36 +0000",
@@ -310,6 +311,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-04-12 03:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-04-12 04:02:50 +0000"
     },
     "done": true
   },
@@ -520,6 +527,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-04-11 22:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-04-12 04:02:50 +0000"
     },
     "done": true
   },
@@ -1609,6 +1622,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-04-12 03:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-12 04:02:59 +0000"
     },
     "done": true
   },
