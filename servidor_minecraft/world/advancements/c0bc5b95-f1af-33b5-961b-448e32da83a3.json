@@ -322,6 +322,7 @@
       "cooked_porkchop": "2025-04-11 22:42:39 +0000",
       "beef": "2025-04-11 23:02:16 +0000",
       "bread": "2025-04-10 21:52:57 +0000",
+      "rotten_flesh": "2025-04-12 02:34:24 +0000",
       "carrot": "2025-04-12 02:14:30 +0000"
     },
     "done": false
@@ -1597,6 +1598,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-04-12 02:31:27 +0000",
       "minecraft:nether_wastes": "2025-04-11 23:06:36 +0000",
       "minecraft:warped_forest": "2025-04-12 02:23:04 +0000"
     },

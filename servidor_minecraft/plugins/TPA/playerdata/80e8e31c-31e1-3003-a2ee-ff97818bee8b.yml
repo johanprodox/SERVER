@@ -2,12 +2,12 @@ player_name: Kiwing
 language: es_ES
 setlang: false
 last_location:
-  world: world_nether
-  x: 216.46707046023943
-  y: 59.0
-  z: 191.01387359587474
-  pitch: 11.693792
-  yaw: 181.48659
+  world: world
+  x: 1781.6101466422258
+  y: 73.0
+  z: -243.51924590805473
+  pitch: 61.378864
+  yaw: -85.46002
 logout_location:
   world: world_nether
   x: 214.30000001192093

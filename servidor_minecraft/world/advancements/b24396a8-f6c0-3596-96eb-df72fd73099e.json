@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-12 02:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-11 22:39:58 +0000"
@@ -212,6 +218,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-04-11 22:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-12 02:34:55 +0000"
     },
     "done": true
   },
@@ -1212,6 +1224,7 @@
       "minecraft:snowy_mountains": "2025-04-11 22:53:36 +0000",
       "minecraft:forest": "2025-04-11 22:38:54 +0000",
       "minecraft:mountains": "2025-04-12 02:26:10 +0000",
+      "minecraft:taiga": "2025-04-12 02:29:21 +0000",
       "minecraft:snowy_tundra": "2025-04-11 22:53:21 +0000",
       "minecraft:frozen_river": "2025-04-11 22:53:19 +0000",
       "minecraft:snowy_beach": "2025-04-11 22:52:25 +0000",
