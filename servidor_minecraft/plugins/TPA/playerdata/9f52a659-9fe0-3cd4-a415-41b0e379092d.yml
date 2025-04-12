@@ -3,11 +3,11 @@ language: es_ES
 setlang: false
 last_location:
   world: world
-  x: -224.5
-  y: 64.5625
-  z: 4903.5
-  pitch: 0.0
-  yaw: -336.44968
+  x: -1975.699999988079
+  y: 73.0
+  z: -2140.699999988079
+  pitch: 42.29994
+  yaw: -8.104126
 logout_location:
   world: world_nether
   x: -148.9261868934839

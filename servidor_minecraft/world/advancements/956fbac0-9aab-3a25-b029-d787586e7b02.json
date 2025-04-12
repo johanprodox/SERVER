@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-12 22:00:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-04-10 16:31:06 +0000"
@@ -188,6 +194,12 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2025-04-12 02:34:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-12 22:00:43 +0000"
     },
     "done": true
   },
@@ -323,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-12 22:00:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 17:00:38 +0000"
@@ -385,6 +403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-12 20:56:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-04-10 16:17:52 +0000"
@@ -442,6 +466,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 17:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-12 22:00:43 +0000"
     },
     "done": true
   },
@@ -526,6 +556,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-10 16:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-12 22:00:43 +0000"
     },
     "done": true
   },
@@ -658,6 +694,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-04-10 15:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-12 22:00:43 +0000"
     },
     "done": true
   },
@@ -794,6 +836,7 @@
       "minecraft:spider": "2025-04-10 17:01:36 +0000",
       "minecraft:creeper": "2025-04-10 16:45:41 +0000",
       "minecraft:phantom": "2025-04-10 17:44:42 +0000",
+      "minecraft:witch": "2025-04-12 20:50:29 +0000",
       "minecraft:cave_spider": "2025-04-12 20:24:19 +0000",
       "minecraft:enderman": "2025-04-10 16:50:34 +0000",
       "minecraft:stray": "2025-04-12 04:09:55 +0000",
@@ -952,6 +995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-12 22:00:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-04-10 22:33:41 +0000"
@@ -985,6 +1034,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-10 16:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-12 22:00:43 +0000"
     },
     "done": true
   },
@@ -1096,6 +1151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-12 22:00:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_horse_armor": "2025-04-10 18:54:18 +0000"
@@ -1162,6 +1223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-12 22:00:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 17:00:38 +0000"
@@ -1171,6 +1238,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-04-10 16:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-12 22:00:43 +0000"
     },
     "done": true
   },
@@ -1336,6 +1409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-12 22:00:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2025-04-10 16:20:09 +0000"
@@ -1390,6 +1469,7 @@
       "minecraft:snowy_tundra": "2025-04-10 19:35:20 +0000",
       "minecraft:taiga_hills": "2025-04-11 22:08:08 +0000",
       "minecraft:desert": "2025-04-10 18:43:43 +0000",
+      "minecraft:frozen_river": "2025-04-12 20:50:24 +0000",
       "minecraft:snowy_beach": "2025-04-10 19:35:14 +0000",
       "minecraft:warm_ocean": "2025-04-10 21:56:43 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-10 21:58:13 +0000",
@@ -1579,6 +1659,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-04-12 20:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-12 22:00:43 +0000"
     },
     "done": true
   },

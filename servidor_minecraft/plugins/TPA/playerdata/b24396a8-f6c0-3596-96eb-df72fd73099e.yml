@@ -2,16 +2,16 @@ player_name: Nicolandix
 language: es_MX
 setlang: false
 last_location:
-  world: world_nether
-  x: -1051.5955213239438
-  y: 99.23152379758702
-  z: 1411.793012741113
-  pitch: 60.086605
-  yaw: 358.1497
+  world: world
+  x: -14598.344771952585
+  y: 64.92159999847412
+  z: 17367.65862584639
+  pitch: 88.78473
+  yaw: 130.75455
 logout_location:
   world: world
-  x: -6740.319429231449
-  y: 70.0
-  z: 8939.950485690746
-  pitch: 34.24929
-  yaw: 89.21301
+  x: -14599.436003173007
+  y: 69.0
+  z: 17398.121636066753
+  pitch: 41.085194
+  yaw: 129.26166
