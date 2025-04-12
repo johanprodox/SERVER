@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-12 03:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-12 01:51:35 +0000"
@@ -246,7 +252,8 @@
       "rotten_flesh": "2025-04-11 21:53:18 +0000",
       "cooked_rabbit": "2025-04-12 02:58:22 +0000",
       "cooked_chicken": "2025-04-11 21:41:42 +0000",
-      "cod": "2025-04-12 02:43:20 +0000"
+      "cod": "2025-04-12 02:43:20 +0000",
+      "cooked_salmon": "2025-04-12 03:22:27 +0000"
     },
     "done": false
   },
@@ -572,6 +579,12 @@
     },
     "done": false
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-12 03:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-04-12 01:50:17 +0000"
@@ -767,6 +780,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-04-11 21:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-12 03:21:21 +0000"
     },
     "done": true
   },
@@ -1162,6 +1181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-04-12 03:23:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-04-12 02:09:57 +0000"
@@ -1185,6 +1210,13 @@
       "has_planks": "2025-04-12 01:51:35 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-12 03:22:35 +0000",
+      "minecraft:warped_forest": "2025-04-12 03:22:41 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
