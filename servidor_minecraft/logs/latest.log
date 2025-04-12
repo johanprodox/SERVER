@@ -1230,3 +1230,32 @@ Caused by: java.lang.ClassNotFoundException: org.apache.commons.io.IOUtils
 [04:35:24] [Server thread/INFO]: nicolas500701 lost connection: Disconnected
 [04:35:24] [Server thread/INFO]: [voicechat] Disconnecting client nicolas500701
 [04:35:24] [Server thread/INFO]: nicolas500701 left the game
+[04:36:49] [Async Chat Thread - #21/INFO]: <Stincvx> oe
+[04:36:51] [Async Chat Thread - #21/INFO]: <rexer> q
+[04:36:55] [Async Chat Thread - #21/INFO]: <Stincvx> tienes 2 cabezas de wither?
+[04:37:00] [Async Chat Thread - #21/INFO]: <rexer> tengo 6
+[04:37:05] [Async Chat Thread - #21/INFO]: <Stincvx> pasa 2 p
+[04:37:07] [Async Chat Thread - #21/INFO]: <Stincvx> pa johan
+[04:37:08] [Async Chat Thread - #21/INFO]: <rexer> No
+[04:37:11] [Async Chat Thread - #21/INFO]: <Stincvx> :v
+[04:40:20] [Async Chat Thread - #22/INFO]: <rexer> anaya listo para tu excavadora de cuevas 300P?
+[04:40:28] [Async Chat Thread - #22/INFO]: <Stincvx> dile eso al admin
+[04:40:31] [Async Chat Thread - #22/INFO]: <Stincvx> tengo su proteccion
+[04:40:38] [Async Chat Thread - #22/INFO]: <Stincvx> fuite pe
+[04:40:54] [Async Chat Thread - #22/INFO]: <rexer> de quien tienes proteccion?
+[04:41:01] [Async Chat Thread - #22/INFO]: <Stincvx> del admin muchacho
+[04:42:02] [Async Chat Thread - #23/INFO]: <rexer> oe anaya me voy p
+[04:42:07] [Async Chat Thread - #23/INFO]: <Stincvx> chvere p
+[04:42:42] [Async Chat Thread - #23/INFO]: <rexer> chau y prepara ese culo anaya
+[04:42:46] [Async Chat Thread - #23/INFO]: <rexer> que esto recien empieza
+[04:42:49] [Async Chat Thread - #23/INFO]: <Stincvx> XDD
+[04:42:50] [Server thread/INFO]: rexer lost connection: Disconnected
+[04:42:50] [Server thread/INFO]: [voicechat] Disconnecting client rexer
+[04:42:50] [Server thread/INFO]: rexer left the game
+[04:43:10] [Server thread/INFO]: Stincvx issued server command: /homes
+[04:43:13] [Server thread/INFO]: Stincvx issued server command: /home
+[04:43:19] [Server thread/INFO]: Stincvx issued server command: /sethome
+[04:43:22] [Server thread/INFO]: Stincvx issued server command: /homes
+[04:43:38] [Server thread/INFO]: Stincvx issued server command: /tpa default
+[04:43:42] [Server thread/INFO]: Stincvx issued server command: /homes
+[04:43:45] [Server thread/INFO]: Stincvx issued server command: /home default
