@@ -1048,3 +1048,90 @@ Caused by: java.lang.ClassNotFoundException: org.apache.commons.io.IOUtils
 [03:53:55] [Server thread/INFO]: rexer joined the game
 [03:53:55] [Server thread/INFO]: rexer[/127.109.181.221:40061] logged in with entity id 52892 at ([world]1793.300000011921, 57.0, -244.62915573591556)
 [03:54:01] [Server thread/INFO]: nicolas500701 issued server command: /tpa GaccGamer
+[03:54:13] [Server thread/INFO]: nicolas500701 issued server command: /tpa GaccGamer
+[03:54:27] [Server thread/INFO]: nicolas500701 issued server command: /tpa GaccGamer
+[03:54:30] [Server thread/INFO]: GaccGamer issued server command: /tpaccept
+[03:54:35] [Craft Scheduler Thread - 244/INFO]: GaccGamer
+[03:54:35] [Craft Scheduler Thread - 245/INFO]: GaccGamer
+[03:54:49] [Server thread/INFO]: nicolas500701 has made the advancement [Cover Me With Diamonds]
+[03:55:56] [Server thread/INFO]: rexer lost connection: Login timed out!
+[03:55:56] [Server thread/INFO]: [voicechat] Disconnecting client rexer
+[03:55:56] [Server thread/INFO]: rexer left the game
+[03:56:01] [Server thread/INFO]: Stincvx has made the advancement [Who is Cutting Onions?]
+[03:56:12] [User Authenticator #35/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
+[03:56:12] [Server thread/INFO]: rexer joined the game
+[03:56:12] [Server thread/INFO]: rexer[/127.109.181.221:53971] logged in with entity id 53363 at ([world]1793.4462561627568, 57.0, -244.69999998807907)
+[03:56:29] [Server thread/INFO]: rexer lost connection: Disconnected
+[03:56:29] [Server thread/INFO]: [voicechat] Disconnecting client rexer
+[03:56:29] [Server thread/INFO]: rexer left the game
+[03:57:04] [User Authenticator #35/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
+[03:57:04] [Server thread/INFO]: rexer joined the game
+[03:57:04] [Server thread/INFO]: rexer[/127.109.181.221:42765] logged in with entity id 53850 at ([world]1793.500964215614, 57.0, -244.5986784612987)
+[03:57:09] [Server thread/INFO]: Stincvx issued server command: /tpa nicolas500701
+[03:57:11] [Server thread/INFO]: Nicolandix lost connection: Disconnected
+[03:57:11] [Server thread/INFO]: [voicechat] Disconnecting client Nicolandix
+[03:57:11] [Server thread/INFO]: Nicolandix left the game
+[03:57:17] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[03:57:22] [Craft Scheduler Thread - 255/INFO]: nicolas500701
+[03:57:22] [Craft Scheduler Thread - 254/INFO]: nicolas500701
+[03:57:42] [Server thread/INFO]: rexer issued server command: /home hogar
+[03:57:47] [Craft Scheduler Thread - 257/INFO]: hogar
+[03:57:47] [Craft Scheduler Thread - 256/INFO]: hogar
+[03:57:50] [Async Chat Thread - #19/INFO]: <rexer> me escape
+[03:57:54] [Server thread/INFO]: Stincvx has made the advancement [Into Fire]
+[03:57:55] [Async Chat Thread - #19/INFO]: <rexer> jajajaja
+[03:58:02] [Server thread/INFO]: johanprodox issued server command: /tpa rexer
+[03:58:07] [Server thread/INFO]: rexer issued server command: /tpaccept
+[03:58:12] [Craft Scheduler Thread - 258/INFO]: rexer
+[03:58:12] [Craft Scheduler Thread - 259/INFO]: rexer
+[03:58:18] [Async Chat Thread - #19/INFO]: <rexer> me escape mano
+[03:58:24] [Async Chat Thread - #19/INFO]: <Stincvx> chvere p
+[03:58:26] [Async Chat Thread - #19/INFO]: <GaccGamer> chvr p
+[03:58:29] [Async Chat Thread - #19/INFO]: <johanprodox> o pero no esta
+[03:58:34] [Async Chat Thread - #19/INFO]: <rexer> no mano
+[03:58:38] [Async Chat Thread - #19/INFO]: <rexer> son pndjos esos causa
+[03:58:40] [Async Chat Thread - #19/INFO]: <rexer> me escape
+[03:58:42] [Async Chat Thread - #19/INFO]: <rexer> esta es mi base
+[03:58:53] [Async Chat Thread - #19/INFO]: <johanprodox> asy
+[03:58:54] [Async Chat Thread - #19/INFO]: <johanprodox> asu
+[03:58:55] [Async Chat Thread - #19/INFO]: <GaccGamer> q si q si cobarde
+[03:58:57] [Async Chat Thread - #19/INFO]: <GaccGamer> p
+[03:59:08] [Async Chat Thread - #19/INFO]: <rexer> chvere gacc sin tus novias no puedes
+[03:59:17] [Async Chat Thread - #19/INFO]: <GaccGamer> q si mi runner
+[03:59:32] [Async Chat Thread - #19/INFO]: <rexer> oe johan ten
+[03:59:38] [Async Chat Thread - #19/INFO]: <johanprodox> ya me fui
+[03:59:40] [Server thread/INFO]: rexer issued server command: /home hogar
+[03:59:41] [Async Chat Thread - #19/INFO]: <rexer> a
+[03:59:45] [Craft Scheduler Thread - 263/INFO]: hogar
+[03:59:45] [Craft Scheduler Thread - 264/INFO]: hogar
+[03:59:46] [Async Chat Thread - #19/INFO]: <rexer> esto te envio tp
+[03:59:50] [Async Chat Thread - #19/INFO]: <johanprodox> ok
+[04:00:03] [Server thread/INFO]: johanprodox issued server command: /tpa rexer
+[04:00:06] [Server thread/INFO]: rexer issued server command: /tpaccept
+[04:00:06] [Server thread/INFO]: rexer issued server command: /tpaccept
+[04:00:10] [Async Chat Thread - #19/INFO]: <rexer> a xd
+[04:00:11] [Craft Scheduler Thread - 264/INFO]: rexer
+[04:00:11] [Craft Scheduler Thread - 266/INFO]: rexer
+[04:00:22] [Async Chat Thread - #19/INFO]: <rexer> hay ta
+[04:00:25] [Async Chat Thread - #19/INFO]: <johanprodox> aya p
+[04:00:27] [Async Chat Thread - #19/INFO]: <johanprodox> gracias
+[04:00:29] [Async Chat Thread - #19/INFO]: <rexer> ok
+[04:00:30] [Server thread/INFO]: johanprodox issued server command: /homes
+[04:00:32] [Async Chat Thread - #19/INFO]: <rexer> ire a minar
+[04:00:32] [Server thread/INFO]: johanprodox issued server command: /setdefaulthome default
+[04:00:33] [Server thread/INFO]: johanprodox issued server command: /home default
+[04:00:36] [Server thread/INFO]: johanprodox issued server command: /home default
+[04:00:43] [Server thread/INFO]: johanprodox issued server command: /home default
+[04:00:45] [Server thread/INFO]: GaccGamer lost connection: Disconnected
+[04:00:45] [Server thread/INFO]: [voicechat] Disconnecting client GaccGamer
+[04:00:45] [Server thread/INFO]: GaccGamer left the game
+[04:00:48] [Craft Scheduler Thread - 270/INFO]: default
+[04:00:48] [Craft Scheduler Thread - 269/INFO]: default
+[04:01:35] [Server thread/INFO]: rexer issued server command: /home hogar
+[04:01:40] [Craft Scheduler Thread - 272/INFO]: hogar
+[04:01:40] [Craft Scheduler Thread - 274/INFO]: hogar
+[04:02:22] [Server thread/INFO]: nicolas500701 has made the advancement [Spooky Scary Skeleton]
+[04:02:23] [Server thread/INFO]: Stincvx issued server command: /tpa nicolas500701
+[04:02:28] [Server thread/INFO]: nicolas500701 issued server command: /tpaccept
+[04:02:33] [Craft Scheduler Thread - 277/INFO]: nicolas500701
+[04:02:33] [Craft Scheduler Thread - 278/INFO]: nicolas500701
