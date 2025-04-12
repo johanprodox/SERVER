@@ -310,6 +310,7 @@
       "cooked_porkchop": "2025-04-10 22:05:37 +0000",
       "cooked_mutton": "2025-04-10 22:45:32 +0000",
       "cooked_beef": "2025-04-10 22:24:31 +0000",
+      "bread": "2025-04-12 01:31:11 +0000",
       "rotten_flesh": "2025-04-10 23:29:29 +0000"
     },
     "done": false
@@ -416,15 +417,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2025-04-10 23:31:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-04-10 23:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-10 23:31:02 +0000"
     },
     "done": true
   },
