@@ -243,7 +243,9 @@
       "mutton": "2025-04-11 21:36:20 +0000",
       "bread": "2025-04-12 01:56:38 +0000",
       "rotten_flesh": "2025-04-11 21:53:18 +0000",
-      "cooked_chicken": "2025-04-11 21:41:42 +0000"
+      "cooked_rabbit": "2025-04-12 02:58:22 +0000",
+      "cooked_chicken": "2025-04-11 21:41:42 +0000",
+      "cod": "2025-04-12 02:43:20 +0000"
     },
     "done": false
   },
@@ -454,6 +456,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-04-11 23:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-12 03:07:13 +0000"
     },
     "done": true
   },

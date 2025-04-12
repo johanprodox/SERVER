@@ -1270,6 +1270,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-04-10 22:12:31 +0000",
+      "minecraft:snowy_mountains": "2025-04-12 02:49:21 +0000",
       "minecraft:forest": "2025-04-10 15:40:14 +0000",
       "minecraft:mountains": "2025-04-10 16:02:10 +0000",
       "minecraft:taiga": "2025-04-10 22:12:13 +0000",

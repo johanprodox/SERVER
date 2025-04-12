@@ -9,9 +9,9 @@ last_location:
   pitch: 61.378864
   yaw: -85.46002
 logout_location:
-  world: world_nether
-  x: 214.30000001192093
-  y: 53.0
-  z: 118.30000001192093
-  pitch: 2.0126622
-  yaw: -77.26523
+  world: world
+  x: 1795.386335633153
+  y: 68.0
+  z: -240.73894932255521
+  pitch: 64.75593
+  yaw: 176.9512

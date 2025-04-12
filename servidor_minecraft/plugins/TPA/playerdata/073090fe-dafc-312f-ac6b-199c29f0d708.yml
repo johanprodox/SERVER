@@ -2,12 +2,12 @@ player_name: nicolas500701
 language: en_US
 setlang: false
 last_location:
-  world: world_nether
-  x: 244.19071733133097
-  y: 75.0
-  z: 29.189622320445885
-  pitch: 11.526883
-  yaw: -67.02927
+  world: world
+  x: 1735.699999988079
+  y: 68.0
+  z: -250.58327726639155
+  pitch: 14.060457
+  yaw: 277.70792
 logout_location:
   world: world
   x: 1791.3825421454615
