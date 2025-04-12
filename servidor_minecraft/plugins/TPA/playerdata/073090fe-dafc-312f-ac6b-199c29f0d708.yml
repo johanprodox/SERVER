@@ -3,11 +3,11 @@ language: en_US
 setlang: false
 last_location:
   world: world
-  x: 1735.699999988079
-  y: 68.0
-  z: -250.58327726639155
-  pitch: 14.060457
-  yaw: 277.70792
+  x: 1369.9913452448338
+  y: 11.0
+  z: -935.7366428836788
+  pitch: 27.448246
+  yaw: 142.18707
 logout_location:
   world: world
   x: 1785.6621008103657
@@ -17,9 +17,9 @@ logout_location:
   yaw: 358.19678
 homes:
   default:
-    world: world_nether
-    x: 219.53742428182906
-    y: 76.0
-    z: 30.702251136931057
-    pitch: 6.460699
-    yaw: -166.90552
+    world: world
+    x: 1375.3218749644197
+    y: 16.0
+    z: -934.111516630311
+    pitch: 22.381578
+    yaw: 119.75067

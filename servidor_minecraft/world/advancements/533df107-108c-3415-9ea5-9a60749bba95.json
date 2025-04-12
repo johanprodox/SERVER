@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-04-12 03:50:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-04-11 21:30:26 +0000"
@@ -275,6 +281,7 @@
       "chicken": "2025-04-11 21:36:26 +0000",
       "cooked_mutton": "2025-04-11 22:54:08 +0000",
       "cooked_beef": "2025-04-11 22:09:17 +0000",
+      "beetroot_soup": "2025-04-12 03:50:21 +0000",
       "apple": "2025-04-11 21:35:22 +0000",
       "mutton": "2025-04-11 21:36:20 +0000",
       "pufferfish": "2025-04-12 03:13:31 +0000",
@@ -1363,8 +1370,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-04-12 03:48:55 +0000",
       "minecraft:nether_wastes": "2025-04-12 03:22:35 +0000",
-      "minecraft:warped_forest": "2025-04-12 03:22:41 +0000"
+      "minecraft:warped_forest": "2025-04-12 03:22:41 +0000",
+      "minecraft:basalt_deltas": "2025-04-12 03:45:43 +0000"
     },
     "done": false
   },

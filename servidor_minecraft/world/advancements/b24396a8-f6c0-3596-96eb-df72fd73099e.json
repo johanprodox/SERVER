@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-12 03:51:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-04-11 22:41:10 +0000"
@@ -338,6 +344,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-11 22:45:55 +0000",
+      "cooked_mutton": "2025-04-12 03:42:32 +0000",
       "cooked_beef": "2025-04-12 01:55:48 +0000",
       "mutton": "2025-04-12 02:13:03 +0000",
       "bread": "2025-04-12 02:07:59 +0000",
@@ -469,6 +476,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-11 23:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-12 03:51:34 +0000"
     },
     "done": true
   },
@@ -796,6 +809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-12 03:51:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-12 03:15:55 +0000"
@@ -822,6 +841,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-12 03:47:09 +0000",
       "minecraft:hoglin": "2025-04-12 03:18:12 +0000",
       "minecraft:magma_cube": "2025-04-12 03:35:09 +0000",
       "minecraft:spider": "2025-04-11 23:05:36 +0000",
@@ -1105,6 +1125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-12 03:51:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-04-11 22:52:43 +0000"
@@ -1315,6 +1341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-12 03:51:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-11 22:39:19 +0000"
@@ -1330,6 +1362,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-04-11 23:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-12 03:47:09 +0000"
     },
     "done": true
   },
@@ -1750,7 +1788,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-04-12 03:15:45 +0000",
-      "minecraft:nether_wastes": "2025-04-12 03:07:57 +0000"
+      "minecraft:nether_wastes": "2025-04-12 03:07:57 +0000",
+      "minecraft:soul_sand_valley": "2025-04-12 03:45:15 +0000"
     },
     "done": false
   },
