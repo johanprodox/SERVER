@@ -1012,11 +1012,13 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-10 19:12:48 +0000",
       "minecraft:hoglin": "2025-04-10 18:14:38 +0000",
+      "minecraft:magma_cube": "2025-04-12 22:11:15 +0000",
       "minecraft:piglin_brute": "2025-04-10 17:08:00 +0000",
       "minecraft:spider": "2025-04-10 19:12:24 +0000",
       "minecraft:creeper": "2025-04-10 19:27:48 +0000",
       "minecraft:phantom": "2025-04-12 02:10:12 +0000",
       "minecraft:piglin": "2025-04-11 03:05:07 +0000",
+      "minecraft:stray": "2025-04-12 22:25:55 +0000",
       "minecraft:zombie": "2025-04-10 19:06:09 +0000",
       "minecraft:zombie_villager": "2025-04-10 19:12:01 +0000"
     },
@@ -1043,6 +1045,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-04-10 16:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-12 22:03:55 +0000"
     },
     "done": true
   },
@@ -1199,6 +1207,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-04-10 16:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-04-12 22:03:32 +0000"
     },
     "done": true
   },
@@ -2146,7 +2160,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-04-10 16:55:07 +0000",
-      "minecraft:nether_wastes": "2025-04-10 16:46:48 +0000"
+      "minecraft:nether_wastes": "2025-04-10 16:46:48 +0000",
+      "minecraft:soul_sand_valley": "2025-04-12 22:07:55 +0000",
+      "minecraft:basalt_deltas": "2025-04-12 22:07:48 +0000"
     },
     "done": false
   },
