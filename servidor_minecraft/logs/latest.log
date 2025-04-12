@@ -80,3 +80,101 @@
 [19:54:29] [Server thread/INFO]: LinenFeather949 joined the game
 [19:54:29] [Server thread/INFO]: LinenFeather949[/127.252.230.227:37673] logged in with entity id 1352 at ([world]-1125.6210282163847, 68.0, -2192.2101522230273)
 [19:55:04] [Server thread/INFO]: LinenFeather949 has made the advancement [Ice Bucket Challenge]
+[19:57:55] [User Authenticator #3/INFO]: UUID of player AngelMatias is 956fbac0-9aab-3a25-b029-d787586e7b02
+[19:57:55] [Server thread/INFO]: AngelMatias joined the game
+[19:57:55] [Server thread/INFO]: AngelMatias[/127.218.61.44:54087] logged in with entity id 2684 at ([world]-7000.985959901144, 63.0, -5274.698726974916)
+[19:58:35] [User Authenticator #3/INFO]: UUID of player Stincvx is 533df107-108c-3415-9ea5-9a60749bba95
+[19:58:35] [Server thread/INFO]: Stincvx joined the game
+[19:58:35] [Server thread/INFO]: Stincvx[/127.108.28.65:42975] logged in with entity id 3320 at ([world]1768.780547737799, 62.0, -171.30000001192093)
+[19:59:44] [User Authenticator #4/INFO]: UUID of player GaccGamer is bd6bea69-789c-3177-9f27-011b5d1f17ab
+[19:59:44] [Server thread/INFO]: GaccGamer joined the game
+[19:59:44] [Server thread/INFO]: GaccGamer[/127.125.12.20:40855] logged in with entity id 4324 at ([world]1794.7300218673258, 60.0, -242.61954138400836)
+[20:00:06] [Async Chat Thread - #0/INFO]: <Stincvx> gacc llevate unbarco
+[20:00:11] [Async Chat Thread - #0/INFO]: <GaccGamer> ya tengo
+[20:00:15] [Async Chat Thread - #0/INFO]: <Stincvx> ya
+[20:00:17] [Async Chat Thread - #0/INFO]: <Stincvx> vamos a minar?
+[20:00:24] [Async Chat Thread - #0/INFO]: <GaccGamer> no p
+[20:00:28] [Async Chat Thread - #0/INFO]: <GaccGamer> yo ire a la base p
+[20:00:33] [Async Chat Thread - #0/INFO]: <Stincvx> ya bn
+[20:00:38] [Async Chat Thread - #0/INFO]: <GaccGamer> no tienes aldeanos
+[20:00:41] [Async Chat Thread - #0/INFO]: <Stincvx> si p
+[20:00:45] [Async Chat Thread - #0/INFO]: <Stincvx> ve a las cords q mande en dc
+[20:00:49] [Async Chat Thread - #0/INFO]: <GaccGamer> ok
+[20:01:03] [Async Chat Thread - #0/INFO]: <GaccGamer> cual cords XD
+[20:01:39] [User Authenticator #5/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
+[20:01:39] [Server thread/INFO]: johanprodox joined the game
+[20:01:39] [Server thread/INFO]: johanprodox[/127.251.51.31:51983] logged in with entity id 5519 at ([world]-1199.699999988079, 62.84163367832167, -1936.1478368575417)
+[20:01:42] [Async Chat Thread - #0/INFO]: <LinenFeather949> p
+[20:02:42] [Async Chat Thread - #0/INFO]: <GaccGamer> espera
+[20:02:43] [Server thread/INFO]: GaccGamer issued server command: /homes
+[20:02:44] [Server thread/INFO]: GaccGamer issued server command: /home default
+[20:02:47] [Server thread/INFO]: GaccGamer issued server command: /home default
+[20:02:52] [Craft Scheduler Thread - 43/INFO]: default
+[20:02:52] [Craft Scheduler Thread - 42/INFO]: default
+[20:03:38] [Server thread/INFO]: GaccGamer issued server command: /tpa Stincvx
+[20:03:41] [Server thread/INFO]: Stincvx issued server command: /tpaccept
+[20:03:46] [Craft Scheduler Thread - 48/INFO]: Stincvx
+[20:03:46] [Craft Scheduler Thread - 45/INFO]: Stincvx
+[20:03:54] [Async Chat Thread - #1/INFO]: <Stincvx> tienesu n pico?
+[20:03:59] [Async Chat Thread - #1/INFO]: <GaccGamer> no
+[20:04:28] [Server thread/INFO]: GaccGamer issued server command: /tpa AngelMatias
+[20:04:31] [Server thread/INFO]: AngelMatias issued server command: /tpaccept
+[20:04:36] [Craft Scheduler Thread - 51/INFO]: AngelMatias
+[20:04:36] [Craft Scheduler Thread - 50/INFO]: AngelMatias
+[20:04:58] [Server thread/INFO]: johanprodox lost connection: Disconnected
+[20:04:58] [Server thread/INFO]: [voicechat] Disconnecting client johanprodox
+[20:04:58] [Server thread/INFO]: johanprodox left the game
+[20:05:16] [Server thread/INFO]: Banned johanprodox: Banned by an operator.
+[20:05:50] [Server thread/INFO]: rexer issued server command: /tell LinenFeather949 a que capa aparece la netherite?
+[20:06:08] [Server thread/INFO]: LinenFeather949 issued server command: /tell rexer en esta version nose
+[20:06:17] [Server thread/INFO]: rexer issued server command: /tell LinenFeather949 a ok
+[20:07:45] [Server thread/INFO]: AngelMatias issued server command: /tpa Stincvx
+[20:07:48] [Server thread/INFO]: Stincvx issued server command: /tpaccept
+[20:07:53] [Craft Scheduler Thread - 56/INFO]: Stincvx
+[20:07:53] [Craft Scheduler Thread - 57/INFO]: Stincvx
+[20:08:12] [Async Chat Thread - #2/INFO]: <AngelMatias> tengo
+[20:08:44] [Server thread/INFO]: AngelMatias issued server command: /w Stincvx toma
+[20:09:28] [Server thread/INFO]: AngelMatias issued server command: /w Stincvx si tengpo
+[20:09:39] [Server thread/INFO]: Villager EntityVillager['Farmer'/2690, uuid='5035c997-7c6f-46b4-b4f3-7cb9c774f642', l='ServerLevel[world]', x=-7026.52, y=62.94, z=-5259.30, cx=-440, cz=-329, tl=261380, v=true, d=false] died, message: 'Farmer was slain by Zombie'
+[20:09:47] [Server thread/INFO]: rexer issued server command: /home hogar
+[20:09:52] [Craft Scheduler Thread - 62/INFO]: hogar
+[20:09:52] [Craft Scheduler Thread - 63/INFO]: hogar
+[20:10:00] [Server thread/INFO]: AngelMatias issued server command: /w GaccGamer si
+[20:10:11] [Async Chat Thread - #3/INFO]: <rexer> uy gacc y este portal?
+[20:10:13] [Server thread/INFO]: Villager EntityVillager['Farmer'/2691, uuid='03bd8aaf-b457-4eba-91ef-f2a5a15d4f0c', l='ServerLevel[world]', x=-7020.36, y=63.00, z=-5267.35, cx=-439, cz=-330, tl=262210, v=true, d=false] died, message: 'Farmer was slain by Zombie'
+[20:10:20] [Async Chat Thread - #3/INFO]: <GaccGamer> cual portal
+[20:10:37] [Async Chat Thread - #3/INFO]: <rexer> al nether bro
+[20:10:43] [Async Chat Thread - #3/INFO]: <GaccGamer> ns
+[20:10:44] [Async Chat Thread - #3/INFO]: <rexer> uy justo en una base
+[20:11:13] [Async Chat Thread - #3/INFO]: <rexer> bueno si no es de nadie supongo que las cosas que estan hay no son de nadie no?
+[20:11:13] [Async Chat Thread - #3/INFO]: <GaccGamer> creo q esa base la deje
+[20:11:21] [Async Chat Thread - #3/INFO]: <GaccGamer> ns
+[20:11:23] [Async Chat Thread - #3/INFO]: <LinenFeather949> oigan
+[20:11:33] [Async Chat Thread - #3/INFO]: <LinenFeather949> quieren q haga una granja de xp pa todos?
+[20:13:02] [Async Chat Thread - #4/INFO]: <GaccGamer> oe epa dayron
+[20:13:04] [Async Chat Thread - #4/INFO]: <rexer> q
+[20:13:10] [Async Chat Thread - #4/INFO]: <GaccGamer> es una aldea?
+[20:13:28] [Async Chat Thread - #4/INFO]: <rexer> la base que encontre?
+[20:13:36] [Async Chat Thread - #4/INFO]: <GaccGamer> si pes
+[20:13:39] [Async Chat Thread - #4/INFO]: <rexer> ns bro
+[20:13:50] [Async Chat Thread - #4/INFO]: <rexer> igual ya lotie todo lo que habia
+[20:13:50] [Async Chat Thread - #4/INFO]: <GaccGamer> a ya no es mio p
+[20:14:02] [Async Chat Thread - #4/INFO]: <rexer> bno igual p
+[20:14:07] [Async Chat Thread - #4/INFO]: <rexer> habia diamantes en sus cofres
+[20:14:14] [Async Chat Thread - #4/INFO]: <GaccGamer> ala
+[20:14:20] [Async Chat Thread - #4/INFO]: <GaccGamer> ni son mios oe
+[20:14:26] [Async Chat Thread - #4/INFO]: <rexer> y habia un dick XD
+[20:14:33] [Async Chat Thread - #4/INFO]: <LinenFeather949> de madera?
+[20:14:36] [Async Chat Thread - #4/INFO]: <rexer> si
+[20:14:39] [Async Chat Thread - #4/INFO]: <GaccGamer> XD
+[20:14:42] [Async Chat Thread - #4/INFO]: <LinenFeather949> xd
+[20:14:42] [Async Chat Thread - #4/INFO]: <rexer> hice otro de piedra
+[20:14:43] [Async Chat Thread - #4/INFO]: <LinenFeather949> es mio
+[20:14:48] [Async Chat Thread - #4/INFO]: <LinenFeather949> pero los diamantes no
+[20:14:53] [Async Chat Thread - #4/INFO]: <rexer> bno no se p
+[20:14:57] [Async Chat Thread - #4/INFO]: <rexer> igual me lo quedo
+[20:15:04] [Server thread/INFO]: AngelMatias issued server command: /w Stincvx en la lava
+[20:15:42] [Server thread/INFO]: LinenFeather949 has made the advancement [Take Aim]
+[20:16:49] [User Authenticator #6/INFO]: UUID of player Nicolandix is b24396a8-f6c0-3596-96eb-df72fd73099e
+[20:16:49] [Server thread/INFO]: Nicolandix joined the game
+[20:16:49] [Server thread/INFO]: Nicolandix[/127.251.51.31:55789] logged in with entity id 14311 at ([world]-6740.319429231449, 70.0, 8939.950485690746)

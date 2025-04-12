@@ -421,7 +421,8 @@
       "beef": "2025-04-10 15:58:10 +0000",
       "apple": "2025-04-10 20:55:41 +0000",
       "bread": "2025-04-10 16:44:57 +0000",
-      "cooked_salmon": "2025-04-10 17:15:38 +0000"
+      "cooked_salmon": "2025-04-10 17:15:38 +0000",
+      "carrot": "2025-04-12 20:03:25 +0000"
     },
     "done": false
   },
@@ -1982,6 +1983,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-04-10 16:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-12 20:03:22 +0000"
     },
     "done": true
   },
