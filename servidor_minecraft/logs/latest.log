@@ -833,3 +833,57 @@ Caused by: java.lang.ClassNotFoundException: org.apache.commons.io.IOUtils
 [03:12:07] [Server thread/INFO]: Stincvx issued server command: /listo
 [03:12:09] [Async Chat Thread - #10/INFO]: <Stincvx> listo
 [03:12:14] [Async Chat Thread - #10/INFO]: <Stincvx> ya lo puse
+[03:12:27] [Server thread/INFO]: AngelMatias issued server command: /w Stincvx ahi va la lava
+[03:12:56] [Server thread/INFO]: nicolas500701 lost connection: Disconnected
+[03:12:56] [Server thread/INFO]: [voicechat] Disconnecting client nicolas500701
+[03:12:56] [Server thread/INFO]: nicolas500701 left the game
+[03:14:04] [User Authenticator #18/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
+[03:14:04] [Server thread/INFO]: rexer joined the game
+[03:14:05] [Server thread/INFO]: rexer[/127.109.181.221:60249] logged in with entity id 38289 at ([world]1793.3486471770125, 57.0, -244.69999998807907)
+[03:14:22] [Server thread/INFO]: Nicolandix has made the advancement [Oh Shiny]
+[03:16:05] [Server thread/INFO]: rexer lost connection: Login timed out!
+[03:16:05] [Server thread/INFO]: [voicechat] Disconnecting client rexer
+[03:16:05] [Server thread/INFO]: rexer left the game
+[03:16:09] [User Authenticator #19/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
+[03:16:09] [Server thread/INFO]: rexer joined the game
+[03:16:09] [Server thread/INFO]: rexer[/127.109.181.221:35825] logged in with entity id 38894 at ([world]1793.6259401599075, 57.0, -244.69999998807907)
+[03:16:56] [Server thread/WARN]: patroclo (vehicle of kwimiii) moved wrongly! 0.48676244710009087
+[03:16:56] [Server thread/WARN]: patroclo (vehicle of kwimiii) moved wrongly! 1.0226263335573549
+[03:16:56] [Server thread/WARN]: patroclo (vehicle of kwimiii) moved wrongly! 1.56168100738887
+[03:16:56] [Server thread/WARN]: patroclo (vehicle of kwimiii) moved wrongly! 2.1043765806348347
+[03:16:56] [Server thread/WARN]: patroclo (vehicle of kwimiii) moved wrongly! 2.6506052102051854
+[03:16:56] [Server thread/WARN]: patroclo (vehicle of kwimiii) moved wrongly! 3.1988042761627185
+[03:16:56] [Server thread/WARN]: patroclo (vehicle of kwimiii) moved wrongly! 3.7480576833447685
+[03:16:56] [Server thread/WARN]: patroclo (vehicle of kwimiii) moved wrongly! 4.29779527910523
+[03:16:56] [Server thread/WARN]: patroclo (vehicle of kwimiii) moved wrongly! 4.847167394370899
+[03:18:10] [Server thread/INFO]: rexer lost connection: Login timed out!
+[03:18:10] [Server thread/INFO]: [voicechat] Disconnecting client rexer
+[03:18:10] [Server thread/INFO]: rexer left the game
+[03:18:14] [User Authenticator #20/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
+[03:18:15] [Server thread/INFO]: rexer joined the game
+[03:18:15] [Server thread/INFO]: rexer[/127.109.181.221:59893] logged in with entity id 39343 at ([world]1793.499512444254, 57.0, -244.69999998807907)
+[03:18:25] [User Authenticator #20/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
+[03:18:25] [Server thread/INFO]: johanprodox joined the game
+[03:18:25] [Server thread/INFO]: johanprodox[/127.251.51.31:57717] logged in with entity id 39373 at ([world]-1280.0573583297992, 72.0, -1952.725147471735)
+[03:18:44] [Server thread/INFO]: johanprodox issued server command: /msg volvi p
+[03:19:00] [Async Chat Thread - #11/INFO]: <johanprodox> o
+[03:19:11] [Async Chat Thread - #11/INFO]: <johanprodox> JSAJSJAJSJAJ
+[03:19:37] [Server thread/INFO]: Nicolandix has made the advancement [Those Were the Days]
+[03:20:02] [Async Chat Thread - #11/INFO]: <johanprodox> no hay madera
+[03:20:03] [Server thread/INFO]: AngelMatias issued server command: /w GaccGamer dc
+[03:20:11] [Async Chat Thread - #11/INFO]: <kwimiii> no
+[03:20:14] [Async Chat Thread - #11/INFO]: <johanprodox> XD
+[03:20:15] [Server thread/INFO]: rexer lost connection: Login timed out!
+[03:20:15] [Server thread/INFO]: [voicechat] Disconnecting client rexer
+[03:20:15] [Server thread/INFO]: rexer left the game
+[03:20:19] [User Authenticator #21/INFO]: UUID of player rexer is 24d6588a-5a18-3368-9736-0ffbd660cf61
+[03:20:19] [Server thread/INFO]: rexer joined the game
+[03:20:19] [Server thread/INFO]: rexer[/127.109.181.221:51455] logged in with entity id 39775 at ([world]1793.414503665299, 57.0, -244.42342453190722)
+[03:21:12] [Async Chat Thread - #11/INFO]: <AngelMatias> afk
+[03:21:20] [Server thread/INFO]: rexer lost connection: Disconnected
+[03:21:20] [Server thread/INFO]: [voicechat] Disconnecting client rexer
+[03:21:20] [Server thread/INFO]: rexer left the game
+[03:22:13] [Server thread/INFO]: kwimiii lost connection: Timed out
+[03:22:13] [Server thread/INFO]: [voicechat] Disconnecting client kwimiii
+[03:22:13] [Server thread/INFO]: kwimiii left the game
+[03:22:35] [Server thread/INFO]: Stincvx has made the advancement [We Need to Go Deeper]

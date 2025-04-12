@@ -10,11 +10,11 @@ last_location:
   yaw: 277.70792
 logout_location:
   world: world
-  x: 1791.3825421454615
+  x: 1785.6621008103657
   y: 72.0
-  z: -238.35546400717635
-  pitch: 42.466057
-  yaw: 89.949646
+  z: -243.08570988270876
+  pitch: 17.83248
+  yaw: 358.19678
 homes:
   default:
     world: world_nether
