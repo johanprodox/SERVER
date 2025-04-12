@@ -2,12 +2,12 @@ player_name: Stincvx
 language: en_US
 setlang: false
 last_location:
-  world: world_nether
-  x: 314.9728048978715
-  y: 59.0
-  z: 171.57536353353402
-  pitch: 14.999999
-  yaw: 61.71049
+  world: world
+  x: 1788.5
+  y: 72.0
+  z: -237.5
+  pitch: 0.0
+  yaw: -348.62378
 logout_location:
   world: world
   x: 1795.699999988079
