@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-12 01:59:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-10 21:48:26 +0000"
@@ -263,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-12 01:57:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-04-11 23:08:57 +0000"
@@ -309,7 +321,8 @@
     "criteria": {
       "cooked_porkchop": "2025-04-11 22:42:39 +0000",
       "beef": "2025-04-11 23:02:16 +0000",
-      "bread": "2025-04-10 21:52:57 +0000"
+      "bread": "2025-04-10 21:52:57 +0000",
+      "carrot": "2025-04-12 02:14:30 +0000"
     },
     "done": false
   },
@@ -454,6 +467,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-04-11 22:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-12 01:59:48 +0000"
     },
     "done": true
   },
@@ -803,6 +822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-12 01:57:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-10 21:49:46 +0000"
@@ -941,6 +966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-12 01:59:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-04-10 21:49:49 +0000"
@@ -1058,6 +1089,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-11 22:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-12 01:57:48 +0000"
     },
     "done": true
   },
@@ -1367,6 +1404,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-12 01:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-12 02:03:07 +0000"
     },
     "done": true
   },

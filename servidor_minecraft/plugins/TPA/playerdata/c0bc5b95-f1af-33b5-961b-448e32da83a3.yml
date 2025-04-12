@@ -3,11 +3,11 @@ language: es_ES
 setlang: false
 last_location:
   world: world
-  x: 1712.5190589708948
-  y: 64.92159999847412
-  z: -257.1966899866229
-  pitch: 13.909343
-  yaw: 50.627502
+  x: 1783.9583917203122
+  y: 71.92159999847412
+  z: -241.573875342386
+  pitch: 11.421867
+  yaw: 107.445885
 logout_location:
   world: world
   x: -226.4906068269724
