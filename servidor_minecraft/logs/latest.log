@@ -178,3 +178,26 @@
 [20:16:49] [User Authenticator #6/INFO]: UUID of player Nicolandix is b24396a8-f6c0-3596-96eb-df72fd73099e
 [20:16:49] [Server thread/INFO]: Nicolandix joined the game
 [20:16:49] [Server thread/INFO]: Nicolandix[/127.251.51.31:55789] logged in with entity id 14311 at ([world]-6740.319429231449, 70.0, 8939.950485690746)
+[20:18:54] [Async Chat Thread - #5/INFO]: <AngelMatias> tengo
+[20:20:13] [User Authenticator #7/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
+[20:20:13] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4b5aea5e[id=b93a90b6-9cda-3e37-b79c-ce24bbaadf6f,name=johanprodox,properties={textures=[com.mojang.authlib.properties.Property@16c859ee]},legacy=false] (/127.251.51.31:35107): You are banned from this server.
+Reason: Banned by an operator.
+[20:20:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@4b5aea5e[id=b93a90b6-9cda-3e37-b79c-ce24bbaadf6f,name=johanprodox,properties={textures=[com.mojang.authlib.properties.Property@16c859ee]},legacy=false] (/127.251.51.31:35107) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[20:20:17] [Server thread/INFO]: Unbanned johanprodox
+[20:20:21] [User Authenticator #7/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
+[20:20:21] [Server thread/INFO]: johanprodox joined the game
+[20:20:21] [Server thread/INFO]: johanprodox[/127.251.51.31:51111] logged in with entity id 17792 at ([world]-1281.5682777085958, 72.0, -1952.4016263573747)
+[20:22:57] [Async Chat Thread - #6/INFO]: <rexer> alguien tiene esto reparacion o fortuna?
+[20:22:59] [Async Chat Thread - #6/INFO]: <AngelMatias> 15 ?
+[20:23:04] [Async Chat Thread - #6/INFO]: <LinenFeather949> no
+[20:23:42] [Async Chat Thread - #6/INFO]: <AngelMatias> un poco mas de mina
+[20:23:54] [Async Chat Thread - #6/INFO]: <AngelMatias> uuuu
+[20:24:08] [Async Chat Thread - #6/INFO]: <AngelMatias> AAA
+[20:24:13] [Async Chat Thread - #6/INFO]: <AngelMatias> xd
+[20:26:16] [Server thread/INFO]: johanprodox lost connection: Disconnected
+[20:26:16] [Server thread/INFO]: [voicechat] Disconnecting client johanprodox
+[20:26:16] [Server thread/INFO]: johanprodox left the game
+[20:27:50] [User Authenticator #8/INFO]: UUID of player johanprodox is b93a90b6-9cda-3e37-b79c-ce24bbaadf6f
+[20:27:50] [Server thread/INFO]: johanprodox joined the game
+[20:27:50] [Server thread/INFO]: johanprodox[/127.251.51.31:55319] logged in with entity id 25434 at ([world]-1130.300000011921, 80.0, -2039.1742213512603)
